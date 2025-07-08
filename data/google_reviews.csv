@@ -1,0 +1,1828 @@
+,hellodata_id,property,rating,count_reviews
+0,6e5256e0-849d-5a84-9c81-cb31867fcf50,Cortland Arbor Hills,4.6,276.0
+1,1edb9eb9-d11f-5669-9a6f-d38fc3596bcb,Bentley Place,3.4,174.0
+2,6d982bf0-0364-54a2-a444-89e0adf7a802,Windsor Mustang Park,4.3,214.0
+3,7c1316ae-f9c7-5ba9-b41c-b846e4ed0ae3,Carrington Park,4.0,353.0
+4,6bd69a20-800e-5726-afe3-718919066c2c,Colonnade at Willow Bend,4.0,179.0
+5,4935b0ba-068a-5a0f-a3a5-68aab94d0a05,AMLI West Plano,4.3,131.0
+6,5cc71dee-505e-5242-ba95-81d6fd75da18,Avenues at Carrollton,3.5,210.0
+7,1ba810d8-9022-5034-86c0-90219e365e88,Villas at Legacy,3.8,261.0
+8,1d6034ec-d0f8-550c-ab23-1e56c86e91b0,Essence North Dallas,4.0,467.0
+9,f333c096-d6a0-5005-870d-243380381915,Allure North Dallas,3.8,481.0
+10,fcea4516-79bd-5176-afd2-550e3621137e,Cortland One Twenty One,4.4,336.0
+11,955cbdee-e73d-5610-9ee7-7009b40614e2,Cortland Las Colinas,4.5,562.0
+12,5773bec3-6694-5efe-86f7-5afd42a78494,Promenade at Las Colinas,3.6,191.0
+13,01ff6126-f9bd-51cc-a308-8a941d142710,Crest at Las Colinas Station,3.7,229.0
+14,5624c867-f529-5eed-8553-4132a63ebca1,Eastshore on Lake Carolyn,4.4,239.0
+15,9f65b2c2-e003-5848-9f3d-e3f908584b55,801 Lasco,3.9,206.0
+16,f976fbfa-9d4a-56d3-a3f3-c204bcbca3f2,The Cayman Las Colinas,4.4,205.0
+17,04f8d774-423c-5f26-870b-91467db00289,MAA Bella Casita,4.2,257.0
+18,88790c6f-57d8-588d-81e1-12fe9557b1a2,Cambridge at Hickory Hollow,4.3,265.0
+19,8515151d-bbed-51da-89ae-ad64201ab132,The Ravelle at Ridgeview,4.3,77.0
+20,71340d39-de3c-5fbf-9f01-9fb17e97c0e0,Avana Overlook,3.5,322.0
+21,e51fc4b6-fdf2-5c82-9578-f97a39bfd798,Novo Hickory Highlands,4.6,48.0
+22,58615bec-db72-5c11-b99d-a725ddcbc6e3,Preakness Apartments,3.9,333.0
+23,57d68e10-0a41-58c9-be62-be87d5be667e,The Stockwell Apartments,3.4,345.0
+24,c047b8d7-0246-59b0-957a-459b9d581949,Waterford Crossings,4.5,596.0
+25,d57bea89-0ff5-5bd2-9f1c-7e435fe59137,Mainstead at Century Farms Apartments,4.0,117.0
+26,9cf4021b-8ce9-59b8-8a11-271f69e65667,Lyric on Bell,3.4,271.0
+27,c77ecaa8-9cfe-57be-a7a5-c0a903e5eec8,Cortland Galleria,4.4,332.0
+28,40802ae3-afcb-54ad-81ef-89277c8120de,Layers Galleria,3.7,159.0
+29,a283b313-84d6-57dd-8a08-8bada7181426,Prairie Crossing,3.5,283.0
+30,6cdac7e5-c006-5386-9643-b86963d37745,Alvista Galleria,3.7,121.0
+31,2f69e194-e796-5f01-9975-56ffc7d40dc0,VV&M Apartments,3.9,311.0
+32,8c473b8d-20c6-5126-ad75-b5c3a9062abc,Cornell Midtown,3.8,207.0
+33,030f1cb6-93f1-5606-93e1-cb2ef24b7901,Windsor By The Galleria,4.3,319.0
+34,8db69402-5cc8-5e45-85d1-22734d7b9ade,Cleo Luxury Apartments,3.9,300.0
+35,22e4003c-1532-5673-b81e-624258d13800,Luxia Gallery House,3.7,501.0
+36,8f4a4aa1-c5eb-5904-92cb-a83bfd99511d,Midway Urban Village,4.1,135.0
+37,ca66edf3-4a33-502a-8105-53cdec300e01,Hazel by the Galleria,4.4,232.0
+38,e531a698-fb92-5298-895b-e84bd4d0e79b,Verona by Palladium,4.2,43.0
+39,13babd1f-42eb-5332-8572-67aaff7e321d,Midway Row House,4.0,66.0
+40,78b169e6-03c6-523f-806a-3f3036380e76,Cortland at the Nations,4.5,170.0
+41,4899ff4e-92db-59f5-bc43-9baf2d246374,Rye Charlotte Ave,4.7,66.0
+42,e5baf6ee-746b-5783-a8a0-bcb8506b7a10,MAA Charlotte Ave,4.2,196.0
+43,85071ebf-2149-5ae9-8756-62285f63d425,The Shay Apartments,4.5,128.0
+44,19f236f5-72f7-5a70-adfb-e07ffcee778c,Margaux Midtown,4.3,63.0
+45,8ef1cffe-173c-5737-b9f9-f0ade771ce0e,2700 Charlotte Ave Apartments,4.1,78.0
+46,3fd2b4ed-9a01-5c9e-9f15-091c7e2d5621,Broadstone Centennial,4.9,75.0
+47,8dc75331-297e-53ed-bb3a-7f1364283a4b,Abberly Foundry Apartment Homes,4.8,100.0
+48,a7c69c19-17e2-5b56-b4d8-126566ca4fbc,Livano Nations,4.5,31.0
+49,ce302411-a8a1-56ee-9ae8-19d39f8c8eb2,The Union Apartments,4.5,109.0
+50,b9e2cdff-c8d8-56a9-bbcf-916cc98db492,Bexley Silo Bend,4.7,100.0
+51,e9a6e387-72d9-5146-af12-ec7482e626fe,Cortland Seventy Seven,4.3,364.0
+52,b6ccc206-a181-53e3-994f-3384f1281142,Tyvola Centre Apartments,3.7,259.0
+53,e5765e49-fa5d-5c37-8a69-182c39bb63b0,Cottonwood Reserve,3.8,173.0
+54,92858746-ce82-5365-a6f2-a70a579defc4,Ansley Falls Apartment Homes,3.3,204.0
+55,9c65ddae-eaf6-5935-8170-e07a62455b20,Stone Ridge,3.4,198.0
+56,9c81cacd-e718-51fa-bfbb-e077b8b62465,The Addison at South Tryon,4.2,520.0
+57,064743f6-535e-5dcf-b508-2c3887b97e36,Parkside at South Tryon,3.3,187.0
+58,e55ea47f-c9ec-5f8e-8e6c-0f715529697c,Gramercy Square at Ayrsley,4.5,101.0
+59,d6c073d3-dee7-5e5c-890b-e2201d9079a4,Coffey Creek,3.4,197.0
+60,ea6716f5-6498-5366-9320-f2b26359ca5b,Citra Luxe,3.2,307.0
+61,390e9348-1eb3-56ee-ad22-b0d93b54b4de,Beacon Hill,3.5,350.0
+62,5ea7a10c-1da5-558f-b40a-06365aa1455d,Rise Sunridge,3.2,66.0
+63,030fe880-7acb-5acf-83fd-e65b39b26791,Cortland Whitehall,4.3,252.0
+64,35cfb356-44d7-5fdd-a81e-b183f3f98872,Whitehall Parc,3.9,195.0
+65,0e5a9542-9097-52a5-9bba-f2b49890004b,Sonderly at the Concourse,4.4,46.0
+66,178d3a18-ca07-582d-b779-83486c87d52f,Pringle Square,3.8,167.0
+67,a648e440-f22c-5d24-a18d-05ca2ce3d54a,Mosby Steele Creek,3.3,62.0
+68,20628d5d-45ef-5a08-bf13-e31103e882ed,Vesta City Park Apartments,4.0,136.0
+69,d8b48c42-806c-5a35-b5fd-c34dd533d95f,Haven at Rivergate,4.1,123.0
+70,55087df9-69b4-5d2d-9d0d-7ab87e8cea5c,Axis Berewick,4.6,25.0
+71,310b4333-2179-57b6-9d48-3bb3dabb4b83,Berewick Pointe Apartments,3.8,175.0
+72,73365c5d-3af0-5934-8362-bd9e15bb97bb,Indigo at Berewick,4.1,58.0
+73,46334295-e952-53c9-9706-9bf6f328b073,Cortland Addison Circle,4.5,351.0
+74,fa5fdba4-e3e4-5eb9-a266-b733c74d3e1b,AMLI Addison,4.3,175.0
+75,6860a0ff-5071-5f25-838f-d9e138ccd3b9,Allegro,3.4,196.0
+76,bce6a515-9f02-59e0-80a6-808b787f053a,MAA Addison Circle,3.6,483.0
+77,63479af3-eee1-54c3-b829-c3a5fb336a25,Addison Keller Springs,4.1,416.0
+78,06cfb85c-bb18-5580-9ea0-40036ded28f0,Berkshire Auburn,4.3,279.0
+79,d61eeec4-4838-5dc1-b092-7e661bc5a141,Keller Springs Crossing,4.0,324.0
+80,80235722-38b7-52db-afc2-4ddcdf0aa370,IMT Prestonwood,4.4,348.0
+81,0d800dae-d506-588a-a853-b850c7ce82e0,Jewel on Landmark,4.0,502.0
+82,5ad192c2-53f8-5cd4-b82f-e55dc41edf4e,Cortland Allen Station,4.6,394.0
+83,f1eca59d-5a3d-5789-90a3-2afdc01db711,The Link at Twin Creeks,4.1,129.0
+84,cb4cfa92-3a75-55fe-82a1-1d549e4c61cc,The Carson at Twin Creeks,4.0,425.0
+85,5ac88d81-54ec-5885-b541-b825781e233d,Magnolia on the Green,4.5,237.0
+86,ac8a32ed-4069-5216-9e52-b676b6e73018,Inkwell Watters Creek,4.5,332.0
+87,c0b57060-ff89-5bfb-badb-c0946e4e41f9,Watterscape Urban Residential,4.1,134.0
+88,485d7f4f-d4b0-5951-b268-e5c55f930105,Axis at Watters Creek,4.4,202.0
+89,05c825a4-48c5-540b-98ff-0665bfc285fa,The Montgomery at Watters Creek,4.3,230.0
+90,72d9fe0f-19d5-5bc0-9609-8c35a000d50c,Twin Creeks Crossing,3.8,404.0
+91,faabfd32-5b29-5409-bb28-d9edbf98569e,Kinstead,4.3,148.0
+92,00fde857-a768-59db-99bf-22326284f87a,The Addison at Sandy Springs,3.3,195.0
+93,3231e964-8217-592d-b431-bfbaf2649776,Marquis at Perimeter Center,4.1,225.0
+94,09f00129-ffc1-54c1-b157-c1733e110d99,Spalding Bridge,3.5,173.0
+95,4910f5aa-2923-5862-925d-8dbcf9e7c7fd,Veridian at Sandy Springs,3.0,250.0
+96,32e12cf5-ca58-5a19-b8a5-d2b642b2c2cd,Dunwoody Crossing,3.8,198.0
+97,46a6861d-bddc-5750-940d-f75e53156c4e,Aqua at Sandy Springs,3.3,234.0
+98,0543014f-55b2-57bc-882c-3befdac24edb,Dunwoody Pointe,3.3,154.0
+99,4eef65fd-3b99-5a47-9860-d444e91a17b8,Glen Lake,3.1,98.0
+100,71b4dfbd-300e-532c-a938-337dfedb0282,Morgans Landing,4.2,172.0
+101,6d22484a-f9cf-57cf-a5e6-b335e288813b,The Atlantic North Springs,2.7,217.0
+102,cd2340f9-bb16-5d4d-9c53-7e90ed58e590,ARIUM Morgan Falls,3.2,485.0
+103,0247da4e-fa26-5359-b359-545625c7dafb,Wesley St. James Apartments at Sandy Springs,4.0,317.0
+104,edd83639-e2d6-565c-b7be-6f01cbe5cbe3,Dunwoody Ridge,3.3,121.0
+105,2d1e43a1-4aef-5b27-a498-d7b15359593a,Randolph Perimeter,3.0,582.0
+106,0e08c80f-fe6a-58ed-b823-ee9ee3ff271d,1000 Spalding,4.0,187.0
+107,5aa1d445-782e-5b5f-aadc-4a94dc1918b1,The Reserve at Ridgewood,3.3,252.0
+108,71631422-835a-53aa-89b8-1cbaed2a167c,Aventura Dunwoody,3.5,193.0
+109,f7c28538-4447-5077-98ef-a2d6c16216eb,The Adair Apartment Homes,4.2,155.0
+110,74ad8c26-f0bd-5765-bd74-7ff10e64dbdd,The Carlyle at Perimeter,3.6,173.0
+111,bb57acae-f4c1-5161-b677-ef69fb07dffd,Celebration at Sandy Springs,3.9,348.0
+112,6f2fc1cc-c4dd-5542-bbc0-e869132eb995,Hawthorne Gates,3.5,127.0
+113,1f2b0646-d052-50d5-8a92-a7549ebaec0a,Tramore Village,4.0,190.0
+114,23482159-ff8f-5db0-bc1c-d89ff0a2dbd9,Chroma Park Apartments,3.7,379.0
+115,cf1e0570-0d45-5272-8b26-b803d56182b1,Alta Mill Apartments,4.1,324.0
+116,f7526b10-8961-50d6-ae64-ad69e2f65a04,Forest Glen,3.8,472.0
+117,2e762ccd-6c5b-5a5a-be3b-69afebdc260f,Crestmark Apartment Homes,3.5,170.0
+118,422a56f4-55e6-596b-8081-97bfb672ff0d,Ivy Commons,4.0,172.0
+119,12ed45e0-362a-510a-8910-4d98514e565d,670 Thornton,2.8,164.0
+120,506ac933-584f-53fe-bacf-c0ccb944f54b,Birch Landing Apartments,4.0,546.0
+121,3d9efecf-2220-599b-85f6-5a08486918cf,Cortland at Armour Yards,4.0,576.0
+122,5366ad64-6015-5844-9554-df4edb064da1,Gables Midtown,3.4,298.0
+123,4612d51d-8e54-5ed0-8d3f-11592b7ec6a4,MAA Brookwood,3.8,442.0
+124,17abeda0-5f7b-5d94-970a-a783f1f08ad9,The Peninsula at Buckhead,4.1,553.0
+125,1e0c04ca-3ce6-553d-bd89-31575bf88728,Willowest in Lindbergh,3.8,492.0
+126,f2be7698-9240-5fa8-b511-bd6e00d42ec4,AMLI Piedmont Heights,4.0,274.0
+127,9e572997-464f-5733-a7fe-1efb655bbd6e,Core at Lindbergh,3.1,325.0
+128,007149b9-e73f-59dc-9571-67676b841dae,Newbergh ATL,3.7,155.0
+129,b3660a97-a45b-5d7f-9293-230cb5679fab,Avana Cheshire Bridge,4.2,473.0
+130,ae5ea285-8e62-528a-8be1-d19697446261,MAA Peachtree Hills,4.1,299.0
+131,eba6f2f5-3ada-501d-95e5-a97d7e812724,Optimist Lofts,3.3,208.0
+132,9c630651-66e2-5ef4-8316-418974c677c0,Cortland Woodlands,3.7,426.0
+133,78f5937e-348e-5216-b926-8223c4080e57,Stratford Ridge,3.7,924.0
+134,5dcde7a3-c514-56fb-a861-c96949d00888,Arbors at East Cobb,3.5,496.0
+135,5814bb61-f174-5cb8-b3c2-b3742fc1786d,Westminster Square,3.8,194.0
+136,5e519bab-559e-5457-8084-8cf49caa7a27,Elme Marietta,3.8,438.0
+137,f08a4d27-5c96-5a6d-a3d5-5a8b4b06ed76,The Park at Vinings,4.2,590.0
+138,0ba9c8f9-12a7-511f-8ce3-28431f2c6fb9,Wildwood Ridge Apartments,4.1,519.0
+139,0aefa4af-c840-51ff-8a7c-df9c0134b230,Forest Ridge at Terrell Mill,3.6,548.0
+140,c6714383-c4e2-5b0d-9be1-42e3c0d8a0fd,Rosemont Bentley,4.0,547.0
+141,fae937d3-e41c-5f8c-a129-327bc9d237a8,Rosemont Vinings Ridge,3.8,241.0
+142,2b41c486-dc2b-5817-b0d8-92961d1b3853,Gables Mill,3.4,310.0
+143,62ce925f-b989-533f-ad62-5b8689f9d432,Marketplace Village,3.9,255.0
+144,b4e0f733-3008-5948-b39f-521f4c90e883,Mill House at East Cobb Apartment Homes,4.6,300.0
+145,ed19e9ef-a3af-5e8a-a928-43d032916f6f,Lex Alpharetta,4.6,196.0
+146,f9989439-a48c-5b84-8c82-4c3070461358,Wood Bridge Apartments,3.7,195.0
+147,350b505a-be87-54bc-830b-eb4ec4694a97,Woodhaven at Park Bridge,4.7,359.0
+148,cbc651db-9ec0-5b23-981a-7ad7a997c527,2200 Big Creek Apartments,4.0,151.0
+149,d0a10358-6b1f-539a-9e9c-b53605027709,Lakeside at Milton Park,4.1,114.0
+150,f2523ab7-53a5-58da-8fe8-33546d193da6,Collingwood Apartments,4.0,221.0
+151,79c43014-9d0d-5196-b746-8d0ebd2a8ac2,IMT Alpharetta,4.3,340.0
+152,a973e1c6-3364-558d-8de6-53a5a20c0874,North Park Estates,3.0,212.0
+153,410057d0-434f-56fb-9701-624889d7b95f,Belmont at Park Bridge Apartments,3.8,251.0
+154,1e38a6f3-d285-54bd-a391-6f43e6c5ba91,Cortland Windward,4.2,204.0
+155,f5a73143-381b-5ab2-8bf4-c6e732da34a7,IMT Stoneleigh at Deerfield,4.5,381.0
+156,54a20553-3899-507f-8dd4-e1b762239a30,Bell Alpharetta,4.3,495.0
+157,61d542a5-c335-5db4-9ed9-cd2448d7982b,Webb Bridge Crossing,3.7,89.0
+158,726fd3fb-0c9f-5472-90ba-b1d122e8291b,Walton Bluegrass,4.7,85.0
+159,f5a73143-381b-5ab2-8bf4-c6e732da34a7,IMT Stoneleigh at Deerfield,4.5,381.0
+160,14a05b74-5bf5-57ac-a309-155f625615a8,Cortland Sugarloaf,4.4,359.0
+161,8666cfa1-907f-593a-b522-f5aa125e883e,Halston Riverside,3.4,303.0
+162,77de4852-76f5-5a39-aaae-8de61e5e669b,UPGRADED The Preserve at Legacy Park,4.1,229.0
+163,068d956e-2d45-59e3-aad7-2cd561787a52,Holland Park,3.9,291.0
+164,f1e59f9f-dc6c-5571-94e2-00e7a8afac75,Merritt at Sugarloaf,3.5,216.0
+165,8cc898d6-5a15-55e9-be44-92e6345cba3c,MAA Prescott,4.0,265.0
+166,51612ab4-00e4-5f4c-944a-9aa260ccb1ff,MAA McDaniel Farm,4.3,409.0
+167,2134a075-781e-53ed-ad30-ff45f3f05a61,Sugarloaf Summit,4.1,323.0
+168,cf7c95a1-6449-5a57-8b68-f30fb14868d5,Cortland Duluth,4.4,890.0
+169,26e49be0-d9c2-575a-8e3a-34a92dedcdf4,The Asher at Sugarloaf,4.2,331.0
+170,83afca96-99d8-5991-9320-06a78572f5be,Sugarloaf Grove,4.5,117.0
+171,9db4d72a-12bf-5ff6-9e9f-80957de891c1,The Edison Sugarloaf Apartments,4.2,267.0
+172,8744f6b2-fac3-55c0-9811-793dfa095119,1760 Apartments,4.2,262.0
+173,2cd9b7bd-489d-5ce7-b9b6-6ab7eace44a5,Attiva Peachtree,4.8,97.0
+174,1b027c7c-4d68-5f8c-83f4-bc6951c6c8fc,The Deco at 5211,3.7,291.0
+175,a2f7cba3-b637-5af5-b71e-6ddd16d3c5a8,The Keswick,4.3,174.0
+176,9b2fe34f-2bac-5bd6-97c6-1c2b88c04fde,The Oliver Chamblee,4.2,195.0
+177,71d9def4-c7cd-5a25-8925-3ddb0b185696,Hearthside Brookleigh - Adults 62+,4.4,17.0
+178,c21aa0aa-2b2d-59ff-a309-c73b257ec0e0,Overture Buckhead South 55+ Apartment Homes,4.6,56.0
+179,b11e3ff3-073e-552a-8f0b-c2cf1f4f36ae,Veranda at Assembly,5.0,15.0
+180,15c8e5bd-64a7-5c99-934d-8f7def4079f8,Overture Powers Ferry 55+ Active Adult Apa,4.4,33.0
+181,c141b538-4905-5b4b-bc22-ea348a6f5a52,Everleigh Duluth 55+ Active Adult Apartmen,4.3,40.0
+182,d91f478b-987b-5c0a-9239-eba815b90d1c,Annabelle on Main 55+ Active Adult Apartme,4.8,95.0
+183,0d343bd4-ffc1-5bb1-a6e9-7c22f3ca1f09,Alta Porter on Peachtree,4.9,322.0
+184,fdb3e158-b687-5292-bf87-e24064264ac3,Emblem Alpharetta,4.4,75.0
+185,ee0eefaf-59c7-5f75-b0e9-17c018a1c9b8,Everleigh Halcyon Village,4.6,38.0
+186,db56dc40-ba4c-5d55-9e62-acadd72ac9e1,Cortland on Ponce,4.6,189.0
+187,6bf94fbc-6224-5d77-8333-40c5058f2c2e,Arlo Decatur Apartments,4.3,246.0
+188,6f54e3b7-33b0-5429-a0f9-540b2f9e2116,Abberly Onyx Apartment Homes,4.5,122.0
+189,9967191a-3216-5d6c-a115-28446c7c5ac2,1133 on the Square,4.5,162.0
+190,0638d722-7929-5781-864f-9904c8e7742b,Inkwell Decatur,4.0,91.0
+191,0ca6b2ce-0a8a-5ffc-b392-1732b199a10d,AMLI Decatur,4.4,80.0
+192,493978f9-9f87-58dd-ab18-95d1b6d3c8e8,Willis Avondale Estates Apartments,4.5,136.0
+193,f8edc682-2779-5467-bdbd-567cb08211b8,Modera Decatur,3.9,48.0
+194,980eb3cc-5c05-5f5e-9fbe-9d4633425266,Connect Decatur,4.8,20.0
+195,786a6af1-d338-5ded-96cf-300881c45801,The Jade at Avondale,4.3,149.0
+196,4d498831-335e-52e6-ab3e-a4845b1fd345,Cortland Viridian,4.4,356.0
+197,9469a211-c4ee-524d-9eba-2a94f3255610,Elme Druid Hills,3.9,393.0
+198,162846c3-52c2-5607-a5cb-6a29b53cef3e,Rock Springs Village,3.9,314.0
+199,f55163b9-94b0-52cc-8fe4-a588bdaa50e4,Meadow Lake Cha-z,,
+200,24bcfa5a-155a-58bf-ba4c-e4889dd1629f,Cortland 3131,4.8,265.0
+201,aee903b4-4ce6-5fd3-9cbc-87c55b00a0ff,Marq at Brookhaven,4.5,480.0
+202,af4125af-c4ed-504d-8c31-43b747542b84,Camden St. Clair,4.1,284.0
+203,48b810af-61f7-51ff-8dee-95d38c720fa9,The Dakota at Druid Hills,4.1,170.0
+204,d1b78870-7ff9-5a43-a6e2-903f4d31cbda,Clairmont Reserve Apartment Homes,3.7,132.0
+205,a45fbd3a-d631-5814-9f9d-4e8cb896ca0b,Gables Montclair,3.4,109.0
+206,db82e421-9806-5305-a3db-6f4c1bab31af,Cortland Peachtree Battle,4.1,137.0
+207,fbea7025-5a87-5fa4-9006-b93e146820c9,Alexan Buckhead Village,4.2,194.0
+208,cae58290-3764-5b57-a9db-2206c15cc5ba,Elle of Buckhead,4.2,147.0
+209,6dc7566c-dc56-5eca-b127-e938468c5efd,Bell Buckhead West,4.4,293.0
+210,e1722590-f282-5c56-bad3-fcadfdeafd7d,Aster Buckhead,3.4,171.0
+211,5e367b28-d02d-5a60-9df4-12156f604d40,Venue Brookwood Apartments,3.8,204.0
+212,73687beb-5625-5196-adaf-8c03a9b0598a,Windsor Morningside,4.1,292.0
+213,999628e8-bfed-5dc3-9a20-0e2bb5cf282c,The Monroe Atlanta,4.7,121.0
+214,fb8db3d2-7b2e-5d7b-8eca-acb5bd8078fe,92 West Paces,4.7,157.0
+215,322a2f93-79b9-5c6d-89c4-b846b4800c3a,Marquis at Buckhead,4.5,269.0
+216,bab3d93a-781c-5f84-a105-4ac3fc290c30,Mark at West Midtown,4.5,494.0
+217,aacc8213-c620-5e92-9e7b-05e9d66b3140,Hanover Buckhead Village,4.8,1041.0
+218,daf30f2e-30d6-5d8a-baed-40cd2fbfe67e,The Bryant at Buckhead Village,4.5,314.0
+219,6871cf0c-b75a-5ef6-a26a-9589700fb1f2,Skyhouse Buckhead,3.8,249.0
+220,d766aa4d-2945-5c29-9103-10692bf95e07,Cyan On Peachtree,4.2,481.0
+221,8aafbdbb-57ec-5fbe-818c-fceec12b9c59,Gentry,3.9,136.0
+222,55903a47-6c1d-5038-bccd-e38e4497fd08,Modera Old Ivy,4.6,173.0
+223,8fcc9e67-6132-57be-9205-23d32daf2cc9,Cortland Oleander,4.6,555.0
+224,ca3f3645-37dc-581a-9264-5e0a19879dd7,Bryn House,4.5,144.0
+225,b6bfdb86-06bf-5f0a-b77e-20c822820b81,Bellamy Executive Park,4.8,137.0
+226,fa3ec4e4-88f7-5150-ac84-bedc76a36726,Centra at North Druid Hills,4.7,474.0
+227,9fd4d66f-1f9b-5f80-b895-b2708de7f64b,Abberly Skye Apartment Homes,4.2,183.0
+228,f6ad61ad-5bba-5869-8155-490411584c79,AMLI Buckhead,4.0,221.0
+229,5e14abbc-9314-5a45-8ad0-33369a9f399b,MAA Briarcliff,4.2,528.0
+230,d0ffaabe-6d00-52a4-b5b9-c3670e24477f,Lumen Briarcliff,4.0,68.0
+231,3c5ad98b-e55c-5da4-89d2-9649ff597b41,Briarcliff Apartments,3.4,196.0
+232,a4292ec4-a997-56ba-9471-13a74fa1ad1d,LaVista Crossing,3.1,159.0
+233,2350160c-2a23-5016-a0f1-474648ec0efa,The Five @ North Decatur,3.3,229.0
+234,caec7594-eae9-53a4-9ac5-f998659897af,Ansley Forest,4.4,34.0
+235,92b96e2a-f216-54cf-8b20-7c9945adbac7,The Arbors at Breckinridge Apartment Homes,4.4,741.0
+236,49932427-abec-5e76-8d2a-9852a9f533ba,Reflections on Sweetwater Apartments,3.9,294.0
+237,f8da5284-2516-5afd-a53a-f23da80208d2,Breckinridge Vue,4.2,504.0
+238,c015dbf2-fc1d-52b6-a517-ba974ca4ecc0,Anzio,,
+239,e60ac059-9721-5918-9512-22cf3fd67817,Wesley Place Apartments at Lawrenceville,3.6,235.0
+240,73be866f-eeba-5ae2-af63-0f21c8df2a9e,The Crest at Sugarloaf,3.7,348.0
+241,17ca9aea-286f-51d2-bb16-f6a85b16446d,Constellation Park,4.8,33.0
+242,180a5ff7-47af-52bd-933a-467e8ec12033,Cortland at the Village,4.5,1098.0
+243,705d7b3f-84f7-59df-b24c-29b77cf8047b,The Preserve at Terrell Mill Apartments,3.2,504.0
+244,acfc5dfa-8bb2-59ed-bfbd-6f96971c17c8,Park on Windy Hill,3.9,1285.0
+245,fa8b9796-28ec-5cb5-ae83-61d3549d499d,The Alcove,4.3,498.0
+246,874e9618-4c19-5f70-8dd3-3193cab55fb0,Grandstand,3.5,935.0
+247,9fdc9744-d0de-59b3-a6b9-a1f3208c387e,Residences at Vinings Mountain,3.8,677.0
+248,66cb90e3-7151-5f08-868b-5feee0c61804,WestHaven At Vinings,4.0,1060.0
+249,4736243e-f877-5a08-847c-e00396ae187f,Rockledge Apartments,3.5,504.0
+250,95cb805f-60cb-58bc-9bab-298ec4978015,MAA Spring,4.0,275.0
+251,52bbf6b2-887d-528a-94f7-8c02aa26c218,Walton on the Chattahoochee,4.2,372.0
+252,7a9732bf-6ff7-5ed9-8f1d-192f8e3cefca,400 Belmont,4.0,199.0
+253,472f251e-5cf3-51e6-bd1c-1ebd52b1e2df,Avonlea Square,4.4,144.0
+254,6d0e3c78-d0ff-5c61-b11c-0d0bd255bc75,The Berkshires at Vinings,4.6,256.0
+255,d56dd985-0785-5747-8b66-2b6ef013eea1,The Springs at Peachtree Corners,3.0,349.0
+256,81790360-5c87-544b-ab77-a7e983d025cb,Dunwoody Glen,4.2,1136.0
+257,0e8fc68e-40a2-512f-aaad-b77a4214c831,Windsor Peachtree Corners,4.0,532.0
+258,3d530fbc-ed97-5b18-a80d-0211112ac89e,Rosemont Peachtree Corners,3.8,410.0
+259,6a949c36-862c-5330-b662-c5d9b974ba55,Norcross Crossing,2.7,169.0
+260,c839e3f1-b721-5622-9914-2b33f3cb97c8,Reserve at Peachtree Corners,2.9,260.0
+261,cd2e8ffb-0c98-5e34-9206-ddd0cafe06ed,ARIUM Winters Chapel,3.6,482.0
+262,ca7a870c-5bdd-5ce5-91d5-d5a50c8706b8,Avenues at Holcomb Bridge,3.5,386.0
+263,d23cdc95-4f6a-5b74-a5a3-7dc06b9c1c32,Cortland Holcomb Bridge,4.5,199.0
+264,b0af7e88-cea3-5258-af7e-7742661f1cf2,Cortland Peachtree Corners,4.4,288.0
+265,9165f7f5-45a6-5813-8207-e72fcb420fdb,The Clara by Broadstone,4.5,57.0
+266,b2c6f6b9-8c53-5a29-9edd-8fc52fe67ed6,Broadstone Peachtree Corners,4.6,166.0
+267,e43066b8-e612-549e-a4ac-9e1143b39764,Park Trace Apartments,4.3,191.0
+268,5814dd97-cd41-5745-a34d-60897805f179,Corners at 1700,4.2,627.0
+269,8a16a328-7ff4-5bcc-8dc8-775f478a9c04,Retreat at River Park,4.1,153.0
+270,43060151-a08f-5392-aedf-3781459f7c74,Spaulding Hills,4.1,89.0
+271,7b9ba1f8-14dd-54ac-b004-32f50d12cc50,Station Heights,4.2,322.0
+272,93b78d69-cb4f-512d-acb1-3c8feede6e40,Elliot Roswell Apartments,3.4,295.0
+273,075752ee-356d-5782-992b-7e63b841b5b3,Lake House at Martin's Landing,3.6,310.0
+274,08927e00-0627-54f0-80d4-d0b1851d1285,The Atlantic Newtown,3.5,219.0
+275,2bd9cd85-9ef8-57e8-a7bf-5ffa3381718a,Preserve at Dunwoody,3.7,330.0
+276,a4b17f5d-e3c5-5cba-a808-6d33e947155a,The Carson at Peachtree Corners,3.4,389.0
+277,bb385085-f931-5d5a-bbff-def0bdcee7a7,Seven Pines,4.2,223.0
+278,bb534479-8078-5f89-89c2-8468f13b4f5f,The Cleo Dunwoody,4.2,263.0
+279,65a46481-17fc-5495-8ead-7d8741a67351,Walton Centennial,4.2,87.0
+280,1ce100d3-93cf-5ba1-b95a-f1f75873cd64,Avana Woods,3.2,275.0
+281,91d4bb26-2e6c-5126-90f2-8cdeaca60033,Champions Green,4.3,265.0
+282,03f4c8be-36fe-5efa-99c0-10be5e75b9b1,Cortland Park 83,4.3,633.0
+283,ea423d66-fe47-58dd-ba10-89e9babc4614,Perimeter Circle,3.9,141.0
+284,f1ffd771-1d1b-5e89-9800-5dd3ebe24858,Charleston Court,3.9,119.0
+285,103e0e44-bc89-50dc-a5b8-f47f66243d21,Perimeter 5550,4.0,95.0
+286,54133137-964b-537a-a04a-8ca6524bc538,The Stratford Apartments,3.6,285.0
+287,2cd68d15-e3ac-51a3-a840-a3677868a3e7,Aven Chastain,3.9,170.0
+288,439fea63-1571-5dad-99e4-3d9ffb58950c,Sirona,4.2,1126.0
+289,76e96e68-b596-5085-ae10-75d7ee6713a3,Bell Glenridge,4.4,232.0
+290,bff8ed1c-9992-56c0-826a-b6d86eeeed4d,Arches at Glenridge,3.5,54.0
+291,136852b8-b4e0-54f2-81e9-194fc71516da,The Heights at Dunwoody,3.6,222.0
+292,4aececd4-d302-5a04-9188-9923d0cf9519,Park at Chastain Apartments,4.4,145.0
+293,d01ce880-0597-5794-bef7-00c85728e446,Adley City Springs,4.6,270.0
+294,c3bd1519-44eb-5762-bece-775d48da5864,Cortland at the Hill,4.4,181.0
+295,afe1fd02-c1bd-5ca9-9294-2ca073e4f8fc,1160 Hammond,4.3,610.0
+296,c063434f-73e4-5ab5-90fa-d6266a1e62b8,Aspire Perimeter,3.6,118.0
+297,596e735f-ff62-5bd7-a61e-0749fb529371,Cortland East Cobb,4.3,254.0
+298,9c6ec90e-7de8-5fce-9330-1943a9f3ee1b,The Everette at East Cobb,4.0,269.0
+299,6bd84fdb-50bb-53e1-b3e8-3e9a708c84e2,Advenir at Winterset,3.6,261.0
+300,b1439b34-676e-5235-a1df-0218d28263e7,Avana Cityview,3.2,198.0
+301,02454a21-8f8b-5eea-b63e-1f3ba8136375,Dwell @ 750,3.9,193.0
+302,0db8e219-0def-5751-9f88-7e495ef972a3,Cortland Watermark,4.5,549.0
+303,08bf0354-f2c7-5c92-a1ee-d07b139b9a08,The Franklin at East Cobb,3.2,220.0
+304,ecf61d67-16ae-5948-bbea-d8403a853816,Azalea Springs,4.6,358.0
+305,55d1d7a5-e189-511a-8860-721f28c16994,Hamptons at East Cobb,3.2,59.0
+306,cd219ae6-2d16-59c6-801d-a3b6ebb98865,Bellingham,4.2,193.0
+307,b1407b70-129d-5bb4-836d-91533da2e41a,Windward Place,4.2,256.0
+308,6b0b20a6-809b-5166-a284-e209ac6508d2,Camden Deerfield,4.5,229.0
+309,b00b0a67-82e5-566b-9436-18eae06abc11,The Pointe at Preston Ridge,3.5,173.0
+310,7d3f62b0-1860-53a8-9967-903eac3f8ee7,IMT Deerfield,4.2,598.0
+311,97cde3cf-5c49-5729-9ec8-02a5d7814ed7,Jefferson at the Perimeter Apartments,2.8,595.0
+312,ebda3220-c0a9-5b19-b9c2-ee6886de6703,Deerfield Village,3.8,410.0
+313,30a5c585-de9f-51bc-9aed-174baaced3ca,Manchester at Mansell,4.4,1338.0
+314,d06581dd-61d9-5bde-a94a-39b7e3f82282,The Hartley,4.0,1855.0
+315,4498401c-1733-5f58-b0e5-b15ba47b582a,The Drexel Collective,4.2,1079.0
+316,f562eddc-6901-56b1-8d62-e2b64b8149db,Roswell Village,3.5,488.0
+317,d437519b-9ec5-5704-af60-d210cfe76e12,Cortland at Phipps Plaza,4.5,329.0
+318,e7f106a1-7539-5a46-9a1a-cd7f221f2fa0,Bell Terminus,4.0,346.0
+319,9a7bffab-d1ae-58b6-b891-1ce4005a90f0,Prominence,4.3,444.0
+320,9c225818-86dc-5269-a3e3-17489324b87f,Gables Brookhaven,3.7,285.0
+321,a5bc24f8-ab17-5af4-b06e-1e595dab9178,1105 Town Brookhaven,4.3,339.0
+322,2836882c-4726-516c-b065-695534e5a325,MAA Stratford,4.2,234.0
+323,0c798e2a-1e69-5fbc-84c4-a00b63e0a0d9,Buckhead 960,4.0,120.0
+324,e427d3cf-2419-5656-b36c-cf9d6abfb550,AMLI Flatiron,4.6,50.0
+325,2e1d9a84-92f2-58c9-8b72-0d2ae75b3c3a,Camden Phipps,4.4,235.0
+326,076e4117-46dd-5ef3-8851-9a01a0256df6,AMLI Lenox,4.0,251.0
+327,f782791d-1913-5259-9dc4-72762431b428,MAA Lenox,4.3,1122.0
+328,2924818f-52ba-5901-97a0-e462d4fbd461,The Boro - Phipps,3.7,210.0
+329,b71072bd-762c-52e9-b822-07b54a153ea0,Cortland at Buckhead Village,4.1,129.0
+330,12a0cb26-0c06-5270-8a91-dee1d49d1cb3,Broadstone Junction,4.4,235.0
+331,e5339550-a9ff-50ca-ae26-3abe7a6afb7b,Bexley Duluth,3.1,80.0
+332,4d04f22a-f712-5b1c-92da-8c96ea8f56da,The Brunswick,4.5,159.0
+333,d9464b18-ee43-5590-bb92-230407998411,District at Duluth Apartments,4.1,201.0
+334,2d2cd96d-a622-5621-a5cc-7eeeba49fc9b,The Perry Residences,4.6,77.0
+335,efed4ea9-4cc6-560c-9409-5ab671691ebc,Lumen Doraville,4.6,132.0
+336,89605f4d-93e3-5f68-afbf-5ab3d77994c4,Windsor Parkview,4.5,311.0
+337,1786f65c-9bc7-548a-a2c4-b9a32a772f92,Cortland North Brookhaven,4.5,271.0
+338,9f082093-cc80-5b8c-849e-4a3a8415183e,Brookleigh Flats Apartments,4.5,202.0
+339,f196c8b2-c40a-5e3f-a85e-8794051a3f6f,MAA Gardens,4.1,432.0
+340,cfba7b45-7b4b-5aed-a03a-b925c5e157a2,MAA Oglethorpe,4.0,235.0
+341,19e9ed89-8727-558a-bf55-00a267d119a4,The Grove Chamblee,4.0,212.0
+342,69594fc6-92d8-58dc-90ec-1cc72fb4cba3,Windsor Brookhaven,4.4,181.0
+343,1cb6b7fa-76bc-5f8f-b073-55aad7a35044,Aspire Lenox Park,4.2,286.0
+344,609f9a79-0284-54f1-b238-a8778d40f967,The GoodWynn At Town Brookhaven By ARIUM,4.3,298.0
+345,908fc0c2-1c4f-5afd-aaa3-21b4d2f984d6,Manor Chamblee,4.3,38.0
+346,a1fcf95f-cd37-5085-8aed-a9d61f19f72d,Chamblee City Heights Apartments,4.9,125.0
+347,9f689e5a-b429-514e-a5b8-06c25681c32b,AMLI Brookhaven,4.5,21.0
+348,66ab0d00-c79e-56e3-ac86-eebb6e9478c1,Cortland Uptown Buckhead,4.1,129.0
+349,ad4cc9f7-f9c5-559a-81d6-cae18f011202,Evergreen Lenox Park,4.2,113.0
+350,68b784b2-302b-52b5-bc6c-5965d208dc95,Gramercy At Buckhead,3.6,166.0
+351,ae8a6169-ba94-5a33-8807-3df67e2aeab6,Axial Buckhead,4.2,147.0
+352,f2b72476-82ca-548e-9efe-f6aeebbd71a9,MAA Chastain,4.1,234.0
+353,8c51c32f-e3de-5dc0-8bfd-a217ee61f0bf,Auburn Glenn,4.0,355.0
+354,6e81bfdb-4e7f-5634-ad76-7bd2f477760f,N. Highland Steel,4.1,67.0
+355,3cf7e84c-2846-505f-8d00-55e6a47957b5,Edge on the Beltline Apartments,4.3,554.0
+356,0beefab8-5a51-5086-88ac-db99833aa5cd,Ayla,4.3,231.0
+357,91418902-8943-5939-8d38-da8b48fe561f,Modera Reynoldstown,4.5,247.0
+358,8dea491d-3c18-59bc-8126-07dd66db506f,AMLI Parkside,4.2,136.0
+359,cc0869df-3265-5bdf-876a-e29ee63c9693,Highland Walk Apartments,4.2,100.0
+360,8c0f3d30-2665-58f3-aee1-c970092e8a30,Lumen Grant Park,4.2,67.0
+361,29ca5334-0873-5a02-b9c5-4f3bc2f97e77,Broadstone 2Thirty,4.6,261.0
+362,b550b022-310e-572b-9b48-6c69d9a8039e,Fulton Cotton Mill Lofts,4.1,269.0
+363,2735050a-e6b4-5153-a021-e3ccafe6c7bd,RT Dairies,4.4,304.0
+364,007f5b4a-b703-52b2-9f81-31355c39689d,West Inman Lofts,3.3,82.0
+365,99212044-8ad3-51dc-8ed4-fcf2df378178,The Lookout O4W,4.2,722.0
+366,8f0fec33-22a0-57ed-859f-ff59adb96ca1,Platform Grant Park,4.3,341.0
+367,61f651a2-8b1b-5feb-812f-ea9f098cc1dc,Citizen on the Beltline,4.8,54.0
+368,f14e965b-eae5-52e7-ab5c-2180b1ed508b,Iris O4W,4.1,81.0
+369,81aefef7-334c-5f41-b7c3-1e4991286bda,Seven Seventy Glenwood,3.9,54.0
+370,309bfbeb-6a11-5759-8e7e-2dbdee9f8c68,555 Boulevard,4.3,26.0
+371,c160f4ee-d95c-537b-86e2-81c8a294590d,Ashley Auburn Pointe,3.0,178.0
+372,9a1d23a6-18ab-570a-8c33-5fd41147765a,Westmount at Ashwood,4.2,135.0
+373,9be7c0d6-42b3-5bea-b218-79c5d6ad1239,Element 41,3.2,581.0
+374,c00997f6-b6a5-5819-9847-ecd35e310498,The Falls at Sope Creek Apartments,3.8,550.0
+375,1aba5fcd-6c2c-50b2-878e-17143894f2b7,Cortland at the Battery Atlanta,4.6,395.0
+376,a839a56a-8802-5568-9c17-775785db873f,Tallulah,4.0,61.0
+377,062f811c-9b01-5afb-b8a1-382be7c8c18f,Ellison Parkview,4.8,46.0
+378,9b0049c5-0a8f-51eb-afdf-c02f81c80533,The Elden Galleria,5.0,384.0
+379,c679df1e-fe47-57bb-b72d-b8fb6415c7ed,Stillhouse Vinings,3.8,92.0
+380,2fe85d25-06fa-5f43-a8ff-827afc77c400,Windsor Encore,4.3,328.0
+381,e12fefcc-5bab-5640-b97d-50588c7698b9,Revel Ballpark,3.8,116.0
+382,c847fcde-6c91-5058-9f8a-d9a8e55d2be2,Gables Vinings Village,4.0,113.0
+383,6fd8ef39-ca79-5859-926e-6429499b3e15,Annett,3.8,307.0
+384,98f4acd0-3768-53c2-8d63-7b20e7252603,The District at Windy Hill,4.5,354.0
+385,ea4491fb-1ea8-583a-ace8-3111779fe1c5,The Harlow,4.6,233.0
+386,704839a8-9925-59d3-bc00-b671f2238bb9,The Reserve at the Ballpark,4.3,142.0
+387,a70ae4fe-cb63-5747-aac4-36b5ed20a120,Spectator Apartments,4.0,200.0
+388,4859fcec-ebd1-51fe-b4ab-4ce93d2b4abc,Stadium Walk By Windsor,4.0,297.0
+389,e63a68eb-2e2b-5cc8-84e5-35b9bf3e712d,The Heights at Shadowood,4.8,133.0
+390,cd2852b9-0eb1-5577-aa69-c9b361657e48,Bexley Powers Ferry,3.8,122.0
+391,bf4100a4-9ca2-50bd-b03f-b72a33f43570,Elevate West Village,4.6,140.0
+392,591c35cc-d953-5689-ad83-ebc6dbca9764,Vue at The Quarter,4.0,334.0
+393,c43905dd-ea1c-58dd-b232-6107f26169dd,Broadstone Upper Westside,4.2,247.0
+394,09ac2f3b-3660-53b5-b620-f3216604cd4f,Arabelle Perimeter,4.2,481.0
+395,5e019f21-eb18-5512-9b59-540cae352942,The Morgan Sandy Springs,4.2,311.0
+396,a9557128-3499-59c3-90b7-e59d86283091,The Bishop,4.1,390.0
+397,7c67ed91-ec02-5af5-a8e9-b4b2f60eafa5,Windsor Chastain,4.1,211.0
+398,9a0e10d2-745a-5d47-a3f4-1f623bf9afc9,The Collection,4.0,163.0
+399,b143a5b0-bf64-59e5-bfc4-83c9c7e8142e,Glenn Perimeter,4.3,386.0
+400,d473a18d-b3d7-5540-acf2-704b96df0dca,The Alastair at Aria Village,4.0,173.0
+401,712660a6-0f99-5186-89f4-d34c4af8c4c2,The Margo,3.8,245.0
+402,b6389df6-d8ef-50ee-ad1d-e0529647b6d4,The Avery,3.3,14.0
+403,4c6f51f8-a866-5cd1-873d-2a31515ddfbd,Cortland Independence,4.6,336.0
+404,1c2768c3-f594-5cde-b95f-03ce5ec25c7d,The Lodge at Hamlin,4.4,133.0
+405,897c8966-ea39-5884-8ffc-278f714bc590,Homestead at Hamlin,4.5,28.0
+406,c6eae8d2-7422-5483-974f-ffe04f5c4fc6,Talcott at Windermere,3.9,122.0
+407,e49e5451-b8c7-5867-ac59-b0200ec8ad5d,Addison At Windermere,4.5,223.0
+408,000eee3b-dec4-55d5-8ee0-1f359493147b,Corban Horizon West,4.5,176.0
+409,6a8bed7e-ec9c-5a4a-9021-a84d99311779,Lakewalk at Hamlin,4.6,154.0
+410,b3472e29-e692-5b5a-8bfc-0c3997c65f9d,MAA Crosswater,4.2,249.0
+411,2070286c-2b6f-5dd1-8f85-46cd3b8d00d9,Cortland Uptown Altamonte,4.6,406.0
+412,3e0dfa1b-9e49-5175-a251-550a30776fce,Maitland City Centre,4.2,91.0
+413,4af717c8-2334-55b9-b675-45ce2ab024eb,Sanctuary at Centerpointe,4.1,144.0
+414,bc03c77b-9432-5df0-ab31-494f5a49c0f8,Sole at Casselberry,3.7,178.0
+415,fdab1420-408f-59e4-9fd2-42413e90ef17,Trelago Apartments,4.3,229.0
+416,f9403fce-4177-5ef4-8815-08814760f2e4,Dwell Maitland,4.7,69.0
+417,ed6172f6-75cf-5170-9b8a-7f43fc8a5513,Nine12 Gateway Apartments,4.5,234.0
+418,6576fed9-23bd-508a-a663-4dd8c7ea1054,Maitland Pointe,4.4,231.0
+419,85521b7a-98d7-589d-8579-faa66e0f294d,The Aston at Uptown,4.8,35.0
+420,8f1253d9-b5ce-5217-8fc8-a4278da8073c,Cortland Lakecrest,4.1,353.0
+421,dcf8ad99-4aec-5aac-8314-4a2d847ea88f,Waverly Terrace,4.2,116.0
+422,2ac035c1-f641-55f0-a4ff-b027fc8ceafa,Sage at Cypress Cay,4.0,208.0
+423,5d2e0643-9dfc-5f54-93d9-2952a518803d,Lantana at Cypress Cay,4.3,106.0
+424,22a55852-793e-5d6d-8710-b92aa98bb608,The Cottages at Cypress Cay,4.5,64.0
+425,e332fd5d-72ee-5d1c-a01a-a938fe01c348,Lakeview Oaks,4.1,350.0
+426,3fca98f1-844f-5135-a2af-edcaf1fdce91,The Dawson,3.6,407.0
+427,b23fd0ca-a40d-5994-bdfa-e926fcf02521,Caribbean Breeze,3.9,807.0
+428,cd8e475f-7fae-5cc0-885f-f96f9f236603,Viridian Apartments,3.8,729.0
+429,620d8eac-30c5-5d28-8f7a-df3d026aaa20,Cortland at the Hammocks,4.5,744.0
+430,943e4dc2-7e2e-515e-b058-18e8e3f775be,Cascades at The Hammocks,4.1,176.0
+431,b74a2160-8585-5f0c-abce-daef6e9c63f5,Bell Kendall West,4.7,381.0
+432,29c7ddbd-128a-588a-8c75-0d5f52622ea0,Palmetto Place,3.2,262.0
+433,7a526856-5b99-5f5d-8e74-89ee7b39645c,Vista Lago at the Hammocks,3.6,123.0
+434,2052b5d0-6c5b-5a34-8c30-13bbd009abf0,WATERFORD LANDING APARTMENTS,3.9,85.0
+435,50db4ef0-c70e-5852-b350-0ffc49653d11,Cortland Kings Meadow,4.5,848.0
+436,b00d9a7d-16c7-53e5-837b-c09b28d20ff5,Legacy Lakeside,4.3,84.0
+437,81013b2b-8a38-559a-aeb1-54238a6b0d0b,Cortland World Gateway,4.7,532.0
+438,8dc016f3-b24e-5710-8a11-1bd7f5ca7d58,The Addison Lake Bryan Apartments,4.3,169.0
+439,74d2acb1-b95e-5dae-b36c-cc7f741fe8e4,Prime,4.0,215.0
+440,3c5c3b99-fc8f-5c66-8079-87e249560a52,Integra Sunrise Parc,4.4,328.0
+441,5f8b9539-0ef9-54f3-ba46-f6c8d570791b,The Lucent at Sunrise,4.1,172.0
+442,16d71670-d69f-5c40-9ee1-86f2ae5d6ba8,Halston World Gateway Apartment Homes,4.4,228.0
+443,cd60ebd9-fe00-513e-bffe-9f1e40379152,Alcove,4.0,424.0
+444,ffd8bce3-083d-5d58-b314-8414af6253a2,Camden World Gateway,4.2,221.0
+445,16d566f1-3bf3-501e-8280-3e90c7d1b29e,Bainbridge World Center,4.8,76.0
+446,c929efc0-29b9-5418-a898-823ab21c69ee,Cortland Vera Sanford,4.8,389.0
+447,a3a43482-b5a1-5f03-b21b-6f7be65dcaa5,Allure on Parkway,4.3,232.0
+448,f7410407-7dbc-5bac-be07-c46c7fe87482,Integra Crossings,3.6,154.0
+449,7357057d-8da7-5f08-be8c-a7bf06c01aa5,Vue on Lake Monroe,4.4,128.0
+450,e6695170-938b-5860-922e-e4d1cdc294cf,Vintage Lake Mary Apartments,4.8,188.0
+451,487852c7-38ff-5f54-89e7-506684bc3e3e,Viridian Reserve Apartments,4.1,158.0
+452,9a5247f0-777f-59ad-91e1-a307308c48f4,Story Sanford,5.0,1.0
+453,a0132717-c0f1-5d1c-9147-bbb0f771b76d,NOVEL Parkway by Crescent Communities,4.8,92.0
+454,06830cf2-3414-54be-90fb-1d126e3330a7,Afton Palms,4.7,121.0
+455,8bcf06c7-e686-50c5-bbe1-3caf04b47a29,Cortland Santos Flats,4.9,288.0
+456,edb3ee0f-6168-57bf-bdb2-53cc2e5aff9f,Azalea Luxury Apartments,4.8,130.0
+457,7aa79860-e03a-5f55-aa7f-7b58f27d4b71,Asbury,3.9,139.0
+458,e7ff4df0-cd7a-5bde-abf0-e0fc6750061b,Lenox at Bloomingdale,4.0,118.0
+459,77dd5088-7449-577c-bb58-bbccdbba9cc4,AVLI AT CROSSTOWN CENTER,4.3,91.0
+460,70449675-38d8-5e67-96c1-e08a1e74fada,The Oasis at 301,4.6,202.0
+461,8c394bf7-cad2-5b0a-a617-4c8a8471c873,Pearce at Pavilion Luxury Apartments,3.9,244.0
+462,5ea5a206-7245-5c00-a10c-8c69ba53c742,Solé at Brandon,4.0,253.0
+463,aa059640-b5ef-512d-ab85-2780748974a3,Cortland Hunters Creek,4.6,579.0
+464,ba7f233f-b238-5e98-a6de-50796b5dc0ea,19 South Apartments,3.3,220.0
+465,31456b3b-3965-5176-b00f-a8998d581fbd,Monterosso,,
+466,ae6db3be-db91-5f57-8498-0189ba21eb08,Vernazza,,
+467,b4109608-0a6b-50e2-bfa5-e49b9bd155f0,Sonceto,4.0,219.0
+468,ee4b3308-d1bc-55a2-87bc-c6c3977b990f,Skye at Hunter's Creek,4.3,258.0
+469,5040be58-cd23-5372-9870-b303c93c2eb8,Casa Vera,4.6,1062.0
+470,1a11d6cb-371c-5cf1-9e0b-e958a2fe03c8,Pepper Cove,3.3,57.0
+471,3fae870c-7c0b-5608-8d95-26048eba1389,Altis Grand Kendall,4.8,120.0
+472,0c757929-cd93-5b59-9b7f-8917dffc0e49,Alexan Kendall,4.8,77.0
+473,1501654d-bfa3-5588-be95-0837126c1ec4,Cortland Portofino Place,4.4,994.0
+474,c335f976-5f53-56d4-a265-5cf01799b38a,Locklyn West Palm,4.4,167.0
+475,8067fb7f-59e2-5811-88cd-a5a2def63b61,Cameron Estates,3.1,319.0
+476,67de0ff5-ffc9-5f72-8183-5863fd5ad6c3,Riverstone Palm Beach,4.4,143.0
+477,9215406b-5a21-5524-bba6-5f2db71d9f08,VISTA LAGO,4.0,293.0
+478,ce5d4bd3-68f9-53c1-ba4e-a21eab6b2489,Vue at 1400,3.5,191.0
+479,a5847ab5-5c81-542e-a3d4-1ff418ee3566,The Point at Palm Beach Grove,4.2,105.0
+480,7e3af48d-6214-561a-b46b-f45cf411addd,Cortland Bermuda Lake,4.6,488.0
+481,87d1f655-ef49-54ae-a41e-4ff023881481,Bridges at Crosstown,4.0,227.0
+482,9aa36527-6e52-5d3d-b24d-78f177a3f866,Overlook at Crosstown Walk,4.2,348.0
+483,8e509222-8e0f-5a29-a466-eb672b3bde94,The Oasis at Brandon,4.4,299.0
+484,4b2f4d87-4bed-51fa-9b89-e5c89b0717fe,Asprey at Lake Brandon Apartments,3.2,191.0
+485,e4307c8c-579d-59ec-8b60-7826f38897fa,Sanctuary at Highland Oaks,2.8,308.0
+486,3360621f-0af4-5bc7-b75c-e8b18d8866ad,Camden Visconti,4.4,376.0
+487,052a5d14-1323-5b01-b442-cd73ead85c20,The Lakes at Brandon West,3.5,144.0
+488,e80f2d19-1d6e-5210-af17-f974b523beae,Prose Park View,4.8,36.0
+489,01d6d3c4-7345-57ea-bc69-13ee02f42071,Cortland Lake Lotus,4.4,752.0
+490,8be0fa81-46d2-5ee1-93b0-ac46b27bf0dc,Lotus Landing,2.7,118.0
+491,6e1b7e50-3893-55f5-802f-598be0b9d77c,ARIUM Altamonte Springs,4.0,351.0
+492,1df51539-9924-5cea-9dac-030a019d21ae,Brickstone Maitland Summit Apartments,4.4,503.0
+493,dd0e651b-6db1-5b89-b149-641ddd0d7fed,Arbors at Maitland Summit,3.5,453.0
+494,3e656d8b-bc18-5247-9daf-80273555e84c,The Tiffany at Maitland West,3.7,229.0
+495,e4d2ecf1-d18e-56d2-b9cd-3609f3f035e2,Edge at Lake Lotus,4.1,194.0
+496,c953cda8-6d2a-56bc-9e90-949a1ef36396,Cortland ChampionsGate,4.2,246.0
+497,33c88dfd-ce7a-5848-a7d4-53b8238213d4,Preserve at ChampionsGate,4.4,208.0
+498,d5ac1c75-1029-59ef-843e-728668ce9e7e,Atlantica at Town Center,4.1,212.0
+499,7be733dc-703c-59ec-8725-b5daacfa9577,Prado,4.1,142.0
+500,228fa55a-735e-53fc-8b9e-d1a6a87c308d,Thrive Luxury Apartments,4.3,238.0
+501,174b2b6b-8239-57a7-8e71-70703eeb6c16,Reunion at 400,3.7,166.0
+502,85a66caa-c520-5c35-88f7-3ec792669c04,Lirio at Rafina,4.6,200.0
+503,1ed4b81c-8712-5751-854c-7a24de24af82,Champions Vue,,
+504,06fbbbdf-0268-5724-8a29-377134cb7e6e,Cortland Reunion,4.5,314.0
+505,815cf54f-f4fe-5167-9e8c-3891284663e4,Cortland Bayport,4.6,1464.0
+506,de58b785-75b4-5c3c-bc13-7f02fb8d5f15,5 West Apartments,4.0,302.0
+507,0a9746f4-58a9-5f1e-b8c9-664407c6359d,Camden Bay,4.2,493.0
+508,b6d88611-8259-552f-8ead-a855ef567a3b,Mallory Square,3.4,147.0
+509,38165650-605a-53f9-b188-4a86eea4742b,Veranda at Westchase,3.5,508.0
+510,35d3b10e-283d-5809-82f4-aedccd626b3a,The Sedona,3.9,180.0
+511,37e0ddf7-b888-51e7-bc72-f4cec889763f,MAA Rocky Point,4.2,751.0
+512,6b139c2a-705c-584f-96dd-1382e96546f9,Cortland Jubilee Park,4.4,569.0
+513,7db30711-b54a-5fc0-a6ca-c80206b7a3c4,BellaNova at JubiLee Park,4.1,230.0
+514,e99b8be5-2730-5a4b-805e-d8b31bbd9ec9,The Addison Gateway,4.2,121.0
+515,cdc09af0-09f4-5ac9-8c83-ea79ad89d701,The Morgan,3.8,103.0
+516,19c4f9ee-9aad-57cc-850b-067a58363bb7,Century Vista Palms,4.2,109.0
+517,f3a2a2c8-5e0d-54f7-977d-b80d804cd5a5,Art Avenue Apartments,4.1,372.0
+518,217e868f-378c-5d8a-bed3-ed5667d532f6,Reserve At Beachline Apartments,3.6,154.0
+519,3210455c-b58a-51bb-8bfd-34b418ec1243,Nona Park Village Apartments,3.1,88.0
+520,bf7a4386-fbeb-5509-9aaa-7125deeec179,Trio at Jubilee Park,4.6,141.0
+521,d59c9deb-f743-5f5a-81ec-c6db22aa92b3,The Sarah,4.7,38.0
+522,51fca928-8df2-580a-8644-8583609b8b5f,Cortland Mirror Lake,4.5,848.0
+523,65298713-60f9-5651-aede-9dca1fa25bd4,Boca Vista Apartments,3.6,181.0
+524,3e656d8b-bc18-5247-9daf-80273555e84c,The Tiffany at Maitland West,3.7,229.0
+525,b9270341-f0de-5f3e-b87e-7c452d0d756d,Los Altos at Altamonte Springs,3.1,232.0
+526,50793e51-d043-5007-be95-5ba6cd25a078,Timberlake Apartments,4.2,946.0
+527,9210c91f-3979-5bd1-80b2-d30820b67426,The Oasis at Wekiva,4.2,237.0
+528,fbd17aae-d9ba-5f73-9d74-46be304a48a2,Cortland Riverview,4.8,210.0
+529,7b260f6e-d167-553d-8242-b625a3191d26,Integra Palms,4.2,203.0
+530,bd520834-7a57-584f-8384-df2fadffcd20,Progress Village,,
+531,01ca5e10-6fbd-5f95-9acc-3e6f7c030631,Summerall,4.6,65.0
+532,acb25a2a-d4f9-5186-a174-82993d67ffde,Palms at Magnolia Park,4.0,187.0
+533,6a655457-60a3-54fd-b0de-8d4e0b12ba8b,Cortland Satori,4.4,347.0
+534,863a13c0-eaf0-5460-9358-c8b95cfb31d7,Peridot Palms,2.6,252.0
+535,ed9f533f-7189-54bd-b0bf-ad199d9a5b7d,Gateway at Pinellas Apartments,4.6,307.0
+536,ef3adb40-ec97-55c5-af8b-039c7e482008,Rowan Pointe,4.3,162.0
+537,fd6a34bc-6f12-57b7-8e84-ad13e42bdfac,Epic at Gateway,3.9,181.0
+538,e69ae520-7405-57c8-9963-3e6bed12c60a,The Allure at Gateway,3.4,105.0
+539,b2525945-b599-5d4f-8796-20665ada5df6,Marlowe Gateway,4.4,71.0
+540,d2feceae-affa-513b-bb1e-e5c864f95154,Ezelle,5.0,89.0
+541,b2353345-a585-56dc-84af-8205db7eeaab,Muse at Winter Garden,4.2,201.0
+542,77fbe973-8d43-5968-8d28-c33defe1cf19,Domain,4.1,212.0
+543,60b62a8c-4d9a-5ee9-8090-d6100aa69fd2,Ascend Reunion Crossing,4.6,20.0
+544,dcbdd5e9-7d60-58ed-bd77-ad7866782d90,Cortland West Palm,4.5,285.0
+545,e317c010-37e6-5c56-8dfb-d9ff16a594b1,Indigo West Palm Beach,4.8,98.0
+546,fed2a41e-4b65-557c-8a1b-1a0d623ca7af,Alora West Palm Beach,4.1,115.0
+547,2deec1aa-af56-57b8-8a4b-b02e2fe324dd,The Grand,4.4,137.0
+548,91a6924d-e0c0-579f-9db0-fff1cde39626,Fairway Vista,4.4,52.0
+549,ae17191a-3f69-54d9-8ee2-acf88ef7b41d,Inscription West Palm Beach,4.5,38.0
+550,086b0753-b2b7-5d40-8b56-00f1010480c2,Cortland Westshore,4.5,413.0
+551,fe2d5184-2d42-5b1e-817d-663509ae99c5,Advenir at The Watson,4.3,160.0
+552,1f98cde9-b54a-53bd-9486-256808751a51,Alton Westshore,4.6,153.0
+553,167fc09a-f2a3-5565-bc7c-fb75d4b93e0d,Bainbridge at Westshore Marina,4.1,202.0
+554,f7efabda-2361-5368-a6c1-2dfb66fe538d,Town Westshore,3.5,178.0
+555,1fb2f930-0e6c-5f86-b119-d80881df5b08,The Pointe on Westshore,3.9,132.0
+556,c3520078-92cb-5baf-91fa-2f9704a9f1cf,Marlowe South Tampa,4.4,127.0
+557,c3119d8d-db63-5542-9446-5d24be98bfdd,M South,4.0,195.0
+558,13e166e2-c3dd-5dee-9e77-9b4bc7a2d29f,MAA Breakwater,5.0,112.0
+559,b96cfe41-9949-58b0-bcc5-fbd73447e37b,Amelia at Westshore,3.9,116.0
+560,eb2c130f-fd94-51da-b8f2-0b10939948da,Broadstone Marina Bay,4.8,44.0
+561,b3af76bc-7db6-5cdb-8323-0d6c4a6861f5,Cortland Hollywood,4.4,597.0
+562,9bae67af-1381-5654-9979-f0007ac9904c,Avery Dania Pointe Apartments,3.2,132.0
+563,9d275527-daae-52ca-9991-b01ec7edb68b,Mila Apartments,3.7,523.0
+564,4cbc9cfa-3a30-5006-96b7-cac86ee35d07,The Upton Apartments,2.2,197.0
+565,068214c3-6939-5f85-9fb1-6380833991ce,ArtSquare at Hallandale,4.0,321.0
+566,2a21187c-2ff2-5a6c-abb9-6ca916633294,Soleste SeaSide,4.6,397.0
+567,560fd028-2fe9-5d9d-b0df-513c1b005af1,New River Cove Apartments,4.3,264.0
+568,cbb920a3-f57a-5d2c-a0a0-3c3179445ec1,Oasis Pointe,3.9,260.0
+569,1aa14af5-4caf-5dae-9c96-922947202f32,Cortland Lake Howell,4.7,876.0
+570,368943b3-a1ad-59f8-814e-ab6aa8ea2b03,ARIUM Winter Park,3.9,274.0
+571,a19b225e-bc36-5a60-9d5f-da30336b0f91,Jefferson Lake Howell,4.3,78.0
+572,52534675-cb16-5e38-bca4-fb7f202c6971,Newport Colony Apartments in Casselberry,4.4,416.0
+573,ccf1a2dc-8d60-5faa-8763-b712f543148f,Onyx Winter Park,3.9,212.0
+574,dd794722-a61f-5dd7-acf5-8c8509c07352,Stonecastle Apartment Homes,4.4,327.0
+575,11bbffd6-5a20-5578-818d-65411d4bf76e,Tuskawilla at Winter Springs,4.1,367.0
+576,a947ba93-2f73-5135-a7a5-b17afc0870da,Signal Pointe,3.6,197.0
+577,fce75852-4a60-5e15-bbdf-2a2d4cb5c009,Cortland Bowery,4.3,735.0
+578,594da138-23d3-50ac-aec4-5306d92cfd16,4800 Westshore,4.0,170.0
+579,b96cfe41-9949-58b0-bcc5-fbd73447e37b,Amelia at Westshore,3.9,116.0
+580,1f358a2e-3104-5587-b871-beb20cd226e0,Camden Preserve,4.4,273.0
+581,12714881-974d-51ac-91f0-64985ef59f03,The Delmar,3.1,449.0
+582,c385355d-3a55-5a86-96b1-df0e4d8037c5,Cortland South Kendall,4.7,453.0
+583,af6317a2-9f5d-5d0b-838a-57baa76bb77b,Azura,3.9,179.0
+584,c82a33c0-ac29-5a74-87c6-94c05c2b61df,Atlantico at Kendall,4.2,342.0
+585,21b9617e-6021-57e3-9b7c-9e3f6afcb07e,Hidden Lake Apartments,4.1,72.0
+586,19f971b0-075d-5386-b10d-449b68e338ba,Indigo Palmetto Bay,4.8,81.0
+587,ce50ce73-3cae-575e-8497-f722faf0fd8a,The Park at Kendall,4.7,486.0
+588,b3bd0776-f6ea-5bcf-a3fa-ed594fa47478,Palmetto Station,4.8,215.0
+589,9c452e85-b1be-582f-beb7-97e0dbbfd928,Affina,,
+590,0362d500-70da-5e09-ab30-c413decbf7dc,The Terraces at Lake Mary,4.2,265.0
+591,ed510ffa-8e34-56ba-a63a-3e36e6207689,Sun Lake,,
+592,f69f0f31-c742-553d-a04b-8990874210b6,The Fairways at Lake Mary,4.3,316.0
+593,4d534c7c-4498-5b65-8044-e0d89a2e5b47,Lake's Edge Apartments,4.4,356.0
+594,f386c00e-6777-5a90-9fe9-dc14647d9863,Solara,4.1,238.0
+595,26b638f4-d6a4-5311-9693-65e8e7761f08,Solace Timacuan,4.5,395.0
+596,509bcf8e-92c8-5241-8aee-0c23695bedea,MAA Twin Lakes,4.3,383.0
+597,9ee0890e-b786-5391-8307-c8c704846262,Cortland on Orange,4.4,331.0
+598,66c48ee5-6dca-5a29-aa13-bc164ff6ebf4,Lofts at SoDo,4.1,154.0
+599,7b648f64-e609-52ae-8ff6-e85092c88671,Ridley on Main,4.4,354.0
+600,60e11d29-b61d-5c2b-9a25-8e74b9918064,Radius,4.5,258.0
+601,fd820f43-6463-5b04-96e8-105433443c00,CitiTower Residential Units,4.6,216.0
+602,d0835267-f858-5c5c-9f01-6ee7876e867d,The Julian Orlando Apartments,4.0,338.0
+603,ecc10244-41cc-5f96-89ba-d651a2b58379,Alexan Mills 50,4.4,66.0
+604,aafc9d16-f6f9-54e1-8713-5077395de92e,NORA Apartments,4.3,199.0
+605,202ea165-abdc-5d17-ab55-e568cc37527b,Cortland Deerfield Station,4.7,230.0
+606,1776e71e-de55-5107-957a-6d0db5352efa,Bell Lighthouse Point,4.3,400.0
+607,3b136f23-e764-563a-92f7-e3bdd925e4a6,Monarch Station,4.4,437.0
+608,4e4a6e9c-d462-51ff-8c23-1e55e2a4865d,Solaire at Coconut Creek,4.2,217.0
+609,bdb8667b-61af-5c37-99c5-40346c5eb275,Casa Palma,3.7,144.0
+610,2a775777-90c9-58c9-9b9b-0d9af7d8c2fa,The Club at Crystal Lake,4.1,142.0
+611,6d627a15-8118-5acd-96c5-00e75956d2e1,Morea Apartments,3.9,148.0
+612,8be8f5fc-f14b-5c48-8285-8064b4e4d5bb,Boca Vue,,
+613,1761f6ca-c941-55c0-88c3-d123dfa6b495,Boca City Walk,4.2,174.0
+614,7b8fff9a-0241-5519-baca-2d5a99d3d4d2,Cortland Midtown Miami,4.7,539.0
+615,a03882bf-7a78-5334-a623-1ce712832060,Eve at the District,4.1,204.0
+616,0891ac94-c626-53c8-9b84-2b7082267c02,Midtown 5,4.4,404.0
+617,491eeeb9-b3d3-57e7-a930-f5b57a067734,AMLI Midtown 29,4.5,285.0
+618,ca5683dc-9935-5f4a-a951-ffaf1075a7f2,AMLI Midtown Miami,4.5,457.0
+619,a2cbada3-8eac-5053-8ce8-1ead8db39eed,Gio Midtown,4.7,327.0
+620,2d8c5766-a33a-5298-a35a-15c86f086191,Artem,4.5,156.0
+621,578ea344-08cd-5034-80c2-1f8591d62f40,29 Wyn,4.8,94.0
+622,c0309380-b9e7-5ea2-84a1-103729a2fc6f,Cortland Brighton Bay,4.5,394.0
+623,de0e9da7-248b-5125-baca-16f5472347db,TGM Ibis Walk,3.5,185.0
+624,78be9bb2-b047-5efd-b626-d5fc20119cde,The Preserve at Gateway,2.3,101.0
+625,ce7f9359-6b43-5a33-a825-bce88f449a87,Tortuga Pointe by ARIUM,3.9,114.0
+626,c7919fc2-7393-5435-ac3d-e868529dc797,Verandahs of Brighton Bay,4.4,337.0
+627,5aa4cc47-3c90-5c0f-9d60-6d8418c672d6,West Port Colony,3.4,171.0
+628,9bce08fb-4740-53ff-957a-9ecc0fd69c3d,Gateway On 4th,3.7,305.0
+629,faa6115a-25d5-5766-a6ad-045a579c693a,The Overlook at Daytona,4.3,378.0
+630,db6e93df-8499-5053-9bb3-31db0e8b14e8,The Anatole,4.2,380.0
+631,fbd69bf2-ef40-5651-88f2-6051719fd4b6,The Artisan Apartments,3.6,135.0
+632,7ed1ec41-8acf-5e02-851c-5856acc96382,Marina Vista,3.7,124.0
+633,d2e3c449-2edc-5b2c-bb6e-8e93d30f763d,Sailpoint Bay Apartments,3.3,85.0
+634,d97c7f83-dab8-5d6c-bedd-41198c065828,12th & Beach Apartments,3.4,207.0
+635,b0496258-427a-590a-ab2c-19970dd08045,Winthrop West,4.6,399.0
+636,393e0f9e-a301-5b10-90b7-20ce9791042b,The Park at Portofino Apartments,3.5,495.0
+637,44380b52-78b3-5c65-a7ba-11ff9b9df6c1,MAA Indigo Point,4.3,151.0
+638,5ea52851-2f88-53fe-859b-4f8213ae2c2f,Providence Lakes,3.8,201.0
+639,06492062-d66d-516d-b384-f22a7f79b7c7,Westbury at Lake Brandon,4.1,395.0
+640,7937a9c6-b90a-5454-8f55-e23e234bddd6,Alvista Sterling Palms,3.8,113.0
+641,2dc3766f-2ca5-5b87-8791-d631980d965a,Sherwood Oaks,3.5,203.0
+642,d0fd75e9-f76c-58d1-95c4-a999e6c2f053,Rivertree Apartments,3.4,89.0
+643,93489781-3775-50b4-ae63-199cf6804b27,Cortland West Boynton,4.7,287.0
+644,ce20b032-4748-55c8-be0c-a53699aaf9b7,The Allara Apartments,4.1,250.0
+645,00cb505e-8517-57fb-93fe-e5f45a451188,Boynton Place Apartments,3.5,112.0
+646,158301e1-4532-540d-babe-949b9c6cf3ce,Latitude Pointe,3.3,176.0
+647,5ab3232b-28b9-551a-8b4a-127a86f703bc,Sea Lofts at Boynton Village,3.7,188.0
+648,e7f9f4d5-e01c-50da-ae59-38b1b5f56c58,Pacifica,4.1,148.0
+649,edbf1dcd-3ae0-5f09-bae0-31e781b27ab5,One Boynton,4.5,735.0
+650,3b4701ea-9946-5992-b66d-28cdf6f5fb12,Cortland Royal Palm Beach,4.6,12.0
+651,77986552-d67d-5ae5-b4fb-855257e8a3c1,The Point at Southern Blvd,4.4,126.0
+652,306d6f52-1aa3-515d-9911-dbf1856f54eb,Atlantico at Royal Palm Beach,5.0,43.0
+653,cf633940-75d2-51a9-aa5d-260c60a02fbc,The Quaye at Wellington,4.1,226.0
+654,64966673-8295-58da-90ed-2ce79de65db5,Wellington Vista,4.4,165.0
+655,50ed3de5-1839-52e5-a5e4-58d8b5c16c45,Elan Polo Gardens,4.7,62.0
+656,d482d732-6747-574c-898f-ec0f050d3d84,The Point at Royal Palm Beach,4.4,152.0
+657,5b041a16-85e9-5345-8be0-d457b24039b9,Elan Palm Reserve,4.4,47.0
+658,2b88fa5a-ceec-505b-bb29-16590aa96e40,Axis Wellington Green,4.5,147.0
+659,b21712af-b689-5e9e-9815-2f015d9d7825,Pine Ridge,,
+660,4a8a8916-6a15-5dec-bfe2-46a7e1bd4e61,Altis Blue Lake,4.9,251.0
+661,06dca7b7-7f64-51d0-b4ea-3c1cee15be08,Cortland Pembroke Pines,4.4,337.0
+662,715ec2a9-5ddb-5276-971d-7c15ca899aac,The Avant at Pembroke Pines Apartments,4.0,1608.0
+663,87c8c10e-c48a-54f4-a9f9-0dcb3598c785,Lakes at Pembroke,4.2,275.0
+664,a3e215e1-9387-59dd-b4bb-a81a06c3e486,Camden Portofino,4.3,385.0
+665,82f00730-0bea-52ca-8030-fe5cbc672d34,Pembroke Pines Landings,4.2,166.0
+666,1aec8667-fd90-5a7f-9ec8-5e9aadea40b2,Club at Emerald Waters,4.4,646.0
+667,4e902122-2583-5018-9de3-95dbe28a5317,Horizons North,3.4,261.0
+668,12bd5c7e-da8b-5294-8efa-654c79ac33cc,Miramar Lakes,,
+669,d73820cc-32a3-5cdc-95a5-839f4ac5ebc6,Cortland Harbour Cove,4.1,202.0
+670,b8409ca7-b6ee-5b65-bf78-bb1b3ba7ae94,Windsor Pembroke Pines,4.3,665.0
+671,50401ecb-b197-5547-9ee0-9dfffd81e286,Avalon Miramar Park Place,4.3,339.0
+672,dcf6f757-01ae-581e-b961-a866e0453f4a,Miramar Park Apartments,4.4,199.0
+673,ee2965b7-12ad-5b04-b4c6-07f37a4b951c,Arabelle City Center,3.6,317.0
+674,acc7c715-95d9-50d7-b83f-fd9a21390e5f,Cortland Delray Station,4.8,345.0
+675,25db362e-c68d-5af0-8a13-179ff44df7f8,Congress Grove,4.4,271.0
+676,cbfdfdda-9cdf-58ad-bda3-c29e646b0c96,The Franklin,4.6,122.0
+677,cf1d03f5-5a03-533c-9393-3b2159dfaab9,Aura Delray Beach,4.4,54.0
+678,667cfaee-8394-5dea-a8ff-61920b1b1a31,The District Boynton,4.3,200.0
+679,5546ad4d-b8c0-5941-97b6-976594d67dd6,Windsor at Delray Beach,4.7,162.0
+680,a19652f8-cbf5-5484-b057-18ac2f4960cc,Brez at Atlantic Crossing,4.5,56.0
+681,7345d0f3-4c98-57eb-92fd-3c86eaeac33a,South of Atlantic Luxury Apartments,4.7,251.0
+682,b38e5da7-75b0-595e-9903-40a34cb43bb9,10X Delray,3.9,210.0
+683,25f20d89-2e70-5c00-ad20-94311ad6f6e3,Cortland Nona,4.3,427.0
+684,c4076178-2ad3-53d5-bc43-fd14540c6440,Bainbridge Mission Pointe,4.0,163.0
+685,e17f3d39-2bec-5291-80d7-21140080dc69,NOVEL Nona by Crescent Communities,4.9,224.0
+686,c6b18694-69e1-5854-9f32-7ed027883888,Urbon @ Nona,4.2,128.0
+687,baab04f6-d64f-5f38-a23b-c485b1f7b2ae,The Oasis at Moss Park,4.4,346.0
+688,2789ca72-32a4-5d16-a538-5f463c6b9c4f,Bainbridge at Nona Place,4.2,235.0
+689,41ad411b-df87-5bcf-ae6c-6e8942ed391a,Dwell Nona Place,4.4,184.0
+690,507c638c-4e2b-56af-9e67-c632560386d0,Lake Nona Concorde,4.5,57.0
+691,c2017ff7-e7df-5544-921d-c35df520df03,Landon House,4.3,82.0
+692,2add1b70-84c9-5410-bbe3-774a1f8b0db3,Cortland Uptown Boca,4.8,524.0
+693,606d8f28-641a-5d00-b4af-9a103179a5da,The Charleston,4.8,95.0
+694,5356d8ee-8679-5959-8f06-69ba650f46f5,10X Boca Raton,4.4,257.0
+695,20febb40-bc7e-5a46-9e58-d8ab6899b636,Amalta Broken Sound,4.2,110.0
+696,9db9af61-0811-5aba-a26e-d2a722835e55,Suriana Boca,4.4,89.0
+697,9d0a1e37-5027-5764-9998-1f41a1825767,Luma at Delray,4.2,58.0
+698,74f1fa92-5f95-596d-8742-6665c826ea34,Cortland Phillips Creek Ranch,4.2,359.0
+699,54227a5e-b433-596d-ac97-79a6a553a92f,4 Corners,3.7,156.0
+700,ed2705a8-f104-54d7-8f2e-2677c6689df4,Sorrel Phillips Creek Ranch,3.9,350.0
+701,cef09cd4-e7dd-5fe1-ba1e-7f62afc92e00,Palermo by the Park,4.9,59.0
+702,85d839d4-5029-556f-914b-7b974b10f515,Bell Frisco Market Center,3.6,528.0
+703,2ea6a5b2-f591-545a-8778-eb0259e417b6,Alaqua at Frisco Apartments,4.1,124.0
+704,9e701458-ea94-5093-a517-aa962cfbc948,Orion McCord Park Apartments,3.9,292.0
+705,931a0535-cc37-543c-b244-4c92ff2938da,The Kathryn,3.9,186.0
+706,b54c9fc5-e611-5809-bcc8-42db127ded02,The Margo,3.7,148.0
+707,30de6eab-96d8-5781-b9b1-01582225c8d6,The Maxwell,4.0,237.0
+708,96d03ea9-788c-5342-b5aa-008e790d6191,Newman Village Apartments,4.2,87.0
+709,7be4da01-06db-5300-9556-114ab9ce4627,Avalon Frisco,3.9,251.0
+710,b25855a7-fa2f-54bc-a4f8-333d55aab735,Mirasol Eldorado,3.7,336.0
+711,71b888f4-618c-5eb0-8a8a-54c2b0d434ea,The Village at Lakefront,4.6,181.0
+712,d882c109-8fa9-5734-8b35-c1f23d7d6a9e,Bexley Frisco Station,3.8,205.0
+713,f8f2d799-0146-59ce-aabd-87c60dc31829,Kilby,4.2,97.0
+714,cbcf0f11-2592-59cb-98db-9fa2cb28695b,Cortland at Stonebriar,4.3,536.0
+715,aca6e279-225c-5769-9e26-3ff13697724a,Ayla Stonebriar,2.8,42.0
+716,211a397b-8469-5613-9f4e-c1677597c1a1,Summit at Stonebriar,4.1,340.0
+717,3fab32f1-f6b0-57d2-a148-d1ac07964241,Capitol at Stonebriar,3.9,474.0
+718,8dcb95bc-ec53-558d-8ae4-c3f17b84fa4e,MAA Frisco Bridges,4.5,537.0
+719,f86cfdb3-1318-52bd-a8e3-fede41c932bd,AMLI Frisco Crossing,4.1,125.0
+720,c2dcefae-1481-5606-bc87-be218eda40ea,Cortland Walker Ranch,4.7,542.0
+721,0522654a-0128-5224-8274-f62b61a719f5,Indian Hollow,3.9,82.0
+722,a5dabd7e-7f8b-566b-8db8-607de353ddb1,Villas Of Vista Del Norte,3.2,154.0
+723,9e8901c8-862e-5f29-94c4-3d022f893c41,MAA Haven at Blanco,4.4,284.0
+724,f46b5983-9b71-507a-848f-e2dda5014adf,Hayden On West Ave,3.6,204.0
+725,245f64c0-dec5-53a9-a68a-dbe51f4548c5,Ironridge at Hill Country Village,3.9,105.0
+726,60521607-72b3-5113-82ac-9da90a557d8e,Ridgeline at Rogers Ranch,4.2,309.0
+727,a383f25e-00ed-54d1-885c-2befdc9c8eca,Avita Alamo Heights,3.8,229.0
+728,785d290a-83ff-58f4-a510-33f07c6e75f6,The Standard At Legacy,3.9,106.0
+729,c4acfc74-17f3-56a4-b76f-3c824a2081ca,Dwell at Legacy,3.8,137.0
+730,f0669f67-3a4e-521d-88af-df5f91399448,Artessa at Quarry Village,3.8,97.0
+731,6691ec72-c886-59a8-95e9-05276479ae4c,Cortland Legacy,4.2,339.0
+732,1e557aa9-af1b-5bb4-a214-127da80cb418,Ravello Stonebriar,4.3,120.0
+733,405c9a9c-a2e9-5664-8e5d-125a01341c4a,Bell Stonebriar,4.8,445.0
+734,c59cb343-37d2-592f-b29d-067ce9570e5b,AMLI at the Ballpark,4.1,275.0
+735,cbcf0f11-2592-59cb-98db-9fa2cb28695b,Cortland at Stonebriar,4.3,536.0
+736,c85e57c7-4658-50d6-b9ed-2d115e1ec8bf,Lucia,3.9,294.0
+737,7b517738-5605-5b0d-b7a9-6597322ca30e,Domain at The Gate,4.0,180.0
+738,97d27cac-2c97-5ca6-8681-360c7d736a69,Windsor Castle Hills,4.6,507.0
+739,45d26cd7-3be5-5a8a-8ce4-4ec4da13cd89,The Atlantic Stonebriar,3.3,174.0
+740,a9ec0244-b9b0-5bf7-98c6-9d06cf22fa06,Flatiron District at Austin Ranch,3.8,935.0
+741,65994f42-524c-54eb-87e9-650a634beba9,Attiva Pearland,4.7,131.0
+742,61dc5fb3-70d2-51ab-a06a-96817d75a62c,Rosalia Silverlake,4.4,26.0
+743,b8fdb8cb-3f63-5e3c-ac4d-1577497e5c50,Sandestin at Pearland,4.0,129.0
+744,137e621e-0340-5877-9ff9-94bce82f1a30,Advenir at Boulder Creek,4.0,188.0
+745,362d1216-6299-5e17-849e-71a325031fd2,Westlake Residential,4.0,125.0
+746,621d3e26-f971-5e5e-a723-b513ab8ba629,Cortland North Plano,4.4,891.0
+747,fe0c5dca-eb24-5098-b30f-839a1564d299,Saxony At Chase Oaks,3.8,241.0
+748,cde8a50d-4bd1-5b37-aefc-08e3b8045714,Legends at Chase Oaks,3.2,187.0
+749,6c9f630d-5f40-54c9-88c6-5e077d3f089b,Benton Pointe,3.4,283.0
+750,1ccd41c7-5657-5d67-bb39-b85725438746,Settler's Gate,3.7,349.0
+751,822b1f27-2196-5e64-a918-57a70b6f84ee,23Hundred At Ridgeview,3.9,350.0
+752,7cae33f6-0835-5e56-ac5d-73739bcdd20a,Trails at Creekside,3.7,287.0
+753,399aa030-b19f-5e1e-beac-6eacdef4c425,Estancia At Ridgeview Ranch,3.6,297.0
+754,f4075683-3e27-50a2-873e-0b7c7d924e4c,Luxia Craig Ranch,4.1,354.0
+755,d6b33d47-32cc-5d6d-b00b-eca461df8746,McDermott Place,3.5,153.0
+756,eac80205-15f4-5d33-913b-ec03798b3451,Riachi at One21,4.2,271.0
+757,88c909ea-1eaf-5e12-8c16-962de8e5c2de,Cortland Bluff Springs,4.3,463.0
+758,21d87e10-f7ec-536b-a37b-61c4c4cef8fe,Terra Apartments,4.0,273.0
+759,097efdbb-c326-54e7-ba1f-a8ae1f85a780,Wilder,4.0,214.0
+760,548a33fb-d091-5f1a-8731-09b230b04e71,Bexley 3FIVE,3.4,159.0
+761,a5aa455f-b08c-5c57-aec4-dfe50afb2e2b,Still Waters at Southpark Meadows,4.2,205.0
+762,c93e581b-a5ea-5b18-8681-fcf9ef492aa8,Ladera Apartment Homes,3.9,210.0
+763,c433c17e-2906-5974-9bbd-3f39365de647,Ethos Apartments,4.0,451.0
+764,39279bc4-d485-5007-b1bb-82731cb62678,Lenox SoCo,4.1,172.0
+765,bfeefa5d-ef83-5172-811c-4989bd3fc8f9,The Bennett,4.8,108.0
+766,9cc6c387-215c-542c-ac00-cd3e290b295b,Cortland Onion Creek,4.6,272.0
+767,9d803de6-22b8-59dd-b8a4-f7fdbcaa8fe5,The Flats at Westover Hills,4.4,378.0
+768,c9e2253d-776a-5c1d-badb-aba4c8e914c3,Tacara at Westover Hills,4.5,542.0
+769,664c8097-2c2b-579a-b072-e244b1f51920,Falls at Westover Hills,2.9,302.0
+770,694016ee-a106-54a2-8152-a67957c6c591,The Haven at Westover Hills,4.3,387.0
+771,ae2c985b-3185-596a-9782-4f71a60f2838,Estraya Westover Hills,4.3,188.0
+772,768851b2-834a-5fe9-8404-86360ad24dc7,Dalian 151,3.9,235.0
+773,d1a880ff-5a44-563e-9956-d9dcf2d534c5,Dalian Monterrey Village,3.6,358.0
+774,164b3429-7228-54c7-8023-cd948836ba74,Avocet,4.2,368.0
+775,99e6d18e-1915-55a8-83e6-016ae7fb1f21,MAA Westover Hills,4.4,298.0
+776,47d68a17-54ba-57ed-94d8-eed6fa1a0af6,Pecos Flats Apartments,3.8,234.0
+777,ce2a4697-fba1-5ded-90bd-6048be6a9b35,Cascadia Luxury Apartments,3.7,333.0
+778,e96e22d9-7093-5e2d-9f08-02bfb1573249,Kenzie Park,3.8,124.0
+779,4ddf802d-d66d-558d-9df1-2cb3e53bc342,Citadel at Westpointe,3.4,188.0
+780,6bea953b-57f1-5372-8e9f-b43fa90f8cd0,Cortland River Oaks,4.3,236.0
+781,780f1e7c-d6f8-5c7c-b7e1-9ef831f59d35,Caroline West Gray,4.3,82.0
+782,4b76ac91-8ab4-591f-9e87-73428ac619f0,Arlo Buffalo Heights,4.1,310.0
+783,2a6e277f-4aa4-5857-a8d3-c584ee2e0f4b,Jackson Hill,4.0,165.0
+784,ee897622-59ed-5089-9337-002d318dfcab,Camden Midtown,4.2,266.0
+785,a9a107b1-cf7c-59d8-859b-72001588907d,Ashton on West Dallas,4.2,144.0
+786,adf77970-8e23-5013-9aef-b0c48d9d5309,City Place Montrose,4.3,156.0
+787,7cc6d81a-474f-5171-a35f-355111219cfb,The Fitz,3.9,148.0
+788,3b729a09-f93b-53c7-812c-b652def88a09,Midtown Arbor Place,4.4,77.0
+789,eaee8ffc-909a-57cc-9a99-164271c1c03d,The Left Bank,4.1,39.0
+790,e5e331c1-b090-5053-81f8-2bb11a0ba5a8,Cortland West Houston,4.5,372.0
+791,70d90db4-c8df-518c-bfac-c5559359edbc,Marquis on Park Row,4.2,401.0
+792,bb55fedd-0d19-52ee-917f-4fe3d5211f28,The Spencer Park Row,3.8,276.0
+793,d084402d-89c8-5535-be9f-a4e27652ee80,The Fuse at Park Row,3.9,294.0
+794,2b767a46-b02c-513e-85ae-443224615729,MAA Energy Park,4.2,200.0
+795,d08de165-4682-5a5a-832f-5b7f6501d716,Vizcaya Apartments,4.4,387.0
+796,a1eeab03-f273-5d4e-8943-4307a7516914,Cortland North Dallas,4.3,687.0
+797,23b17d00-7df3-5eb2-833c-91ee73faad98,Vail Quarters,4.3,189.0
+798,c5954d34-7101-5526-b40d-9c1be2fe04ad,Bridges at Deer Run,3.9,333.0
+799,f2a1b9fe-fe9c-5799-988d-b2cccd052bb8,Vail Village Apartments,3.4,109.0
+800,8c020497-c827-5fe5-82fc-6449227a23b8,Trinity Village Apartments,3.5,77.0
+801,e156558f-c2f8-5995-9420-682fc26cef3f,The Hamptons,,
+802,1b7db5cb-8971-5a4b-ae79-8a591862c7da,LADERA APARTMENTS,3.0,430.0
+803,f3dfcae2-bf8c-5941-bd50-8c830acaf289,Tides on Timberglen,3.4,238.0
+804,771cf812-cd22-5b1a-88b3-6c12d8d7a9e6,Camden Addison,3.9,326.0
+805,77e5c553-081b-5e5f-9a77-ae207888442b,Halston on Frankford,3.2,356.0
+806,4fd022ec-74f2-51a8-9176-87077f652bee,The Haywood Apartments,4.2,167.0
+807,b7f9ac19-4e69-5668-adf6-5b68dbea2d54,Farmhouse Apartments,4.4,200.0
+808,4e4e0e39-2b48-5097-8b14-6ad7d2dcf1aa,Landing at Double Creek,3.7,164.0
+809,6b272801-64d2-5bdf-bdab-fa852f9e451c,Bell Southpark,3.8,876.0
+810,03370698-2989-5f49-930b-aa127892700f,Aspire at Onion Creek,3.4,110.0
+811,e429d706-6fbf-5fef-9183-b27a703ba2dd,Park at Estancia,3.9,120.0
+812,4906d19f-a4e4-56b5-9b0d-b11aa8532939,MAA Double Creek,4.3,239.0
+813,64bd2bb7-983b-5cfc-b826-eba336711c6b,Parkview Terraces,3.9,80.0
+814,90a5e7a7-1a30-57c5-9abc-4ff1194ac21d,Lenox Woods,4.3,61.0
+815,8b741c50-ca4a-555a-9e17-d6700073ab40,Cortland North Haven,4.7,363.0
+816,73036dc8-8a80-59a1-a869-46ed17dfb1fa,Alys Crossing,4.2,183.0
+817,f1f22726-f30c-54b8-8dba-4f718f927416,Starling at Bridgeland,3.8,173.0
+818,1de6acc8-fc9a-5601-b527-f22165ba1a03,Camden Cypress Creek,4.4,529.0
+819,39738e2c-8faf-53d0-9edd-286142437a9d,MAA Grand Cypress,4.4,226.0
+820,fbc0de86-5938-5138-b509-9cd7512dbb10,Highline Urban Lofts,3.9,235.0
+821,6d3cf74e-e46d-5eb1-9ad2-6c766548c659,Highpark,4.4,107.0
+822,1994ad48-a7d6-5603-bbc2-d15496414559,Cortland Preston North,4.7,285.0
+823,c3f54e4e-082f-5048-9ec4-550d48b115d5,THE LINKS ON PGA PARKWAY,4.4,220.0
+824,5a8f116f-8b74-502e-870c-88383f25ecce,Prosper Crossings,4.0,100.0
+825,8413bad1-29d3-500f-a6e9-53466c32caf9,Camden Panther Creek,4.5,202.0
+826,e0060643-fc5d-5f65-af65-3e390b4778b9,Brea Frisco,3.7,110.0
+827,f88660bc-0f6a-5086-bd35-c745809f8e3c,Lakeview at the Gates of Prosper,4.6,111.0
+828,dbc5c201-a2be-5a0f-a25d-080ef9870b62,Orion Prosper Apartments,4.3,370.0
+829,3302d766-bed8-5396-b2d5-fd86e6100418,Villages 3Eighty,3.9,213.0
+830,fb82766e-215c-5598-bb45-d8dbaa833dcd,Park 3Eighty,4.1,355.0
+831,93dbad28-269e-5cd3-9833-033b4b149810,Avilla Parkway,4.5,92.0
+832,b1473974-ed4f-5598-a52f-ec50c4ec0d45,Cortland Avion Shadow Creek,4.8,433.0
+833,b2f03a69-3399-5d16-aa6b-fcbf2d895716,Cortland Luxe Shadow Creek,4.8,494.0
+834,cc2c81df-ed3e-5fb3-8e17-4d09cdcfc4f4,Kingsley at Shadow Creek Ranch,4.1,168.0
+835,c6d871af-a46c-5de2-87a7-69a89574cbec,The Townhomes at Lake Park,4.2,118.0
+836,29a280e9-8202-573c-a779-fb6cd1e91842,Sladestone Shadow Creek,4.4,213.0
+837,1c11eeda-95a9-51b7-ac79-67f3aae509da,Stella at Shadow Creek Ranch,3.9,332.0
+838,de61b0bc-96d5-5a96-b526-4c259fd8ac6e,Avenues at Shadow Creek Ranch,4.7,243.0
+839,ce384b45-5568-58a5-90a1-555602626977,The Palmer at Las Colinas,4.0,843.0
+840,f50bfbc7-d888-5e59-aa3f-350fb16f1b55,Vistas at Hackberry Creek,4.3,644.0
+841,1e1c5c50-4ad6-55e1-bdc8-bbff8c27528b,Cortland MacArthur,4.0,663.0
+842,8323efc9-9c02-517d-8090-165b3cdc2805,Calloway at Las Colinas,4.0,831.0
+843,f6fa3219-4404-55be-ac49-7468103bda4e,Jefferson Place,2.7,234.0
+844,128cbead-6756-55c5-bda8-d475f5ece103,Grand Venetian at Las Colinas,3.1,382.0
+845,6a591bb1-2eac-5fe1-b63e-92a9210a49cf,The Lyndon,2.8,382.0
+846,69d3768f-a0ce-5763-a5ca-3525073bf47b,The Arbors of Las Colinas,3.3,374.0
+847,acfb9e7f-16a7-5643-9c9f-ecaca3d9639f,Cortland Sugar Land,4.8,340.0
+848,9aca68f8-ec44-558d-a784-d284b45a74ac,Imperial Lofts,4.6,254.0
+849,5d6d5144-4f74-53be-ac13-fbcc6f293ce7,Alleia Long Meadow Farms,4.4,239.0
+850,2c05ab91-c7dd-5dc3-825f-b2c8ce72a371,Telfair Lofts,3.5,134.0
+851,fb14babe-c780-50e4-ad83-f589052e70b8,Satori at Long Meadow,4.5,211.0
+852,24859dae-7a0e-5882-b55a-24fac1233d3e,Marquis at Sugar Land,4.7,481.0
+853,6ccc06c2-96f5-5889-89b2-04beb33ca198,Villas at River Park West,3.6,117.0
+854,f5777475-c56b-5445-92c6-b2a328fe0e73,The Wildwood Apartments,4.6,179.0
+855,e7c4c5f2-3d1b-5560-b6f2-4833bf3b710e,Residences at River Park West,4.2,260.0
+856,18f9d1c0-6af3-5f9c-b3d5-294654ced1f5,Cortland Brackenridge,4.7,407.0
+857,57413ad4-1cf0-55ec-b34c-dafca54bb809,1800 Broadway,3.7,105.0
+858,cf746669-9600-55f8-b2ef-f5553f3fbe54,The Mosaic on Broadway,4.7,52.0
+859,9e5b9a17-b5c9-591a-ac5b-8b83e4a63cde,Southline,4.6,164.0
+860,ea1af63b-d858-59f2-8d9a-8afb037cd244,River House,4.2,125.0
+861,e43f08cf-5468-53ba-9aae-9afd4b40f8c7,Magnolia Heights,4.4,80.0
+862,29455c3b-9456-535b-b17b-0fbbde440b35,Rivera on Broadway Apartments,4.2,319.0
+863,77bc2033-c0e9-527d-b616-94257ecc3b62,Encore Grayson,4.5,31.0
+864,beb9fa2d-2dcf-5106-9f0a-33fdd99c81f9,Cortland League City,4.6,264.0
+865,0c87020e-14c6-5fc9-8141-0f25caf06548,Victory North,4.1,232.0
+866,282fc7ff-ce05-5b3a-b00a-03e2cb0e6ad0,Avenues at Tuscan Lakes,4.5,204.0
+867,33d7a05b-3d13-57cd-84a5-a68a919e87a6,Boterra at Lago Mar,4.5,70.0
+868,d876fdc9-5dfb-5792-b052-3b50b6086af8,The Reserve at Baybrook,4.3,151.0
+869,152554bb-145f-556f-a3b3-8ea6e95a063d,Amalfi at Tuscan Lakes,4.3,146.0
+870,d65312a2-ab52-5fbd-b19a-001b593b5642,Cortland River Place,4.2,292.0
+871,530f0ee3-3456-5f67-a288-7f5229302674,Abelia Flats,4.0,177.0
+872,77b3c699-b8c4-544a-937c-d61cc0b0cb12,Bell Four Points,4.1,278.0
+873,242b103e-29ff-5126-91df-f4d6968a5c6e,The Everett,4.9,63.0
+874,8dfe1dfd-4ab0-5394-ae8f-a1ea3bbb8dc5,Nolina Flats,4.3,162.0
+875,48b5e609-7639-536d-8155-b844d371fa06,Bridge at Ribelin Ranch,4.1,127.0
+876,6538a7f0-46ab-5252-bd8f-9b097e313bf2,Promesa,3.8,66.0
+877,11d7bba0-d4eb-57c7-a1a3-d9e22904f0cf,Ellwood at Lake Travis,3.5,544.0
+878,45ce7f98-2682-51bd-bba7-71af1a407172,The Verandah,2.7,188.0
+879,f66f96d3-d45f-5c9e-bd54-754a0b88d3c2,Aura High Pointe,5.0,6.0
+880,26e6835d-611d-51ba-be26-aa919c6cd172,Cortland at Twin Creeks,4.3,223.0
+881,a9e6c113-cbed-5229-94f2-08668f39093e,eaves Twin Creeks,4.3,236.0
+882,295470c1-97f2-5242-b066-91e2d821d213,DeLayne at Twin Creeks,3.4,76.0
+883,a49dbeb5-caa9-51e8-a6a9-4f84d3fead65,Sheridan Park at Spring Creek,4.0,373.0
+884,1c2e25b2-f4a7-5783-8035-dfcfebc0ec5c,The Gates of Allen Station,4.5,284.0
+885,33d1f151-4663-5bf7-95b0-4dabda16cc0d,Mission Eagle Pointe,3.9,175.0
+886,7492f5c3-5782-52b6-ae96-4dda703a38dc,Emerson at Ford Park,4.0,202.0
+887,47de4dd8-1dca-5c20-a224-2877bf02bb8f,Hidden Creek,,
+888,27828d3b-458b-5a48-b54c-0b9087a4bf5f,Ranch At Ridgeview,3.9,250.0
+889,69ddad74-28bb-5481-8be4-52a873950e88,Knox Allen Station,3.7,184.0
+890,3a7b7010-d4e4-538b-aadc-733db676006f,Cortland Seven Meadows,4.7,590.0
+891,b407a514-7fbf-56c0-bbd0-bb798c5c87e6,Grand Fountain,3.3,225.0
+892,7cbb9312-219d-568d-ba4c-a30b3cbfccab,Palms at Cinco Ranch,4.2,108.0
+893,ec7c2aaf-d960-5d9d-9979-e5c9389f6003,Montage at Cinco Ranch,4.3,183.0
+894,6a0eb68f-66f9-5754-87ec-6551233b771f,Lakeside Villas at Cinco Ranch,3.9,114.0
+895,9d51bb6b-f41e-5c2f-8ec7-0d395163509e,Prose District West,4.1,78.0
+896,07f03719-b757-54d7-b30f-6374f4998cb0,Allora District West,4.2,82.0
+897,d134d076-98d5-5af0-b5aa-cf0b2079221e,Cortland Lakemont,4.7,382.0
+898,150f6524-7413-5c3d-8b4a-c56c4a5a158d,Cortland Museum District,4.4,168.0
+899,34bc4ae4-9f4a-5f37-9c4a-d5945038ebf6,The Residences at La Colombe d'Or,4.6,116.0
+900,bc0eceec-9160-555e-a470-7da7ce3729e3,Hanover Montrose,4.8,842.0
+901,ee74337d-093b-59b7-85e0-650420955389,Venue Museum District,4.3,110.0
+902,b54f5f81-4080-558b-9379-07a581d6ba14,One Hermann Place,4.8,108.0
+903,a010589b-c25b-5d31-9434-b20a60bf74f4,Aris Market Square,4.6,277.0
+904,993e452b-d9a9-5762-a757-d82ae3722660,Drewery Place,4.0,303.0
+905,927d1a0c-be12-54e2-8b3b-da7d652ccfbe,Allure Hermann Park at Med Center,4.4,600.0
+906,c592dd60-6f35-5fd1-a41e-cb4d4a010688,Paseo at Bee Cave,4.5,340.0
+907,7f3da508-f959-5763-ba61-dcb12ba23990,Alister Oak Hill,4.2,253.0
+908,0d7722cf-4bbc-50c5-b237-1b9eb575dcae,Bell Quarry Hill,4.4,117.0
+909,2235a5c4-57b6-53a6-b16f-b0b4483d7c87,The Artesian at Bee Cave,4.6,54.0
+910,3fb4e698-8ba4-5715-912f-c3b63a088dac,Estates at Bee Cave,3.3,112.0
+911,e1ba4bf0-25a2-5416-9ff5-762e466e76d5,Avalon Hill Country,4.6,229.0
+912,7f586624-cd3f-5877-8442-1bf0257c4ed4,Callista Hill Country Apartments,3.5,179.0
+913,25b928dc-63b5-587d-9696-a449b31986c6,Landmark Conservancy,3.6,163.0
+914,2bf6b459-8639-5add-a983-7dbc8c0748cb,AMLI Covered Bridge,4.2,114.0
+915,d1f8a508-b70c-5edc-b19a-eed9c5475636,Cortland at Castle Hills,3.8,128.0
+916,8738dd52-2efb-5b04-b575-f87f78fb597f,Avalon Castle Hills,4.7,153.0
+917,ab53a5ce-a88a-5202-a755-e763256428e2,Station at Old Town,3.5,125.0
+918,c02f6c8a-fece-56db-9884-63a8047b28c8,Main and Mill,4.5,44.0
+919,ba6a8919-fb94-5d78-88c6-0c7d884fc408,Tapestry at The Realm,4.1,79.0
+920,22d3d212-5728-50f2-98c3-df9a07585a83,Windsor Lakeyard District,4.5,278.0
+921,d5a3954d-862d-589b-a7e0-5a42cde9b2a5,The Mill Old Town,3.8,54.0
+922,4dac0f5e-c190-524a-baf1-c05513e9a803,Valor at the Realm,4.2,181.0
+923,6836eafd-9c40-5ab6-99d2-fece7594d4f0,Olivian at the Realm,3.7,184.0
+924,99d7a71c-f770-589e-af75-b07bb1344d18,Lantower Legacy Lakes,4.0,316.0
+925,7da07032-5378-56a7-94ca-f7a3e236b23c,Aura Avant,4.1,29.0
+926,e04d5835-e76d-5682-bc1f-206961bcaff5,Cortland Southpark Terraces,4.3,610.0
+927,9d0d6908-11f6-586a-8260-e338903ce8bd,Estancia Villas,3.9,155.0
+928,7f4815ab-5792-5fe3-aee5-6ea02c37d8c4,Bridge at Asher,3.7,196.0
+929,7f151be0-b477-52b5-8570-9c659154ec07,Bridge at Southpark Landing,4.5,355.0
+930,647b6a87-043a-56f9-9c13-97cd2e3b387c,Bridge at Southpark Meadows,3.9,331.0
+931,db07b5b5-c6a3-5f2b-b0b3-4371b40ac97c,Iron Rock Ranch,3.8,260.0
+932,97ab14ec-f4ab-5571-9aa3-221dff6ca345,Cortland Inkwell Greenhouse,4.5,306.0
+933,ecae4a17-3b13-51b3-a6d2-abc3a20ff0b6,Hue on Greenhouse,4.3,444.0
+934,0065f7de-ac10-5813-9ca4-307685e93dd4,Territory at Greenhouse,3.7,224.0
+935,de7ee425-a554-5aa7-921f-64b94c0e0429,Radius West,3.8,393.0
+936,2db979d2-8a51-5b28-9584-ad258ec5a650,Emory West Cypress,3.9,127.0
+937,54aba2ea-1b15-505d-a633-9abcbee73bc0,Greenhouse,3.5,410.0
+938,f92e9d7c-b377-5a7f-b02d-7586abcc78e9,Cortland on Coyote Ridge,4.4,288.0
+939,5e28cbaf-3381-5280-b209-730fca0296d8,Residences at the Collection,3.6,312.0
+940,296a425a-e583-5e58-b563-2e6b0197e331,Wind Dance,3.9,182.0
+941,47a9b87f-18a3-5c92-988e-ad3fdebb72ab,Mansions at Sunset Ridge,4.4,419.0
+942,2fffd772-524b-509d-b12b-501ed6256d24,Townhomes of Coyote Ridge,3.9,500.0
+943,f451d704-1b1d-5b36-96d2-799db556b6da,Creekside 121 Apartments,3.7,566.0
+944,446d8c5f-4cc3-5253-8ee7-f48267240d76,The Bluffs at Vista Ridge,3.7,166.0
+945,678674c4-e6f4-5c5b-a6d9-bc79d9458fc0,Edgewater,4.2,382.0
+946,e612bb62-d893-53c8-ab11-3f75d81616d6,Avalon at Pier 121,4.4,294.0
+947,aeee65a6-7059-59ea-a25c-a63ff0a3fb99,Limestone Ranch,4.2,110.0
+948,ad1ddb47-0253-5cb7-8d97-dbf1062959d4,Cortland at Fredericksburg,4.5,454.0
+949,e84f8c69-797c-58d6-8255-905e37036984,Palmetto Pointe,4.0,213.0
+950,caf940d7-b24f-5be5-a38a-968739aec7ca,Firewheel,4.2,333.0
+951,a5248992-56a6-5a84-9c80-7d105e369bf8,Boardwalk Research,4.4,272.0
+952,dc898883-f61b-5c6a-8321-623dcdbc20df,Palomino Apartments Homes,3.9,175.0
+953,1074fc8d-c7fb-5c01-87c0-3301dcb7b52b,District at Medical Center Apartments,3.8,256.0
+954,67b26cb1-239b-5d7f-99c9-a0a899055e8b,The Abbey at Medical Center,3.7,278.0
+955,9ad44a76-9ec5-5454-96da-d0208f21e465,The Vance at Huebner Oaks,4.1,658.0
+956,bf1be8a1-6a62-5db2-b119-89d55ef91c6b,Ventana,4.2,252.0
+957,23764142-6db3-52b2-a97c-85cd830be441,Cortland Prairie Creek,4.4,356.0
+958,fc7a7cd0-a27d-5bfb-b822-974bb7c5ff8e,Estates Of Richardson,3.1,227.0
+959,2bf1dd84-97d1-518a-8679-cac00dad6a73,The Pradera,4.0,163.0
+960,91f16e9d-98be-5991-be02-27df4d338f40,Bell CityLine I,4.2,248.0
+961,bc57ffbe-7493-5392-b7db-0660bca4229b,Marquis at Waterview,3.2,298.0
+962,6b6b256d-d4bd-5780-b61d-49190ed5a9e6,The Lofts at Palisades Apartments,3.8,332.0
+963,926c61c4-5c2b-5fed-aac9-2adfa7394f74,Homes of Prairie Springs,4.0,165.0
+964,9f517eb5-cf3f-5186-b516-bb6d5846c713,Windsor CityLine,4.2,241.0
+965,35edf693-bf15-5db0-8dfe-790a4207d30d,Galatyn Station,4.3,300.0
+966,dbb2efd1-e771-5673-b8e7-e04a0c99e572,Axis 110,4.2,526.0
+967,d3e3a36d-c327-5863-88dc-a4da6e679770,The Bridge at Heritage Creekside,4.4,288.0
+968,593941fa-85d9-533e-91c0-df857e074b03,Allora Cinco Ranch,4.0,73.0
+969,31761bc8-bb1f-59aa-be42-d6e4c0b41d75,Lakeview at Westpark,4.4,322.0
+970,bce45c5c-4166-5cb7-a0e6-49cbea5b6ff4,Waterside Village,3.8,136.0
+971,d464a0d8-5c0a-5689-b5b9-311e875031a6,Haven at Bellaire,4.2,161.0
+972,8eb55713-dde2-573d-9163-ed81b341ff40,Cortland Arboretum,4.4,330.0
+973,ce6a8668-be0d-5423-b8d3-be453639d50a,Marquis at Great Hills,4.0,235.0
+974,481beced-b13f-5a38-ae84-18348fd50553,Stonelake at the Arboretum,4.2,259.0
+975,9644a03e-56c3-560b-8d66-caf178e3da4b,Hardrock Canyon,,
+976,3e4439f0-b064-5623-9218-30800913dd2b,Mesa Verde,4.1,156.0
+977,3a59e229-e44e-5588-a534-373a4a778362,The Copeland,4.1,237.0
+978,1cea135f-9df3-5acd-8d53-42727f39c0f7,The Addison Apartments,3.8,194.0
+979,34a80371-fc7f-5923-b04d-ec08e94747c5,Windsor Burnet,4.1,146.0
+980,05f985db-ac3d-5408-8ff1-3193c1bdaa7e,Griffis at The Domain,4.0,499.0
+981,3cceb4e5-5c6d-5776-a0b7-3bd928fea1dd,The Standard at Domain Northside Apartments,3.8,294.0
+982,6a321465-b446-521a-887d-6c3530ccfd1e,Cortland Estates at TPC,4.6,496.0
+983,3e78a98f-c5ba-557a-ad9f-bbaa288bba1b,Cypress at Stone Oak,4.1,601.0
+984,a8a2ea15-ca7f-5d8a-a99c-8ef5b1ec9292,The View at TPC,4.6,762.0
+985,ebc0eaa3-8588-5cdf-bd0e-97a8d42a06d1,Marquis at TPC,4.5,103.0
+986,3abc2338-8e38-58d9-892d-4bb1bcc69fae,The Abbey at Stone Oak,3.8,126.0
+987,fa77297b-54b5-5055-966a-221404085dfd,Maddox Hills,4.4,182.0
+988,aa2ba11d-db1f-50c9-891e-3dab4562286b,The Atlantic Stone Oak,3.6,163.0
+989,c947631a-446d-5f41-8fc7-4e6df42171f4,The Anthony at Canyon Springs,3.6,282.0
+990,a4b17dca-3f41-50e5-9e32-54a447b226a6,Summit at TPC,4.3,656.0
+991,85c4ef46-6e09-52a9-94ed-9cc54278624e,Estancia at Morningstar,4.1,166.0
+992,6d982bf0-0364-54a2-a444-89e0adf7a802,Windsor Mustang Park,4.3,214.0
+993,6deb31a5-1ebb-54c3-b441-37d9554b0ed0,Platinum Castle Hills,3.7,190.0
+994,6cd41c57-e109-57d4-9c11-e3c23be65b17,Stonebriar of Frisco,3.0,171.0
+995,f8716493-bf54-5233-b63c-42f35387ec18,Halcyon Castle Hills,4.2,265.0
+996,52ffbcdf-b4ca-508d-be68-57787642e3be,Vue Castle Hills,3.7,216.0
+997,e4f41dc5-fa70-577e-9247-220eafcfdddf,Lebanon Ridge,4.0,188.0
+998,5781f199-8e93-5634-81e9-b2d4e689fe03,Providence in the Park,4.1,508.0
+999,5c2fcc7f-e2a4-5e4a-a632-5a645f81a4a5,Franciscan of Arlington,3.2,323.0
+1000,6d5fbd79-d7ca-52bb-8cd4-a73b822ef89b,Park at Ashford,4.2,153.0
+1001,a33d6507-322b-5d25-83b7-bfff424ecc84,Arbrook Park,3.2,335.0
+1002,fb73c288-b845-562f-b8d6-4f2c752b77a0,Pavilion,,
+1003,363427bd-7794-5b7b-a0cc-0b550469f011,Villa Del Mar Apartments,4.4,252.0
+1004,71c5b93c-cfa7-513d-a8e9-d6eca6faf8b7,Sheffield Square,3.3,259.0
+1005,1a9af61d-e1bf-5a12-91cc-dcc2b297f30b,Cortland Mountain Vista,4.6,351.0
+1006,16d2ec79-7d15-5e61-9d9c-ed3de96c09c1,Superstition Canyon,2.9,91.0
+1007,e45c3c93-5c85-59c3-8526-1dbc4ac377d5,Bella Victoria,4.6,272.0
+1008,a0459841-6a02-539d-8d95-3550dd394bf8,Lumina Mountain Vista,4.2,141.0
+1009,a0422100-399b-54f0-886b-ca211b65e31c,Stone Canyon,4.0,313.0
+1010,54ccf982-7acf-5021-9925-1afc6342ea01,Liv Northgate,3.9,92.0
+1011,bacea394-0c02-5c84-a7c3-ed86d79f866b,Redstone at SanTan Village,4.2,237.0
+1012,bd53446b-b8d7-56c8-9736-c07769e30610,Vistara at SanTan Village,4.3,342.0
+1013,a8e93385-88d1-5b5d-b737-85c0f01f8542,MAA City Gate,4.3,154.0
+1014,04e3e43d-dd57-54b3-890e-5c8e26ae28a3,The Palms at Augusta Ranch,3.8,103.0
+1015,62fb47c2-056d-5cf6-89d5-38119a9d8e2d,Waterford at Superstition Springs,4.4,153.0
+1016,02b4f922-e847-5453-9757-2ccec9fec35d,Jefferson Chase,4.3,36.0
+1017,9ca2f72c-fcd3-5cbd-96f6-64615de947b6,The Bend at Broad,4.4,248.0
+1018,1e071fca-e7c9-5eca-8ec7-949d503c9143,Eastpointe Lakes Apartments and Townhomes,4.2,66.0
+1019,5e6484aa-2080-5d5e-b3f6-d917dc73696e,VWA The Villages at Waggoner Park Apartment,2.9,121.0
+1020,d72de02c-7d8e-5d3b-83b0-a459e141ce29,The Residences at Eastpointe Ridge,3.6,58.0
+1021,e2053b7a-9f58-599d-b5ba-4eb1b4e32047,Bedford Place Apartments,4.3,53.0
+1022,53a8ed85-10a5-5814-a9ed-517db073f29d,Killarney Woods,3.7,39.0
+1023,119ee6ff-dd56-5175-892f-f0721d2b4fd1,The Woods at McNeil Farms,4.1,130.0
+1024,326a736d-2c5c-5f8e-b2f9-e001a71fb059,Cortland Sunbury,4.4,75.0
+1025,ced8a24a-3e29-56e7-81e5-550ae3b3fd1e,Cortland Northlake,4.8,167.0
+1026,c6c09503-cb81-5a8f-89f9-ecdb177331c5,LC Sunbury,3.9,49.0
+1027,08ffb2b2-f44a-5318-9135-19820cf13c4a,Fourwinds Place,4.6,21.0
+1028,ad72ea98-f89a-5735-b468-b413573570cb,Northstar Flats,4.8,69.0
+1029,ec26f0ff-feb9-5154-9db7-45b316124a55,The District at Berkshire,5.0,24.0
+1030,146f2518-e7af-59f7-92ba-b4d94c7f14b2,Ravines at Meadow Ridge,5.0,31.0
+1031,6cc083e3-6b8f-5221-887e-f1319fe6dcaa,Lake's Edge,4.6,189.0
+1032,9834cfd9-d9f6-5359-add6-8480f9c09d93,Brooksedge,4.2,197.0
+1033,42d277e7-719f-5263-a6b2-638cb88d7de1,Pickerington Ridge,,
+1034,adb73d23-41d8-59da-9361-f09853f0d21e,Overland Park,,
+1035,a129f90c-b7c4-5cfb-82ce-2f91708e8645,Arbors at Turnberry,3.8,250.0
+1036,cbadf01f-2f62-5183-ace5-13c28275424d,The Residence at Turnberry,3.6,135.0
+1037,86535d89-2d12-50db-af55-86e11fb9c7a4,Alexander Court,3.5,137.0
+1038,2263aa77-43a9-5301-a831-be0fb277e5e2,Monarch Blacklick Creek,3.7,111.0
+1039,f3ca1759-9450-576f-aa84-e684cef3b5a5,Monarch on East Broad,3.6,139.0
+1040,4df8b0e6-1e50-5b09-b1ec-466d15712bac,Cortland Hilliard,4.8,128.0
+1041,64cdcd42-abf9-51bf-8a49-8559ee725f7b,Avery Pointe,4.6,98.0
+1042,51a6716a-fa76-519e-b1a0-a80ea70f1405,Landmark Lofts,4.5,145.0
+1043,af01f12f-ae62-505e-ac20-4d729d07edb5,Sheldon Park,3.9,113.0
+1044,c996a43b-6c03-5144-995e-7abc00af0ce2,The Square at Latham Park,4.6,58.0
+1045,f22e3fde-5958-5556-829c-f00feae261ae,Ryland Park,4.3,79.0
+1046,9f4e0c44-54ea-59dc-9061-11aa8e45cbe7,Hilliard Summit Apartments,4.0,152.0
+1047,4995228e-24f3-51e4-8024-3cc319094d04,Gables West,4.4,167.0
+1048,691467fc-fbdc-53d3-bdcc-e6f092f5fa01,Hilliard Park Apartments,3.7,140.0
+1049,f73b98aa-4696-599b-836f-84750aaa33f4,LC Hilliard,3.8,126.0
+1050,6850b6db-8dd3-5e46-a307-f9b382701767,Sunbury Ridge,,
+1051,07083b67-779d-5bbd-af54-227d240c5162,Crosspoint Apartments,3.9,116.0
+1052,a76f6f34-4900-5e8c-bfcd-3ab99f020a84,The Bradford at Easton Apartment Homes,3.5,181.0
+1053,91d09582-3524-5511-8a5a-47029e1d77f6,The Gardens Columbus,4.5,1913.0
+1054,c6432fb0-23a0-59f2-a5af-a0ea0e337b4c,Victoria Manor,3.3,99.0
+1055,b07f9d1a-d9a5-5f3f-8df0-b426fa90a1f6,Easton Commons Apartments and Townhomes,3.8,240.0
+1056,c9d3796d-22a9-523a-ac77-a4536a30fb00,Eden Park Apartments,3.6,27.0
+1057,cd9d28c4-cdbb-5411-8f6c-a7300c775d7a,Cortland at New Albany,4.3,105.0
+1058,b42337db-a188-5e59-9ff5-5740a8102a0b,Market & Main,4.9,82.0
+1059,cca7c047-5b39-5129-bf46-85f735f6c4f9,Woods at Perry Lane,3.4,64.0
+1060,180083f0-ca5e-5bf6-95a0-522b83174cfe,The Reserve at Preston Woods,3.3,15.0
+1061,c8550af3-6aa9-55ee-a8d3-273d4834783e,The Gramercy New Albany,4.4,224.0
+1062,6365febc-d977-5af5-b3a9-c8b5bb307103,Estates at New Albany,4.1,754.0
+1063,18f2bcb6-e6ec-521b-b9cb-ff2785850791,Enclave at Albany Park,3.8,160.0
+1064,90bb3a24-0e17-56e4-af59-3d7f734362c1,Fairway Lakes,,
+1065,1b3a8021-cd9d-5c8f-9d25-0aca2d52c4cd,District at Berkshire,5.0,24.0
+1066,650f1af8-7c04-5d75-8321-8eaf38e3d3bc,Orange Grand Communities,4.1,80.0
+1067,1b3a8021-cd9d-5c8f-9d25-0aca2d52c4cd,District at Berkshire,5.0,24.0
+1068,b4181053-5150-5ac9-a312-752f3ee9259f,Abbie Lakes,4.4,147.0
+1069,3f929de8-35f6-5692-a901-d1d363c7290f,Reserve at Abbie Lakes,4.3,291.0
+1070,d85c0d2b-9f10-5ced-ac60-b519db25f8f8,BriceGrove Park Apartments,4.2,128.0
+1071,cc559d63-30ef-54bb-86c4-bacf78e29099,The Coleman Canal Winchester,4.1,268.0
+1072,1ff6b4e9-9d25-5c2a-91f0-3022eadd2e3c,The Commons at Canal Winchester Apartments,3.2,176.0
+1073,6310ccdc-5a17-506f-b986-2ddb7309831d,Schirm Farms Apartments,4.1,162.0
+1074,439c1a2d-fd7f-579a-98e4-e40d290ae330,Lawndale Commons,3.6,53.0
+1075,cef1298e-3c81-556d-be92-d7797f996f60,Brynwood Reserve,3.7,23.0
+1076,d6e842f7-55a0-567d-8eeb-cd8c1f71723d,The Residences at Akita Lane,3.7,23.0
+1077,5a8308cf-767c-59d8-a0b6-eaf5cfe0cbf2,The Green,3.2,184.0
+1078,9dc2a0a7-c59c-58f0-a286-a44d9f44141a,Lake Ridge,4.6,148.0
+1079,bc920069-eb65-5383-8e09-04eb2e3eca11,The Residences At Breckenridge,4.0,118.0
+1080,58a76483-b7f5-59cb-8bb0-876f45f5f47f,Cabot Cove,4.3,218.0
+1081,51d6f82c-3e33-5dea-baa0-2b02908a5051,Hilliard Station Apartments,3.0,403.0
+1082,39c32ffc-9c2a-5630-898b-4c6b45fe5db7,Bayside Apartment Homes,3.1,224.0
+1083,e9103535-115f-5d75-af09-73bfd6320080,Brook Lane Apartments,3.6,76.0
+1084,db17a35e-b9a6-5706-a5ec-c9d550bae27e,Highland Park,3.7,137.0
+1085,15a78f48-76fc-5c63-8087-ac56b1ea5885,Estates at Brentwood Lake,4.1,306.0
+1086,55f490c0-af3d-57bc-8a40-7653abfd10fa,Creekside At Taylor Square,3.6,324.0
+1087,335cfbbd-8b88-50ea-a968-67b1981bc8ba,Tussing Place,3.7,33.0
+1088,72750af8-18ef-5d6d-9535-0b2583398d2c,Ashbrook Run Apartments,3.1,70.0
+1089,e20fbe76-c9ee-5476-a755-f32c7541ff03,Cortland Powell,4.6,132.0
+1090,278d54bc-6535-5543-ab1f-1223d0250a54,Liberty Grand Communities,4.2,51.0
+1091,d7b04dba-2e98-51d8-b0e6-513c69e9c579,Liberty Summit,,
+1092,a2df51dd-7067-5f6e-8307-f7a7e3971d6e,Nolan Reserve,4.4,26.0
+1093,293e1206-73e1-5618-92e3-0692ace6aea6,The Residences at Liberty Crossing,3.9,78.0
+1094,0b8c9414-948f-530d-a507-4a0418c7950e,Liberty Reserve,4.2,5.0
+1095,57fedd87-4f94-5cd0-b043-03378b851148,The Residences at Sara Crossing,4.9,69.0
+1096,22c9ef5b-1381-5af2-a608-f179131e6a2f,Rosewood Village,3.7,3.0
+1097,d502f78c-7972-5f09-affb-432a8cf93a93,Cortland Dublin,4.3,101.0
+1098,a567b193-b50c-5295-a8bd-906b4440932f,Gage Crossing,3.2,69.0
+1099,a567b193-b50c-5295-a8bd-906b4440932f,Gage Crossing,3.2,69.0
+1100,d5b92afd-55e0-5d61-ae82-9e1ff513d1fd,Avery Brooke Apartments,4.3,47.0
+1101,6fd7fbd3-3b89-5c37-854e-25e7c89869da,Valencia on Avery,3.3,25.0
+1102,d5836634-f8f2-5a69-9e3f-90df0cc3cdaf,The Kensington at Riggins Run,4.7,107.0
+1103,80485c37-5aeb-5a0f-b4ca-0af798a4f003,The Charles at Riggins Run,4.2,198.0
+1104,d5eed467-8466-5aed-87d1-d857f3e65bb0,LC Dublin,3.6,114.0
+1105,2bc56916-3bf2-545b-998c-65d6b90abb53,The Pointe,3.9,125.0
+1106,c6baafb6-025b-5b9a-a89a-381cbff9c098,Cortland South End,4.6,262.0
+1107,fe510f3b-64f1-5b18-a9fb-84a775c612f6,Hawkins Press,5.0,43.0
+1108,b30c2558-611c-5372-a2fd-df78cac3203b,Penrose,4.3,182.0
+1109,afa0d1e3-5c40-5537-bf6c-c97cf5a286ae,Silos South End,4.2,78.0
+1110,b5cdde79-8b7f-5ec2-b9fc-8985bb0257b1,Fountains Southend Apartments,4.1,105.0
+1111,8f2dc5a1-788f-5bc0-808b-c63b9fee0468,Hanover South End,5.0,81.0
+1112,72bc37e1-b58c-5806-8f8e-ee106933a66f,The Raven,4.4,56.0
+1113,f66cbb59-6880-532a-89bb-65466b0658e9,Avalon South End,4.3,101.0
+1114,0a23734c-3d1d-5225-917a-93dfad56012b,The Atherton,4.3,118.0
+1115,4720ee24-40d7-5cfb-a41c-f51d4795a652,The Boulevard a Broadstone Community,4.9,43.0
+1116,7ee9ffd9-ba03-57d5-a2a5-3480f71f0e48,Camden Southline,4.5,90.0
+1117,c4c0e95a-cd66-540d-8f31-b6bf113439a0,Junction 1504,4.6,114.0
+1118,50516021-33d3-51c4-a943-79a7eb0daaa7,MAA Reserve,3.6,195.0
+1119,39b391b5-6a2a-5701-9c0e-474ac0692866,The Edge,4.6,43.0
+1120,3f917a5e-82f9-5295-9d52-7d3faa00f7ce,MAA South Line,4.1,282.0
+1121,b88599a5-8489-56c5-8cc7-489fd9512aa0,1100 South,3.6,108.0
+1122,8810334d-8bbf-5a04-9362-eca5abb5c28f,Park and Kingston,3.8,60.0
+1123,818a5ae2-2130-5e9b-88b6-3ea4d32e9958,Bradham at New Bern,4.3,115.0
+1124,ff19a900-5ede-5975-b34d-e5d5933f336e,Park 2300,4.0,678.0
+1125,4d7f1856-f731-591e-98e2-0ddc498d7f58,Woodland Estates,4.4,626.0
+1126,9960f460-1746-5b15-b237-8c60438e82c3,Forester,3.5,124.0
+1127,fd994865-aadd-5f01-a039-b2a2a8f9b495,Safire at Matthews,3.8,256.0
+1128,8e195870-8bef-5533-a3ad-24daf1b4497f,Mission Matthews Place,2.8,208.0
+1129,afd2c9e8-46ee-5195-a8ae-ee04661496ab,Avana Matthews,3.9,544.0
+1130,8a0afa51-6a92-52aa-8d94-94cc5258cb63,The Madison,3.5,306.0
+1131,259fffcd-bc8f-5a3f-b403-4f4721d284e8,Stoney Trace,,
+1132,027127bc-e3e9-5b8e-b923-3ccfe6bb5bdf,Residences at West Mint,3.2,189.0
+1133,738788da-8756-5bdd-9a4f-d044aa7d6295,SomerStone Estates,3.6,203.0
+1134,f0f1c653-78fb-59b6-b17a-847b4b49336d,Stillwater,,
+1135,925efa58-3218-5b39-ae56-9aa95a10217b,Cortland University North,4.1,297.0
+1136,fdd01a18-e167-56d7-8abc-9c6b1b5178cc,Highlands At Alexander Pointe,4.0,329.0
+1137,04464929-33a5-51fe-953d-fa5a0fbca13f,Thornberry Apartments,4.1,151.0
+1138,ca9ecc1e-9ad6-561e-8f31-6816ea124066,Elan at Mallard Creek Apartment Homes,3.1,282.0
+1139,2211f510-db51-532c-a25a-d1bce0ba5c78,Ashford Green,3.4,351.0
+1140,dc874c12-3219-5313-9744-118a68e134a8,Commons at University Square,3.2,213.0
+1141,649ae875-36c5-5eef-b67c-5f96db3ca90e,MAA University Lake,4.1,321.0
+1142,723ebf1d-2877-53cf-b7a1-3d30398b7d5f,MAA Legacy Park,4.1,216.0
+1143,0aa34f63-53cb-5767-a7d1-a6e7a6b39fc0,Arwen Vista,3.1,416.0
+1144,e41c35f9-56ce-5313-8d8e-bf2abca66198,Greenway at Mallard Creek,4.3,505.0
+1145,76bcd0ee-b64a-508e-bc87-8d84c90bb208,Cortland Mallard Creek,4.3,199.0
+1146,e8f26063-2db8-5fb1-a149-b1f2b2e55878,The Vinoy at Innovation Park,3.5,318.0
+1147,05809e56-c654-57f9-9d95-56639d9d11c9,The Piedmont,3.3,345.0
+1148,7b1dc457-58a5-5dca-bb5d-3a2f2eccaa47,Cortland University City,4.1,335.0
+1149,94952f0d-1916-5003-b142-dc15ec0237e0,Ellison Mallard Creek,4.7,240.0
+1150,58ae6d84-ff66-594d-949b-f43e31751ebd,Ascent at Mallard Creek Apartments,4.1,157.0
+1151,55b67b43-ba72-545a-b883-83446c3cb59e,Latitude at Mallard Creek,3.8,475.0
+1152,f36aa2f7-4299-58db-bb7c-5eae08b869b5,Cortland NoDa,4.7,282.0
+1153,50740fd5-7b90-5ca7-b24a-50c668f2b77c,NoDa Flats,4.4,114.0
+1154,d8ca54f3-4667-5feb-b5d4-961cc0c2e4b9,Alta Purl,4.8,452.0
+1155,cb05c930-90cd-5c69-9fed-0cad34dac1c5,Broadstone Optimist Park,4.0,78.0
+1156,50eb6390-60a8-503c-ab55-f49fa09db259,Alexan Mill District,3.3,53.0
+1157,d7ec6bd8-eff6-521e-bd24-2aa62182f145,Abberly Noda Vista Apartment Homes,4.4,197.0
+1158,051f093b-5fcf-528a-9505-d3c6c53b430d,Broadstone Craft,4.5,68.0
+1159,6cb62503-1831-587f-b5cc-e92a2948f01b,MAA Optimist Park,4.3,216.0
+1160,11811034-78f9-57af-b382-8dfa2fe4b4cd,Alton Optimist Park,3.6,84.0
+1161,a8fa7cb2-be5d-5156-bc4e-106e2e2cdb0c,Joinery,3.4,78.0
+1162,8d19910d-d476-526a-a814-fcc40d92fc91,The Collective NoDa,3.6,295.0
+1163,a914e26f-c0da-58e6-b724-d4883026800b,30Six NoDa,4.2,197.0
+1164,1ad87f7c-38d5-533a-ba11-45f8bd7ae904,Kaleido NoDa,4.6,153.0
+1165,cbc3f0dd-5cdf-5042-927c-a9056580079e,NoDa Wandry,4.1,140.0
+1166,cc5e5599-d8e5-5117-8ad8-a66e208e9911,Cortland Wren Northlake,4.5,273.0
+1167,4d56f75b-3480-55d6-a512-e2356e2f490c,Evolve Huntersville,4.6,79.0
+1168,230c8418-1da2-5f49-bf71-bdc281bafe80,Apartments at Eleven240,4.1,196.0
+1169,fdda32a7-cfd4-5a6a-82db-ba0c77818d13,The District,4.2,163.0
+1170,a6acec87-ca0d-501d-a1de-2fe8bb6aea40,Residences at Brookline,4.5,270.0
+1171,1e1b676d-643e-531f-9628-ff9cee0892a6,Proximity NorthLake,4.6,361.0
+1172,e2c848c3-66d3-56bc-81d5-e3400cd71bca,Abberly Liberty Crossing,4.1,64.0
+1173,0486ab84-a263-5b13-8d09-164a88487210,Celsius Apartment Homes,2.8,214.0
+1174,ddcf85fb-54a4-5132-ade9-75d48fc5bdb6,Highland Park at Northlake,4.2,143.0
+1175,6e8727de-64e4-5905-9fea-4d7707903959,Cascades at Northlake Apartments,4.2,674.0
+1176,6da050ea-7fdb-5fef-86d0-81940d5f3560,Ashton Reserve at NorthLake,3.3,242.0
+1177,a6de7287-a411-5f69-8c19-78acad9e5e2e,Ventana Northlake,4.3,172.0
+1178,54c6fb30-5916-5f7a-9860-778692b3fb9b,Linz Charlotte,5.0,8.0
+1179,238bbfe4-5af4-5fc9-905a-23d5f74f77a8,Cortland Cotswold,4.6,218.0
+1180,b2f86023-8f3b-52db-b54d-24b399a6555a,Randolph Park,3.5,56.0
+1181,185c9214-0f43-5f79-a74f-b885398cba6d,Magnolia Heights,4.2,96.0
+1182,7c09f4ed-8dc5-5513-a271-55bfbac02a92,59Twenty @ Monroe,4.5,203.0
+1183,9ad26be9-47d5-5e6b-ada4-48a4fb28ec27,Camden Foxcroft,4.1,130.0
+1184,c77546da-0a53-5825-8219-a9b7b8bed57c,Madison Southpark Apartment Homes,3.7,224.0
+1185,5c2cc960-d762-5a03-8aa3-7de720867950,Dwell at Carmel,3.3,78.0
+1186,771f25fd-b138-529c-a221-c97babfd551e,Camden Fairview,4.1,100.0
+1187,e4070de9-b4a1-5130-bea9-c2bbd3231592,Pinehurst On Providence,3.9,141.0
+1188,7945d1f0-2d11-5866-b0dd-ce2ee54d48d7,Eastover Ridge Apartments,3.6,125.0
+1189,64473847-7851-5a26-8bf5-95db4ed767f5,Central Pointe,3.3,182.0
+1190,36e938ec-3ed8-5d25-aeba-18ab321a38e9,Arcadian Village,3.8,147.0
+1191,af2018ca-8181-5fca-b903-0c90afe18049,Southpark Commons Apartment Homes,4.2,245.0
+1192,34b65ed0-8bf2-5669-a56d-0c564e78bb1a,Summit on Central,3.8,47.0
+1193,54d23a87-20a4-5ff3-9813-371cc11f921d,Ashley Square at SouthPark,3.2,93.0
+1194,f4b61e38-db51-5474-bbe6-b904fe1234cf,Cortland Belgate,4.3,193.0
+1195,cce80e47-2f89-56a3-be08-12e27352cf19,MAA City Grand,4.0,144.0
+1196,00f0f602-b198-59eb-a9ef-adf9a1af6ffe,Alexander Village,4.5,312.0
+1197,7b6ca5f2-712d-536c-859c-d5e543c39175,Pointe at Research Park,3.9,213.0
+1198,a81006ec-72db-5bc0-8bcf-4f0f5f410a9a,Thrive at University City,3.9,180.0
+1199,1c63ad23-b1e1-514c-b1c9-7e87950db398,Worthington Apartments and Townhomes,3.8,347.0
+1200,5b7ad677-e216-55ab-b880-3c0d17fd1c3c,Verde at McCullough Station,4.0,192.0
+1201,51f7038e-60e5-5db3-a6cf-570f01f77bb2,Blu at Northline,3.4,329.0
+1202,35a2a377-2ecb-59d4-be6a-11065bfc6d23,8 Metro Station,3.5,163.0
+1203,43cd21d3-ec4b-5d74-8469-6ffb816ac71d,Lumeo,4.1,237.0
+1204,038a83fd-1e48-576f-807f-8ecf7f69a587,Cortland on the Loop,4.6,335.0
+1205,48a334af-00f1-552d-93cd-9a961b59d8f4,Cortland Sun River,4.6,308.0
+1206,f37d337a-95c3-52e3-9421-0efe7ef5815a,Pima Canyon,,
+1207,7cf9db28-45e4-5e5a-926a-bda54368bd1d,Sparro,3.5,115.0
+1208,8b757a5b-26ca-59bc-b0ce-e9964282392e,Domain 3201,3.9,223.0
+1209,0a44cef9-d8c8-56f9-ae9a-dc060c0993b5,Avilla Preserve,4.1,151.0
+1210,0117deec-5719-5d93-9075-cf40ebead55a,Sonoran Terraces Apartment Homes,4.1,118.0
+1211,9e9e8d83-b52b-5bbe-b9b9-cb4980ec8e04,Silverbell Springs,4.2,136.0
+1212,73bad3af-c6c4-5dd7-88d5-c7f1307af56c,Ridgeline Apartment Homes,4.3,293.0
+1213,42fab6c6-a344-5e20-8883-b6148c708a71,Circ Tucson,3.1,207.0
+1214,0210fe46-6c0a-5937-ae28-75ff8561d045,CentrePoint Apartment Homes,3.8,176.0
+1215,fc8d52d9-7901-589f-bc8f-1ba6ab70ee50,Saddle Ridge,4.4,235.0
+1216,15ca10b7-e3c5-511f-b373-82a91fef5a9b,ENVii,3.5,219.0
+1217,ba75cd43-d634-5820-827a-359af38138dc,Aventura Apartments,3.6,144.0
+1218,2ebca89a-34a5-5a6b-8142-728552e36dc7,View at Starr Pass,3.1,55.0
+1219,cb74ab19-5734-590e-9ccf-de70f29094eb,Sonoran Reserve,3.2,200.0
+1220,9d3a4ba5-d811-5770-98aa-351067da3921,Cortland Chandler Crossing,4.8,208.0
+1221,94799c76-f30e-50a7-a403-5adc68dcd67c,San Palmas,4.1,74.0
+1222,118acd09-d4b1-5a92-adc3-6b0bf3c4cd29,The Met at Fashion Center,4.3,281.0
+1223,08cc7341-0dd0-5d77-aa5e-934216fb3cab,Reflections at Gila Springs,4.4,83.0
+1224,ba4339e6-7eb0-591e-91f5-081506c5dd10,San Paulo,,
+1225,88ae3966-0566-5ecd-b137-3e4b7ed87c21,Gila Springs,,
+1226,bc33ae5a-4f81-5351-a05f-15459dce809f,Mountain Park Ranch,3.3,109.0
+1227,c263a288-4c54-5ad7-b754-1be4c7c9aacf,Symphony,3.7,173.0
+1228,a56fbbbb-d5b4-5fff-a4b4-b4a49bb464b5,CityScape at Lakeshore,4.0,214.0
+1229,26c9c336-be36-547b-b221-78ca0e37549f,IMT Ahwatukee,4.3,237.0
+1230,fc63ae98-17a2-5c85-8c8e-3b1b4101131a,Lumiere Chandler,4.3,273.0
+1231,63d64da5-ad75-54ad-aba0-cd445815cdbe,Lakeside,4.4,145.0
+1232,ea6d676e-9634-5032-a31e-fd4345424d63,Cortland Sabino Canyon,4.8,227.0
+1233,97a824e1-b066-5bcb-9b19-57ba6d3f7370,Bear Canyon,4.9,8.0
+1234,5d86f54f-f68d-5a83-8419-407819cd975f,Toscana Cove Apartments,3.8,154.0
+1235,80aeb500-b2e5-5d5f-9196-604ab0031d4e,The Vintage Apartments,4.0,134.0
+1236,1d2e8aa9-c7c7-5334-a38a-f26fdc7c9f65,Elevation Apartments,3.1,153.0
+1237,a38e90fe-306f-5fb6-a847-25db6f474383,Pinnacle Heights,4.5,349.0
+1238,0408f28b-5549-5ed2-b54e-98aad41ed5c4,Estancia,4.0,153.0
+1239,5186e902-9637-5b91-a91e-01bf0b15b152,Equinox on Columbus,4.0,50.0
+1240,b761f8ce-f86b-55a7-b066-e005de16fe62,Sabino Canyon,4.8,5086.0
+1241,a875bd9a-0d09-5a99-91f1-eeee2f1d9f7c,The Greens at Ventana Canyon Apartments,4.5,69.0
+1242,19e2d4d2-5125-5989-8402-615a620dea21,The Arboretum,4.1,224.0
+1243,510e1908-58b0-50a0-9d74-d3731738d66b,Cortland Biltmore,4.8,216.0
+1244,00c8ec65-e0d9-5f2f-996c-f586bd2cac16,Alta Biltmore,4.8,123.0
+1245,1f1e6bab-8fba-582f-83ea-03b82ac1a066,Biltmore at Camelback,4.1,171.0
+1246,53e95530-9bf1-5a41-a038-59d3bd6e7150,District at Biltmore Apartments,4.5,148.0
+1247,1d1099eb-8a0d-528f-abdc-fcc46d86c3ad,Citrine,3.6,64.0
+1248,4092cf26-7610-5685-aadf-6fe01e95c4c6,Preston at Biltmore,3.7,276.0
+1249,99485e80-9689-58b3-bf9f-4b96fd8dc0b9,Broadstone Waterfront,4.7,148.0
+1250,c1337d86-e7d3-5306-950c-ff3f3904289f,AVE Paradise Valley,4.9,53.0
+1251,5e5aef25-7f2f-591c-874f-bdcc20e4e7fd,Optima Sonoran Village,4.4,557.0
+1252,f86ec099-d983-5d01-a9c1-45d5cdd23c61,Cortland North Tucson,4.7,248.0
+1253,ed5ad431-1c6e-567c-8103-692656f25d23,Orange Tree Village,3.5,97.0
+1254,56aae3f0-7170-57ef-9f86-1d77fe73b5ef,Oro Vista,3.9,53.0
+1255,99c63dc1-ad28-59ba-bd1e-123f89ad39b5,The Place at Village at the Foothills,4.4,66.0
+1256,00720429-de82-55f2-be01-358aea552239,La Reserve Villas,4.7,240.0
+1257,b15fa167-0ec9-5fd7-83ef-f915d19ce444,Tierra Vida,3.5,83.0
+1258,855cd90f-d1e5-50ab-b463-c0d825230199,Rock Ridge,3.8,112.0
+1259,37285f6b-ef08-579d-809f-05f222c014c8,Galeria Del Rio,4.0,78.0
+1260,a280d9a2-ab8a-5d98-8f41-533ba464dc08,Agave Apartments,3.2,93.0
+1261,87c41956-f3f7-5a87-9eb5-8d90a5825ed5,Cortland at Raven,4.7,623.0
+1262,d30dd486-d9b1-58c9-b1c0-6c964ef29bf9,Esteban Park,3.4,123.0
+1263,f25aaaba-0fed-545c-9acb-3a6bf06bff82,Parc South Mountain,3.7,165.0
+1264,7446b2c5-9d33-5038-a9a9-d85a45d3cdf3,Portola South Mountain,3.4,70.0
+1265,c696b08f-cc23-5e13-b961-e426b227ba4d,Carlyle Townhomes,3.3,63.0
+1266,632c7297-e467-5a1b-a712-8968362b828b,Vista Sureno,3.4,152.0
+1267,4af0e0e1-4ec2-5c7d-a42a-764454ac9792,Sterling Point Apartment Homes,3.3,171.0
+1268,671aa6e1-3dd3-5384-8d1a-c71df2828886,Lore South Mountain,4.0,327.0
+1269,1bd84e2b-61e2-5b1d-9ecb-4c003dc56392,Rancho Ladera,3.5,130.0
+1270,ed0585b2-905e-53f4-8792-0ff8ea5829ba,Cortland at P83,4.6,244.0
+1271,8f7f50e3-51eb-5b4b-b541-84f2eac697f3,Ocio Plaza Del Rio,4.5,317.0
+1272,4ea8fe40-d105-5210-b153-391914620d5b,ORA Apartments,4.1,201.0
+1273,0ae233fa-080c-53b4-b4c4-7eee64ad1ee0,Artessa,4.4,470.0
+1274,13f13f55-36b4-5db8-8512-3076e20e9625,Escape at Arrowhead,4.0,168.0
+1275,5498a4e5-27e1-54ae-9871-067e6c914002,Alexan Park West,4.9,108.0
+1276,f5226f0d-546b-5284-b339-c21015039b4b,Velaire at Aspera,4.6,314.0
+1277,f4914b11-bf2c-5b8f-b391-71ac852f2673,Parc Roundtree Ranch,4.4,268.0
+1278,dc1bfeee-ce56-50a9-bfb1-b33b240e187f,Enclave at Arrowhead,4.4,234.0
+1279,8a4f0cd4-2fc2-5a32-91b4-198f39750e16,Cuvee Apartments,3.4,96.0
+1280,b38ffb90-e14e-540a-b8da-398565be27a9,Hangar at Thunderbird,4.6,137.0
+1281,2ae590c2-a91a-5121-b4e8-fd6628b12ad8,Cortland South Mountain,4.4,447.0
+1282,1fba5a0a-91a8-5ed9-9985-0a273d6c0ac1,909 West,3.4,460.0
+1283,37e19f60-a029-56b9-98fa-099b0b2d858c,Finisterra,4.2,416.0
+1284,fd917ab0-7da2-5c57-948d-5e272b55749f,Garden Grove Apartment Homes,3.5,314.0
+1285,bcc4c41f-e32e-5212-a121-57ea32088694,Liv Ahwatukee,4.0,93.0
+1286,98399a99-3b99-590b-b952-d8042d32265e,Harper,4.5,487.0
+1287,f2565d04-a2d8-52d7-9cba-7bb98b4acc8f,Sierra Foothills,4.4,276.0
+1288,5ded5ccf-5c16-5f0d-9d13-f1385646ab93,Sonoran Apartment Homes,3.8,265.0
+1289,b1c798cc-f164-5252-ba81-8cd54efe1983,Strada,3.2,344.0
+1290,cb9981bf-d3de-5af2-981d-2c748ffb0f19,Broadstone Tempe Station,3.6,393.0
+1291,830ceb6a-c018-5407-94d4-9dbe010957b6,San Melia,3.1,216.0
+1292,38e0fdae-7c65-593c-bbee-5dddb637e93d,The Place at Edgewood,4.2,123.0
+1293,ff4a7b25-d828-54f6-b61f-244fd704d1a3,Casitas on Catalina,4.6,68.0
+1294,131c17ed-8615-52a8-b2d1-2d5a27b9a04f,The Place At Creekside,4.3,124.0
+1295,cb59d29f-ca0f-5984-8713-8c487914d2b4,Vertical East Apartments *All Units Remode,3.4,78.0
+1296,77114484-5a2d-55fe-8ded-1019711a1cd0,Avilla Tanque Verde,4.7,29.0
+1297,b33391d4-7bc2-5cbd-bc08-418fd3087f10,The Place at Presidio Trails,4.4,123.0
+1298,9e284c50-f426-58c5-9e00-c5fd82c111a4,Ten50,4.5,62.0
+1299,cba8154d-d8c2-5616-abdd-6c4c04a45ca9,Cortland Arrowhead Summit,4.5,503.0
+1300,488a9704-4304-51d9-919b-fceaf61c6b91,Tresa at Arrowhead Apartment Homes,3.8,197.0
+1301,2fce349d-a13c-545e-a247-7315593cf963,The Franklin Apartment Homes,3.5,228.0
+1302,a93c5d2e-590c-56f3-a203-498509a01440,Arrowhead Landing Apartments,3.5,117.0
+1303,73c5a236-2430-54b1-a9ab-36327c024b89,Reserve At Arrowhead,4.3,426.0
+1304,6f79ea03-0353-5224-b22b-a5650b7a262b,Haven at Towne Center,4.0,184.0
+1305,94abee5b-3686-5cd9-a1d1-8cf00f4ae4df,Pavilions at Arrowhead,4.2,334.0
+1306,0f541a20-9894-5b3a-88d1-a9a08dc6d424,Indigo Creek,4.0,490.0
+1307,137718e2-de78-5e6e-a7a3-0696bd11b9d2,Sky at P83,4.0,110.0
+1308,b652eeb3-aa97-5ce7-be97-9236e8cef451,Paseo Park,3.5,361.0
+1309,f3da1c0f-3e05-57b1-bd4f-b33dc0353c58,Cortland Scottsdale Mountain,4.6,274.0
+1310,0bb8d019-d951-5c90-8380-1df02cc9cb61,Cabrillo,4.2,247.0
+1311,f057940a-d0e2-54b6-86e5-01ca18374dfb,Villa Montana,3.4,49.0
+1312,56dd9b60-434e-5beb-b737-65a43ddf1b14,Casa Santa Fe,4.2,217.0
+1313,8e5f7488-d6ae-540e-a873-71833359b9a3,Morningside,,
+1314,6dfe1e43-b90c-59d9-8cc6-fcbdb80c870a,Jade Scottsdale,3.6,231.0
+1315,617497cc-171e-5b12-9f52-1fcba9c2761f,Inspiration at Frank Lloyd Wright,4.5,74.0
+1316,53f4778c-e295-5d81-860d-60ea8f4778da,Scottsdale Highlands Apartments,4.0,270.0
+1317,094b18e4-f3cd-5fe3-843a-0d96d9174795,Sonoran Vista,4.0,192.0
+1318,d59a2b10-4b3c-5893-b202-54cbf0a0a9ac,San Carlos,4.4,56.0
+1319,0094d8b4-3dfe-59e1-92a9-98215e1c4181,Del Sol,3.4,116.0
+1320,1898eb39-a89c-502b-bddc-d07c4439e627,Cortland Desert Ridge,4.3,264.0
+1321,e7695fc4-9322-503e-b7e0-e35cc43456c8,Shade at Desert Ridge,4.1,216.0
+1322,43d83c76-88f1-5755-a74f-edd06b148ce1,Sonterra Apartments at Paradise Valley,3.7,198.0
+1323,7b72b3a3-b556-5159-928a-838767857c1b,Crestone at Shadow Mountain,4.0,167.0
+1324,0d18f5d8-8326-5633-8d1c-4fdbd538ceab,The Reserve on Cave Creek,4.2,274.0
+1325,160fc138-9790-519a-926d-fd15d20a8da1,Avora,3.5,234.0
+1326,067a9ef8-c51f-50b3-bfd0-660ee2fcb375,Avana Desert View,3.2,393.0
+1327,11ac1def-2679-5e05-b08b-b1b49c3ff3e4,Scottsdale Horizon Apartments,3.9,320.0
+1328,92a02390-5a02-59a3-a9cf-0eb735e61f20,Cortland Red Mountain,4.4,522.0
+1329,030792e1-8269-5fd4-a1dc-a6fc38336964,Alanza Place,3.9,210.0
+1330,19bc970e-74a5-56e6-8ab2-f01408dd0b1f,Residences at FortyTwo25 Apartments,3.7,141.0
+1331,1771fbe4-572e-5a6a-be31-721bc3a04ea5,Ascent at Papago Park,4.0,274.0
+1332,e1944160-c257-5362-914b-e73af9cd1f5a,Oxford Apartments,3.0,353.0
+1333,c7e305ef-0613-54f0-872a-71c55b78e8a6,San Portella,3.9,251.0
+1334,09f5bf5e-b7cc-511c-bc66-0a5ed56e0382,The Urban,2.9,331.0
+1335,719575c2-0cd5-5845-810f-f775bf4c0f50,MAA Fountainhead,3.9,265.0
+1336,094718db-d0cb-52c7-9f5d-5196ebd72d73,Arcadia Cove,,
+1337,08de8c29-d03b-59d9-b2cb-4658e92ec915,Rio Paradiso,4.0,401.0
+1338,d352183d-1ef3-5623-8a21-b6869e5b3388,MAA Old Town Scottsdale,4.0,251.0
+1339,0fc10321-53a5-5337-9ec1-627777c8e123,Heritage District,4.3,318.0
+1340,7f438115-8b5c-5a95-b34b-ac3500b3433a,Chandler Ridge,4.0,443.0
+1341,26641e74-8d9c-559b-90ff-0fd6af1a7a17,Cielo on Gilbert,3.7,370.0
+1342,9ab8861e-4268-503d-bad8-bf46a3dc0f61,Autumn Creek,3.0,195.0
+1343,d08927f4-dbfd-599f-ad9f-f1ebe04ccb00,Tides at Mesa,3.3,237.0
+1344,46a49727-ca7e-5a46-b3c1-ffcd3a4e2603,Avana Gilbert,3.1,307.0
+1345,a43014fc-38b6-5430-8cae-2c4c5d314c83,Villa Fiesta,3.3,92.0
+1346,55c4fe40-01d1-574a-a50d-a3e65742d28e,Tides on Southern,3.3,198.0
+1347,106d8ef0-2480-5e25-a305-71d5ed5ff353,Biscayne Bay Apartments,3.7,441.0
+1348,93b104b6-c844-5d57-84a8-c5797d1cb5f3,Genoa Lakes,3.2,205.0
+1349,b9887687-bee0-5fba-9d87-082fddb48231,Arches at Hidden Creek,3.9,409.0
+1350,7ec3f384-c178-5cfa-8cfc-c2d9b88f795d,Cortland Broomfield,4.7,239.0
+1351,1a5d19d4-ba82-5e26-948d-be7bd58239cd,Destination at Arista Apartments,4.2,116.0
+1352,0dd80f63-07ce-5d99-98be-535ce6f18e48,8000 Uptown,3.7,184.0
+1353,e62ea2c1-6848-500a-8457-eae677902cfc,Arista Uptown,3.8,293.0
+1354,fac5c158-4043-5ce8-bb1f-c641bbf7809f,Arista Flats,3.7,386.0
+1355,9a759f24-ee07-59c7-b0b2-268d8d79f885,RockVue,4.0,131.0
+1356,32aef535-2e95-597a-980a-d7ddb95c351f,Cortland Flatirons,4.5,288.0
+1357,5ab2a79e-d334-5b23-bed0-c9cc363f8688,Caliber at Flatirons,4.2,203.0
+1358,047e8aea-1a66-5b7a-97b2-786c0ccb8d7b,Polaris Apartments,4.1,38.0
+1359,cf853630-7c26-5d55-a153-4793775b3769,Harvest Station Apartments,3.4,139.0
+1360,c25a81cb-efac-5ae2-97bf-2a00df12b018,Retreat at the Flatirons,3.9,178.0
+1361,309d82d0-7015-5d63-9d73-e5a19f0fd7ea,Cortland Cap Hill,4.6,149.0
+1362,7f617137-57b7-5246-9c59-48042d2ce788,AMLI at Uptown,4.1,199.0
+1363,e3c8a07a-b8ae-5358-bf65-1db83830d389,Aspire 7th and Grant,4.7,142.0
+1364,61bd6d8b-9cae-5ee2-b070-22dd4ed33075,Citizen,4.2,103.0
+1365,575fc2ba-76be-5253-a292-db722fac3586,VIA Apartments,3.7,144.0
+1366,eac8da59-7a31-5406-82dd-ac79901b4ade,SOVA Apartments,4.4,78.0
+1367,66ff0940-538b-5c71-b1e1-ae20fdd81530,TriVista on Speer,4.2,146.0
+1368,0a7323a8-dfe9-5c57-9994-5f042cd63ff2,Art Studios,3.5,30.0
+1369,f18c5617-8df1-5a83-ba66-5b9424f42d97,Modera Golden Triangle,4.5,34.0
+1370,7f814d14-b5a9-5e61-93ca-a5088cf2a726,Cortland at Coalton,4.7,153.0
+1371,359e5af7-8848-5184-b309-f3071d479be3,Fusion 355,4.4,179.0
+1372,14a1fd78-ff43-524e-97d9-8dade6ac3e84,Bridges at Flatiron,4.0,142.0
+1373,21f2b46d-1743-5629-a61f-88b8053e5778,The Lock at Flatirons,4.1,41.0
+1374,e6e1bd22-0958-5c50-b534-ba01fd76038a,Bell Broomfield,4.2,155.0
+1375,4a632f76-ed35-5f66-9e12-5d164c0094de,Cortland Congress Park,4.0,182.0
+1376,7b77d19b-c6f4-519b-b155-695c43eff9d7,Milo,4.3,242.0
+1377,1e028079-6d0c-5ac0-89a3-e4bebe9660de,Broadstone on 9th,3.6,198.0
+1378,7422cd85-aeec-5434-b4bd-924a69bc7854,Venue on 16th,3.8,102.0
+1379,8a1a19d0-ee0b-5c27-83cf-c38452c3d712,Griffis Cherry Creek,4.3,186.0
+1380,4ddcdc94-995c-5a7a-a4be-59abfa00dbed,Theo,4.4,238.0
+1381,679f4f5c-2a2c-5708-8f68-82bcabe2b2e1,Griffis Cherry Creek North,4.5,78.0
+1382,b5f3ec5c-bc3e-5a3d-b0b6-2ba1a6f5ae60,Cortland Grand River,4.1,416.0
+1383,dcd2f1a0-607a-560c-a9d1-aaff65e9d38d,The Edison at Chapel Hills,4.0,41.0
+1384,7bd8d585-bec5-5848-a9c9-148f50131ff6,Forge at Briargate,3.9,80.0
+1385,82c32676-d37d-5873-837e-b2ca04ce9851,Volta at Voyager,3.6,98.0
+1386,20a69b49-f62c-5193-907e-f4b5e5acf236,Vue 21,3.6,254.0
+1387,be84ac2a-aebc-58b5-93f3-73b4164c888f,Elements at Briargate,4.3,143.0
+1388,56ba6764-532f-597d-9c35-20986caefba2,Cortland Belmar,4.0,199.0
+1389,b9925e1f-49dd-50f2-a7f8-6e485dd0b28c,Trifecta Belmar,4.3,133.0
+1390,b19823d9-ee4a-510a-ae01-156f740db400,One Belmar Place,3.3,115.0
+1391,35b79c1e-041b-5d27-acdb-73ac72acb0c3,Sofi Belmar,4.0,234.0
+1392,56ba6764-532f-597d-9c35-20986caefba2,Cortland Belmar,4.0,199.0
+1393,589ca68a-3957-5ade-9216-92fdff240d24,West Line Flats,3.9,78.0
+1394,701ff5d6-2012-59ae-ad9a-83f94e1767a2,Sloans Lake Apartments,3.4,142.0
+1395,f4e1c975-1935-5414-b55f-9ae067247c62,Elevate at Red Rocks,3.2,112.0
+1396,93cfa3cd-6b4e-5c91-8501-6ed1575cea9a,Alta Sloans Lake,4.5,145.0
+1397,ef3194d3-bc37-5a9b-85a7-c6e092ff4275,WestLink at Oak Station,3.8,107.0
+1398,ca64b710-9d90-5068-b734-2cf8f5b3ebc2,Lakeview Towers at Belmar,3.5,211.0
+1399,6b1664b7-3146-5120-b7a6-63bd7a87ecdc,Cortland Gateway Park,4.3,504.0
+1400,c650379f-2acd-534d-b048-c8a6a36b02db,Strata,3.6,277.0
+1401,c36bdd95-205d-5eca-9052-f6202fd63738,Parkfield Apartment Homes,3.5,255.0
+1402,b5dce0a6-c022-5e84-8b88-e7c970d9cbfd,Station A Apartments,4.2,270.0
+1403,344aceaf-6683-559f-b7a8-d065343fdac0,Gateway Park,3.3,229.0
+1404,8ad2c558-cba3-5799-8610-b75ada7a0f3b,Redstone Ranch Apartments,3.8,273.0
+1405,e07ff0d3-c7b7-5d45-8be8-c05e50478618,The Argonne,4.5,245.0
+1406,f17958af-18cd-5edc-bbb0-c5318ad2c9ff,Aspen Ridge,3.5,291.0
+1407,dcfbe367-99fa-5cc5-a85d-2be9ace08be3,The Ranch At First Creek,3.6,141.0
+1408,8909fd3b-3955-56c9-bbfd-2ad713ceb396,Forum,4.2,471.0
+1409,cfbf0284-1e76-54ff-8339-57dc5b2ea73f,7575 Town Center,2.8,328.0
+1410,62066b6d-58e8-55a1-ab36-c254ec1f8253,Cortland on Blake,3.7,450.0
+1411,baa6e96f-a971-505c-8320-00c8007407df,Premier Lofts,4.0,169.0
+1412,0555d1b8-3c98-5a0b-99cd-9d1040ffe8b9,The Douglas Apartments,3.2,269.0
+1413,571bafb3-aaaa-5f3f-8aa5-31fb299618fb,Point 21 Apartments,3.8,144.0
+1414,34f35759-b3f5-5f52-ae26-0c912338e8bf,City Gate Apartment Homes,3.5,192.0
+1415,4c51f114-ee12-5da4-ab31-6a7ac33a1457,The Battery on Blake Street,4.2,144.0
+1416,8b94f6c7-15cd-55e6-b4ae-5092dea4c64e,Cortland at 2534,4.1,193.0
+1417,7a23d407-fd2a-5fad-858c-8f24fccf7455,Rise at 2534,3.1,70.0
+1418,14eace24-786c-56a4-a58a-b7b3822dd361,Springs At 2534,4.3,127.0
+1419,cf134a16-0531-56c6-b390-0cc0a31330ef,Crowne at 2534,5.0,22.0
+1420,e1e085ee-c618-583a-a7a3-71e156be5672,Railway Flats,3.9,138.0
+1421,aa283c98-eed0-5afd-a608-04c6b381cb69,Cortland Alameda Station,4.7,249.0
+1422,9b9dc7c8-428d-5a84-9f1e-fdfcae42f1eb,Mason at Alameda Station,3.4,236.0
+1423,dbd5e387-d08b-54cd-94f6-7badc74e36b6,SoBo Station,4.5,197.0
+1424,f1bfa5f3-d53e-57e6-8123-df811c4f1dce,SB1K,3.4,192.0
+1425,a1c14be6-b507-54a0-bb67-d2c684e509b7,AMLI Broadway Park,4.4,192.0
+1426,1bac41a1-05a3-54e2-b61d-b9b0bc012154,Neon Local,4.1,143.0
+1427,70142d08-8640-5efb-884d-45e4c8e1b7b1,RYE SoBo,4.0,129.0
+1428,67f5a628-e50b-5219-85d8-3f9768d99b2c,Cortland Covington Ridge,4.0,175.0
+1429,0abda308-2195-571d-bee9-098b3efc52bf,The Ridge at Thornton Station,3.7,133.0
+1430,8b6bc4b9-55c1-559f-b1f2-d341a946571e,Avana Eastlake,3.4,236.0
+1431,a95a3613-e9da-5988-b7dc-6139ce045a42,Regatta,3.1,162.0
+1432,892f0148-c254-5529-9cff-f27ce0f8ce74,Avena Apartments,3.8,365.0
+1433,c0523b6e-25bc-5bad-b766-22c5f8cbd501,Links at Legacy Ridge,3.5,114.0
+1434,34f7cb8e-17eb-502d-bd74-b33c3a1c7183,Village on Cypress,3.9,195.0
+1435,cfeb09c5-bfa7-5c61-83c6-a28bdf8876f9,Lambertson Farms Apartment Homes,4.1,375.0
+1436,bd5dd7d3-edcd-554c-9ec4-0bb71eab1cf7,Cortland Rockrimmon,4.2,102.0
+1437,aff770eb-253b-52cd-b214-302b80e43e08,Whispering Hills,3.6,210.0
+1438,15dbba8b-aaf6-5253-a4cc-277190b4f424,Shadow Mountain Apartments,3.9,53.0
+1439,a63dcd6f-b49e-5be1-97a9-f1e649c8ecfd,Flats at Pinecliff,3.8,211.0
+1440,6da89cfa-2250-5fdd-add8-6aee789a58fa,The Oasis Apartments,3.4,157.0
+1441,b225d01c-7370-56b0-a634-87febb16ce21,The Goose Apartments,3.4,185.0
+1442,21fbe583-5d37-5ac4-b776-b3d1b45f1931,Mint Urban Infinity,3.2,561.0
+1443,d8af3247-74c8-5975-a37f-5a19234ae8e1,The Lodge,4.5,1048.0
+1444,6129c15b-df68-5de5-b4c5-a94b024e1e1a,Monaco Lakes,3.1,172.0
+1445,ff8fa583-efc9-576c-a414-b71d824ae7ec,Esprit Cherry Creek,3.8,803.0
+1446,c69c2eac-38de-51e8-a7c1-4286cd09186b,The Ventana at Colorado Station,2.7,266.0
+1447,920d2fff-4559-521d-8cec-42cc6fb8cf81,The Atrii,3.4,190.0
+1448,fc0810c0-1ba2-5afd-a951-c971ee15ab5a,3300 Tamarac Apartments,3.2,562.0
+1449,f8d9e178-2514-502c-be3b-1af6339d43b6,180 Flats,2.9,84.0
+1450,31392c6e-cb80-5f33-98df-456708cbdbdf,Monaco South,2.7,117.0
+1451,d05e4d4c-b6c1-5ec4-963e-68316e1bdbbb,Advenir at Cherry Creek North,2.3,277.0
+1452,d96730b0-8bf7-5839-bcff-0fcb9f61ea98,Creekside,3.7,233.0
+1453,4e09969f-1127-5d60-89a3-0fac69ace5e8,Cortland on Cherry Creek,4.3,416.0
+1454,c7691d76-8678-506a-ab70-89e29f0856ec,The Parc At Cherry Creek,4.0,108.0
+1455,73212c09-dfc3-50e4-b687-aed1375b8b12,Legend Oaks,2.9,402.0
+1456,009e4bbd-0a15-5bd1-824e-35f0153eedcf,Lugano at Cherry Creek,4.0,471.0
+1457,a261f5bf-ab4f-539e-a898-eb6e979bfe4c,Alton Green,3.6,261.0
+1458,515ba9e8-4a54-5342-92b0-049940177e89,IMT Cherry Creek,4.2,321.0
+1459,64fe2e84-e0a2-506d-b3be-e40873f6d5f4,Addison at Cherry Creek,3.6,312.0
+1460,d0a40537-c765-512e-ac76-7ca66fdb7b64,Hampden Heights,3.7,249.0
+1461,0fc8a466-0cbf-50b4-aa3e-95cfab34a496,Apres Apartment Homes,3.3,164.0
+1462,82a92204-b3a8-56c4-862b-c13d5e9d0361,Alta Springs,3.4,240.0
+1463,6028cd7a-518c-503a-9ee0-6fad8a05d3fc,IMT Lowry,4.1,306.0
+1464,e3b05d27-fa3a-5ab0-a999-de2e2e11fe17,Cortland Westminster,3.9,368.0
+1465,f7629180-c635-56f8-b554-865b5c338882,Haven 124 at Eastlake Station,3.9,769.0
+1466,8fe99059-71cb-5ff3-90c0-21979e507c7c,Avana Thornton Station,3.3,415.0
+1467,0e3767ff-fecb-55db-b52e-abb5a8927c32,Red Hawk Ranch,3.0,236.0
+1468,07457c6c-f745-5676-86e4-3195a819876a,Canyon Chase,4.0,304.0
+1469,c7b42065-548c-5785-8288-1a0a57e48bf3,The Tenzing,3.9,130.0
+1470,7b1141b0-f6a0-5d98-947a-7806208da80a,Westcliff,,
+1471,f8fae798-6e3a-5265-ad2b-1c44ae34b9b7,Parkhouse Apartment Homes,4.0,514.0
+1472,f3b2238e-f1f2-5331-b43a-280dbe3a652d,Cortland Powers North II,4.5,230.0
+1473,291c447e-1ff1-50d6-a168-0f3bb41af52d,Crowne at Rio Vista,3.9,25.0
+1474,b9a5d8f8-12cb-5a99-b993-c4a7206f5c62,The Taylor at Greenway,4.1,35.0
+1475,f4481a2c-173e-5e2a-bba5-82f15e486b31,Apex,3.9,148.0
+1476,1c05ceb8-9c42-539e-b40a-69677eda4397,Upland Flats Luxury Apartments,3.9,77.0
+1477,1a665190-f6d4-55f3-9f26-dfd6b4ecdeda,Aura Crossroads,4.3,55.0
+1478,66ed6f90-bcc4-5361-9b28-dc2bf4955b25,Cortland Benbrook,3.9,343.0
+1479,95984ca7-8b5c-5e80-9862-4df8aa9d67dd,Heights of Cityview,3.6,296.0
+1480,d42e88d7-af92-5c20-a393-af39608ae0c8,Estates at Team Ranch,4.7,165.0
+1481,e6cb272d-1363-5a77-b34d-5e55a784f31a,Westmount at River Park,3.2,165.0
+1482,ff4d3fea-d8d9-564e-a860-d5291c40382e,Greenwood Creek,3.8,209.0
+1483,6a028592-c041-5354-85fd-5d92aebe9e82,Lauren,3.5,107.0
+1484,fbab24a3-d86e-5f3c-b316-05e52d33861b,The Arbors on Oakmont,4.2,250.0
+1485,32a4c463-8ba2-5caf-8b0a-df56ac38b12b,The Haven on Chisholm Trail,3.4,385.0
+1486,029a7bf4-38ff-5398-b042-53b0f7341e17,Rise Spring Pointe,3.6,165.0
+1487,9c319d5d-ee3c-5e9f-8245-5d9a50754bf3,Chateau on The River,4.6,264.0
+1488,bd952341-4ac4-507a-b56f-bada56882ab5,Constellation Ranch,4.3,480.0
+1489,328af6e6-c804-5209-90f8-f3bf364b9e77,Avana River Park,3.9,211.0
+1490,8f3e16a7-186c-5fee-b535-d128fd71031a,Laurel Heights at Cityview,3.8,322.0
+1491,c562d284-4107-5386-9130-a2ed87f4382b,Cortland on McKinney,4.4,129.0
+1492,9cae3509-5b46-5835-9ac1-fa53bbe777fe,The Christopher,4.2,186.0
+1493,f240d33c-1e94-5e7b-8d81-5d8090658373,Gables Park 17,4.3,125.0
+1494,7f651dfd-f545-5046-8ff6-e6252d0885ec,The Ashton,4.1,48.0
+1495,7486df5b-377e-59f7-bb04-6dacee782ba5,Cirque Residences,4.5,381.0
+1496,429e6567-9b79-58b2-b0af-65156b5c4f96,The Jordan by Windsor,4.6,192.0
+1497,adb137e3-0c34-58f6-a1c7-d9bbb031b746,Azure,4.5,53.0
+1498,871ec8e9-709d-5279-9749-9578be955ff5,Ascent Victory Park,4.0,153.0
+1499,50e5935e-623c-5b11-b1af-75647d09c5a4,The 23,4.5,110.0
+1500,691498e9-cee9-5943-984d-cf1044b89d30,The Victor,4.6,203.0
+1501,78e762f2-ac9f-5282-a45c-c763033d1eb6,Glass House by Windsor,4.3,136.0
+1502,865f67bb-6644-5e6f-bb72-bb4dbd986472,Residences at The Grove,4.1,80.0
+1503,9d532859-49e7-5fba-a8a4-77f5e0fee939,Cortland Chisholm Trail,4.6,319.0
+1504,3b6b6335-801d-5c87-8832-fc868da3532c,The Trails at Summer Creek,4.1,88.0
+1505,93009b8a-a51c-5bbe-9b83-456cf541e97a,Avendale Chisholm Trail Ranch,5.0,12.0
+1506,a39d3e70-55f4-585f-98a2-fc7c7deca49c,Chisholm at Tavolo Park,3.8,202.0
+1507,9e2dbccc-5e6a-5ae9-9eeb-3a94fcf74ba2,Landmark at Crowley,4.0,74.0
+1508,374ad70a-f57e-5c4c-beae-cc406af800f0,Avalon Benbrook,4.2,40.0
+1509,27ada60b-5470-56a2-8517-b8e9fdc78c97,The Dylan,3.2,87.0
+1510,6f24cccb-3885-513b-bb66-5e59198a8c7c,Cottages at Summer Creek,4.0,68.0
+1511,5d4bf1fb-5654-589b-a8a8-3b654d832000,Fairmount Oaks,4.1,64.0
+1512,3e6f8e4d-43d4-59d7-9c6f-610e94fa4372,Cortland at Valley Ranch,4.1,232.0
+1513,98e58c0d-d85f-5a2c-910e-6c7626efe477,AMLI at Escena,4.1,286.0
+1514,abe58093-71ba-558d-afd8-588fa055fca6,Cortland Waters Edge,4.2,386.0
+1515,ed7cea4a-2f69-5833-b428-9efa255fa41b,The Towers at Mercer Crossing,4.1,280.0
+1516,a0a119f2-532f-5910-b22b-40461f9402da,St. Marin,3.5,221.0
+1517,36af5ca5-d073-5108-a012-36ab0d3c7f9a,Verandah at Valley Ranch,3.2,147.0
+1518,6b525e23-c894-59ef-a029-0b04ce88e062,Mercer Crossing Apartments,3.8,560.0
+1519,667bd314-6fe1-559d-a8d4-2f56a92ca2ca,The Oaks at Valley Ranch,3.3,543.0
+1520,26a2d839-c2ef-56f1-bf71-f0692af7fda2,Anthem Valley Ranch,3.2,179.0
+1521,3b4eb079-65b5-5b5c-8761-4f26821bfc47,MAA Valley Ranch,4.0,372.0
+1522,ff9ccbe2-fe70-5cee-abad-6c43101b9125,Lexington at Valley Ranch,4.4,162.0
+1523,239654e9-f805-5a15-b104-4d0fc0cba6ae,Devi Valley Ranch,2.9,205.0
+1524,e178163f-1d2f-51cc-86a8-8541be5f1e31,Cortland at West Village,4.7,120.0
+1525,e7d0dea7-dbde-53f7-875a-933367da316b,ALARA Uptown Luxury Apartments,3.4,130.0
+1526,eade2ee5-dddf-565f-aeb1-f73a19f6179a,The Uptown,4.2,177.0
+1527,f87f2da2-cf0b-5333-9c6c-2277b3258623,L2 Uptown,4.1,229.0
+1528,ceb3c9d0-376c-5c46-a5bf-b153ff881228,Lennox at West Village,2.8,57.0
+1529,f43f77f4-7102-5aa0-85fd-b2730dedb2e8,3700 McKinney Ave,,
+1530,5c7d1ac8-38ed-524e-9e0a-cb1af07a74d2,Gables Turtle Creek Cityplace,4.0,156.0
+1531,ca8edb6a-68f3-5c67-bc48-5eb4335af9f1,MAA Katy Trail,3.6,136.0
+1532,918d3431-c473-56b3-98e5-de59a12b18df,AMLI Quadrangle,3.7,102.0
+1533,1af4eea1-edf6-5896-9700-407fa87e680c,Mondrian West Village,4.4,122.0
+1534,1bce86e9-013d-5642-8a2f-3f789554ceca,Ardan,3.3,156.0
+1535,6e376345-6cb5-5839-9a20-109e7b71174d,The Oliver,5.0,12.0
+1536,8e996794-1830-5b17-920c-8a9451673ea7,Windsor Preston,4.1,274.0
+1537,957db7c0-37fc-5071-97d9-d3c5a125268a,The Huntington Apartments,3.9,290.0
+1538,ebb5379e-8edf-5b0e-8458-0946264e35d2,Berkshire Pullman,4.4,155.0
+1539,5477d72c-a317-530a-86d5-22f1f114c80d,Cyan Craig Ranch Apartments,4.0,251.0
+1540,bf42e3a1-4d3e-50a0-823e-cfdcf88f948c,Isaac Apartments,4.1,96.0
+1541,8e0b319b-94f7-5341-ab40-59e64cadf40f,Waterford Market Apartments,4.4,326.0
+1542,c85e57c7-4658-50d6-b9ed-2d115e1ec8bf,Lucia,3.9,294.0
+1543,57dbeb8e-1570-5359-a5c2-4a120a4a5d9f,Luxia Preston,4.4,205.0
+1544,f8db3fdd-69e7-5c2a-a265-dc9a9dfbf2cd,Cortland Fossil Creek,4.3,442.0
+1545,78265fce-fb85-5023-8eb8-65422b044230,Sorrento,,
+1546,cf80cc7c-a354-5c3c-a27a-344a39a69a77,Belterra,4.1,229.0
+1547,cf850b9b-a5be-574c-80bd-d1e703670ea7,Jensen Fossil Creek,4.3,252.0
+1548,a21cc9bd-3fb1-5ef2-8c87-0cf686aa3c89,The Hadley Riverside,4.5,365.0
+1549,fb126673-970d-5182-a91f-7d1a56de9613,Carmel Creekside,3.7,302.0
+1550,2205f5c2-9366-54f8-bd80-3e3a222b27c1,Lake Pointe Apts,3.9,215.0
+1551,fcf3f5ef-55e1-5dcc-aea5-f28ac2399e95,The Greens of Fossil Lake,4.2,203.0
+1552,a8e1f2a9-04a0-5a11-8824-d46b11cdaa3b,Resort at Jefferson Park,3.7,246.0
+1553,b53e2b24-db89-5b65-a6f4-d7c551ac0fcf,Riviera at West Village,4.2,107.0
+1554,eb54b607-32a5-55b2-9e33-d1efd6f1fa6e,Uptown Trail,4.2,130.0
+1555,a7fe7eda-956e-5f4c-9f29-87a379430ca3,The Monterey by Windsor,4.0,102.0
+1556,cdfbe188-2f56-585c-a9b3-0051dc61dee8,THIRTY377,3.4,152.0
+1557,5ff6a930-b33d-5f2b-9f71-a41c40b2a1d5,St. James,4.6,205.0
+1558,d439dc88-5239-5da4-8465-6e97d1e99ef4,Radius Turtle Creek,3.9,47.0
+1559,ceb3c9d0-376c-5c46-a5bf-b153ff881228,Lennox at West Village,2.8,57.0
+1560,b4bb164f-fde9-5d87-96d4-cc2aeddbf84e,Uptown at Cole Park,4.2,126.0
+1561,2141ebc8-b275-57ad-93c1-e59c997055d9,Broadstone Paragon,3.1,125.0
+1562,31e9848e-234e-5219-9061-d9d4107ac875,MAA North Hall,3.4,93.0
+1563,137a7384-ca85-579f-a01d-6db3490a12dc,Maddox,3.9,238.0
+1564,bafd1cf0-0f18-5cba-9be3-5d9da9a85ab6,Gallery At Turtle Creek,3.9,144.0
+1565,7a4cfb4b-5ed9-5d41-880c-38425818640b,Howell Uptown,4.5,65.0
+1566,a404c5d6-16bc-5cd1-88c2-e24001537a96,Gables McKinney Ave.,4.6,135.0
+1567,68521ef4-7d15-5b1e-823a-ae2eb7f3471b,The Arts,4.1,165.0
+1568,6d7ca0bd-6b18-5297-b280-2826c88ad196,Bell Katy Trail,4.5,235.0
+1569,a200c812-87bd-5a1a-913c-c5e292826a53,Monaco,,
+1570,82846684-b8b0-52a2-ac9e-7aadd98c3d8b,Moda Apartments,4.0,200.0
+1571,1e2e7b4f-1014-549c-beb2-76e670bd1c9c,Stella Apartments,3.2,97.0
+1572,f33b77a2-0b55-55f5-858c-f267b0be982f,Marquis of State Thomas,4.7,110.0
+1573,5e5c153d-d994-5b54-8bb0-f79fba2ab874,Seville Uptown,3.8,174.0
+1574,af644adb-202f-567b-9146-0c9496f0284e,Cityplace Heights,4.0,360.0
+1575,fc482827-177f-585f-abff-b52290bec7ad,Gables Mirabella,4.5,76.0
+1576,97648651-d0d9-50b7-9f19-33ff1099a959,Cortland Bear Creek,4.6,374.0
+1577,1dfb61a8-fa2b-567c-abf2-34692a221102,Harlowe (TX),3.9,273.0
+1578,defe1112-a72f-5117-9091-d641a85802c0,Bexley Landing,4.1,137.0
+1579,f9871ffc-615b-57ba-a01d-f6bed853ef26,Avenue 900,4.1,324.0
+1580,4ea36ded-85de-5ea8-b430-4b5958f89b15,Domain at Founders Parc,3.8,165.0
+1581,9a6a2f4b-9f04-58d3-8bc9-e0698db49d71,MAA Bear Creek,4.4,517.0
+1582,e6f1c1b2-7c74-5685-9792-84bf99b2078d,Hangar 19,4.5,234.0
+1583,78b5adb4-31b7-57cd-8851-eb174a9552b4,Belmond,3.8,293.0
+1584,f88130e5-259a-5abc-b305-239543274938,Hidden Lakes,4.0,452.0
+1585,1785e95c-68c7-544a-b650-aeaf2ae85edd,Ranch at Fossil Creek,4.1,429.0
+1586,bf254fed-a30e-57b9-88ff-3663dae33e6c,Park Creek,4.1,191.0
+1587,fcf3f5ef-55e1-5dcc-aea5-f28ac2399e95,The Greens of Fossil Lake,4.2,203.0
+1588,39b57223-1c0c-5a02-aa8e-2c606fa95f5e,Aspire Fossil Creek,4.0,153.0
+1589,47457b35-986d-55c3-9399-aba4bfc213a6,The Atlantic Station,3.2,210.0
+1590,92851505-1bcd-5078-b0bc-73da1be8e151,Rise Fossil Creek,3.6,179.0
+1591,a10694fe-1cbf-5b9e-882c-25f0063bb95c,Northern Cross Apartments,3.6,288.0
+1592,100b9c6b-7959-5a4a-8677-78880f6b8c58,Cortland La Villita,4.2,314.0
+1593,ab745c85-791e-52fb-832c-3ae46e8b3593,La Villita Lakeside and Landings,4.1,269.0
+1594,dcc19126-1069-57c0-9201-e40587b26598,Mission at La Villita,3.6,264.0
+1595,311570b9-db41-5c56-9750-2ac134931a6b,AMLI on Riverside,4.2,213.0
+1596,258d9b80-1c81-5ed8-95d7-267ef81a2462,Allura Las Colinas,4.1,805.0
+1597,291345e6-d5b6-5cb8-a288-7b1adabdf0c0,Lakeside Urban Center,3.5,175.0
+1598,a1d8a297-2324-5081-beb4-b9c7b910a203,Cortland Ridglea,4.4,301.0
+1599,df8bba01-a892-50e7-900e-da71831ee5ce,The Canyons Apartments,3.2,218.0
+1600,284ae5ad-c0a6-53b1-92e5-e0b77457e9bd,Marquis at Stonegate,4.5,164.0
+1601,fe980759-7265-5383-b62c-e0dd3ca80845,Dixon at Stonegate,3.7,62.0
+1602,b465e644-c2fa-58a2-bc57-be8a069a59ad,Marquis at Bellaire Ranch,4.7,79.0
+1603,d0ba1f3a-9dd6-5be9-a2b9-460985a50021,The Club at Stonegate,4.0,317.0
+1604,ad9f32ed-2614-50b0-bd58-94a0756d5462,Broadstone on Trinity,4.0,288.0
+1605,3e1ffbca-b8fe-556c-83ab-ac9a71ec5f46,Village of Hawks Creek,3.6,181.0
+1606,055a8610-e691-515d-bbe5-88ab3231200c,Riverside Park,3.3,116.0
+1607,aa7e70af-ebb3-5b86-9c86-5199ce5c2a0d,Lakeside Lofts,3.8,477.0
+1608,b8613e9a-1c59-5e8c-aa00-240d6a4e5d28,The Canal,3.6,238.0
+1609,168e303c-e90f-5c34-9032-2964b0f4b3b1,Cortland M-Line,4.3,171.0
+1610,866ebed4-06dc-57d7-affe-5d41192e1f2b,Whitney Uptown,2.8,161.0
+1611,c0921012-7e19-58c0-a43a-bee01997e8a3,The Taylor,4.3,146.0
+1612,d25926d9-f15b-5272-8c0f-e19877342d54,One Uptown,4.6,99.0
+1613,cdc5fd2d-62f6-53c7-b463-b3150749c6db,Fountain Wood,4.6,400.0
+1614,bb1c756f-ea84-5b32-b49d-db8759e9958c,Woodchase Apartments,3.6,79.0
+1615,b2037ddd-be4e-5e02-a19e-f25cec805a9a,The Enclave at Bear Creek,4.2,331.0
+1616,d0220c21-81d8-577c-af17-3cc312ffa54f,Village Green of Bear Creek,3.6,366.0
+1617,f90cd6a8-82b0-530d-8ec9-a870421dadf5,Bear Creek at Harwood Apartments,4.2,169.0
+1618,6fd23bef-5495-583a-bf3b-42834da6b7a7,Franciscan at Bear Creek,4.3,239.0
+1619,6dfac6f9-4ff9-5cb9-bad5-1ffcd0ee73d5,Eden Park at Bear Creek,3.8,214.0
+1620,1529de16-d9c3-53cc-a811-d8ac7e1a0a03,Overlook At Bear Creek,3.6,266.0
+1621,c05bb5d6-715c-512b-b83b-b3a58ec2b987,Cortland Farmers Market,4.2,198.0
+1622,55695247-14d2-5b13-b6e4-e4e56608919f,Amelia at Farmers Market,4.4,270.0
+1623,0170001a-9a48-5a03-a783-0de5621cbca7,Eleven10 at Farmers Market Apartments,,
+1624,bf2dedbe-7c51-56de-9389-40f9f1ff985b,Harvest Lofts,4.8,168.0
+1625,88a5b241-db2d-5542-8575-f2516165ae79,Taylor Lofts,4.1,39.0
+1626,1330e433-4e1e-5f73-9cb2-d01474c98b07,Camden Farmers Market,3.9,569.0
+1627,9a5e22b0-e5e8-563a-bac6-304367cf39a4,555 Ross,4.2,219.0
+1628,4dac0f5e-c190-524a-baf1-c05513e9a803,Valor at the Realm,4.2,181.0
+1629,c02f6c8a-fece-56db-9884-63a8047b28c8,Main and Mill,4.5,44.0
+1630,a5864bf9-dd4f-523c-954d-887d86e45056,Main & Mill,4.5,44.0
+1631,f46d5db6-a2c7-54ce-836b-3abaaf6cb523,Chaparral Ranch,4.6,30.0
+1632,93009b8a-a51c-5bbe-9b83-456cf541e97a,Avendale Chisholm Trail Ranch,5.0,12.0
+1633,27ada60b-5470-56a2-8517-b8e9fdc78c97,The Dylan,3.2,87.0
+1634,5097ac70-a206-570d-bf04-6c944791d0c6,Cortland Walnut Hill,4.6,651.0
+1635,2e6932aa-7302-575a-b939-e84c4f959262,AVE Las Colinas,4.7,148.0
+1636,a512cca4-d75e-5cf0-9835-7a663322df29,Olympus Las Colinas,4.2,395.0
+1637,ebb80782-8883-53ee-9e77-d2e04e6d3d7c,The Station at MacArthur,3.4,414.0
+1638,2d2a3c48-4ec2-5cf0-967f-a648c39b0620,Cortland West Plano,4.0,1040.0
+1639,b6f2a756-8b85-518e-a6af-461f05f6544b,Mission Gate,3.0,374.0
+1640,925ecb92-8c34-5394-a963-c174dded9c0c,Dorian and Encore,3.9,580.0
+1641,631ea358-b3b0-524b-8b8f-fb68681b57a9,The Point At Deerfield Apartments,4.1,279.0
+1642,7ed7323b-5faa-5181-ad76-a5a48772d6f4,Villas Of Preston Creek,3.1,214.0
+1643,bd0e8c11-4d54-559e-ad02-5b162f5e24fd,Cool Springs at Frisco Bridges,3.6,554.0
+1644,6db7d67a-0692-5973-b907-17d1ec2f4542,Legacy Village Apartment Homes,3.1,572.0
+1645,1022e5ce-6abb-5d48-afa4-ef5bb990ff47,Cypress Lake at Stonebriar,,
+1646,5a345608-6817-55eb-9b3d-76d6c49069fb,Huntington Glen,4.5,257.0
+1647,250da8df-9e66-5236-aeba-f8df76ef906b,Windmill Terrace,3.8,164.0
+1648,7d3d9d53-f577-5c6b-bb59-324bba2b4661,Woodbridge Apartments,3.7,125.0
+1649,7685c1e2-2998-53b6-9a71-600eaba7b4b6,Copper Canyon,4.8,397.0
+1650,f6094793-4886-526f-b319-7e61a5bfd021,Summerstone Apartments,3.3,104.0
+1651,ca87270d-3c84-50de-a5b3-ed2c01b6abd2,Kensington Station,4.1,244.0
+1652,f29f5bbd-a064-57be-bcb3-51cd5cd19bcf,Pecan Creek,3.3,202.0
+1653,6f268873-fe22-5899-9e05-d0f8654ee2db,The Arbors of Central Park,4.0,178.0
+1654,b4d49cf0-609d-5462-9c6a-70d63779b8d1,Cortland Oak Lawn,4.7,314.0
+1655,cffb8404-aa5b-5cbd-b5d6-c2c64b76fdc5,Axis at Wycliff,4.2,216.0
+1656,08300fb2-63b4-551a-9d6a-56323a484245,4123 Cedar Springs,3.6,326.0
+1657,bac26bb9-4cd3-58f5-a2d2-deb114021d1d,Griffis Oak Lawn,4.0,119.0
+1658,8efa94e5-0fc7-5b87-839f-1dc65a406ef0,2929 Wycliff,3.9,173.0
+1659,18b34e51-937f-5321-83c2-ebcde052b8ff,4110 Fairmount,4.2,221.0
+1660,9880713f-1a85-5215-abd6-6aea8db33d2a,The Lucas Apartments,3.8,329.0
+1661,0827b445-7066-5dbf-8d3c-e0ca298a96b1,Cortland Copper Springs,4.5,320.0
+1662,97204d47-fd93-5fa0-8e27-29252b72e300,Estancia San Miguel,4.6,215.0
+1663,54510f3b-c21d-5d2c-8ef5-7fe09bc9b470,Trails at Rock Creek,4.3,349.0
+1664,06bc0ee6-3213-5f74-9f0e-255f335d8c7e,Falls at Copper Lake,3.7,210.0
+1665,63b2f6fc-4958-5aef-8f2b-accbe8f1364c,Preserve at Copperleaf,4.5,412.0
+1666,c9b5eaf0-62e3-5de6-bd5f-2e295cba5982,Derby at Steeplechase,4.0,224.0
+1667,3d9efecf-2220-599b-85f6-5a08486918cf,Cortland at Armour Yards,4.0,576.0
+1668,50fccef0-ca6c-59fc-93cd-3cb834778d79,Avana on Main,3.2,214.0
+1669,5a345608-6817-55eb-9b3d-76d6c49069fb,Huntington Glen,4.5,257.0
+1670,7d3d9d53-f577-5c6b-bb59-324bba2b4661,Woodbridge Apartments,3.7,125.0
+1671,6f268873-fe22-5899-9e05-d0f8654ee2db,The Arbors of Central Park,4.0,178.0
+1672,10c7df90-c0a0-54e5-b31a-75f3b61fe152,Parc Plaza Apartments,3.7,310.0
+1673,b5b50f7c-2194-5d28-a639-65aa5d1e9492,The District at Cypress Waters - Scotch Creek,3.8,596.0
+1674,2e8234c7-077c-5219-8eb0-0a539d77de9c,Cortland Bull City,4.4,124.0
+1675,b7ef5c1f-3501-59f3-9ad6-7f4529e2e959,GeerHouse,4.7,10.0
+1676,bfdc6944-8ca7-5391-a81c-e2bf156b5a68,Rigsbee Collection,4.6,33.0
+1677,13ecfd12-2b09-555d-a54f-b67a180ebfc7,Loft One35,4.4,205.0
+1678,04c73ed9-9df0-5655-b8a9-97a391d9972a,Mosaic South End Apartments,4.5,210.0
+1679,5e2a240a-3104-5225-8ba0-cd0af5347bbe,District Flats,4.0,91.0
+1680,082d0c37-e674-5053-8559-b03d2a338cda,MAA 1225,4.3,322.0
+1681,f09378c5-f4d3-5f07-a447-4622000c79b0,Camden South End,4.0,195.0
+1682,5bf28837-1e7f-51c9-b731-3c25af9c274f,Presley Uptown,4.2,161.0
+1683,37eff42d-dd88-5b9d-8c93-d5d170e76d5d,Circa Uptown,4.5,317.0
+1684,d8722b4c-24b6-5f99-be7c-8cf1f4147003,The Crown of Queen City,4.7,222.0
+1685,9ec0eba3-0a68-5c70-b48d-954645c68682,Link Apartments® Mint Street,3.4,44.0
+1686,acf193f7-ea64-55d6-afe1-b8beb3972da5,Savoy NC,4.2,297.0
+1687,eb5ba22b-078d-5bda-8ed8-aaf85a91c584,The Prospect,4.2,99.0
+1688,3d4d3c0d-fd15-57d3-a7f2-63b045efe1da,The Winnifred,4.5,113.0
+1689,abee626d-1d59-5328-916e-52331b81d30e,The Reed Charlotte,4.0,103.0
+1690,f52933bc-0584-5685-b105-4fbc5606b2c3,THE WINSTON,4.5,63.0
+1691,91a42117-441e-5580-928f-da3963e6e1b2,Hanover Dilworth,4.9,362.0
+1692,17484988-6615-5bb1-ac11-ed5aa656007f,Malibu Bay,,
+1693,78dcc966-951c-5ee7-92d2-cc91cda677a3,Casa Mara,4.7,143.0
+1694,5ea5a206-7245-5c00-a10c-8c69ba53c742,Solé at Brandon,4.0,253.0
+1695,ddf30c0c-ba7f-5487-a565-744ad15e0f5e,Sentosa Riverview,4.2,131.0
+1696,7b260f6e-d167-553d-8242-b625a3191d26,Integra Palms,4.2,203.0
+1697,487852c7-38ff-5f54-89e7-506684bc3e3e,Viridian Reserve Apartments,4.1,158.0
+1698,320b72f2-0698-5cfc-b99a-08d3c115d7ad,The Henry,4.2,139.0
+1699,4deee745-44d9-5448-81a8-ee14a6344c1d,IMT Lake Mary,4.6,178.0
+1700,d494fb31-c9c0-50d9-a872-d7193ef207e8,Ledge Rock Apartments,4.8,22.0
+1701,ad314311-1f06-5079-9e55-97587331b9c5,Lake Vista Apartments,4.6,117.0
+1702,c3cefdda-7803-58fe-91a8-569cf72e43d9,The Bend at Highland Meadows,4.3,44.0
+1703,ef3015a4-483d-5dd6-8675-f2f2dc2d7454,Greens at Van De Water,4.0,330.0
+1704,fde8b4ac-004a-562d-acec-19abab4a01e8,Plat 10 The Ranch,4.5,32.0
+1705,5eb6431d-26b0-5e42-9c9a-880d5cbc9270,Gardens at Cherry Creek,4.4,538.0
+1706,d5205c85-9242-5dbd-ae18-cdbb69c5d416,Gables Cherry Creek,3.7,174.0
+1707,498b4f44-ee3e-57b6-8f4f-e09ad358a61f,Overture 9th + CO 55+ Active Adult Apartme,4.6,36.0
+1708,4e1fcdc3-624e-5613-8186-f40c6d0ce5d2,Avalon Lowry,3.9,117.0
+1709,19f03ee3-e0b6-548a-b54f-8afbbe0559d8,Gables Speer Blvd,4.6,165.0
+1710,cd5a9b03-92d2-52e6-9a0a-607803ed9e3a,The Henry,3.8,179.0
+1711,73aaebb0-7701-5b88-b485-12f50d308d61,Quin,4.1,77.0
+1712,30cebca6-efd2-5222-adfc-b9d1a5681f6f,Cortland River North,4.8,56.0
+1713,18995bd6-9015-57da-99b1-035d4dbf5430,3Eleven,4.4,42.0
+1714,4c2592cb-a69d-5329-8258-ba92d5403f62,Hubbard 221,4.6,95.0
+1715,6f515b3a-1a4a-5310-be52-f4265252654c,640 North Wells,4.1,70.0
+1716,bdd52059-11f9-5bec-891f-5b483aebd4dc,Env Chicago,4.8,229.0
+1717,c80a4c2e-2b0c-5212-8bcf-ed95e6c87e59,Flair Tower,4.1,44.0
+1718,7c56e8b6-b40f-55b4-b1bd-22242a4bd31c,Parc Huron,4.7,104.0
+1719,fd6319d5-6ce2-5895-8f35-098934f156e9,Next Apartments,4.0,90.0
+1720,8251813d-d0c1-500f-a662-3f8509bd662b,Linea Apartments,4.3,136.0
+1721,773a68ef-4947-54ca-85bf-a3b18d53647a,Marlowe,4.4,28.0
+1722,e04c8a10-1980-51c5-88bd-2c09357c86ed,Niche 905,4.4,50.0
+1723,1e33d4fa-7c06-5e37-a7de-8f3dc692a983,The Gallery on Wells,3.9,43.0
+1724,6ec5595a-577a-59ed-83ae-68ef2e0013e1,Cortland Vesta,4.4,178.0
+1725,c987a9db-7472-5da1-83ce-eafe26b4bf88,The Palmer,4.6,99.0
+1726,837242ce-7aac-5205-982e-69ee6d830cc5,Park 35 on Clairmont,4.7,94.0
+1727,984c715b-1319-57e3-bbef-de35d67cf851,Parkside Apartments,4.2,86.0
+1728,ecfd4128-0743-5521-bc22-0d7df7b3aa09,The 600,4.4,109.0
+1729,a7339b9a-76b8-5f98-b255-a3ed12357c48,Tower on Tenth,3.8,53.0
+1730,91a62555-7423-597c-9ad4-b68c735bfe1c,Foundry Yards,4.4,96.0
+1731,a9bbab18-35f2-52af-909f-21ba641cc91d,Met on 7th,3.9,75.0
+1732,adaef775-1bd7-5fb1-8bc2-143e651c6965,The Frank,3.7,34.0
+1733,011c9bdc-8bbf-52bf-bd0e-b9a174d7d07d,Steelhaven Birmingham,3.6,71.0
+1734,ea70ab45-2e41-5f98-86de-12b3b8e4816b,20 Midtown,4.5,82.0
+1735,84a783af-71ad-5cd8-be85-64346cab45ce,Cortland Pentagon City,3.7,327.0
+1736,2b80f4ea-28fd-519e-845b-97e227956451,Valen,5.0,1.0
+1737,d96bf770-6ae9-54f2-9406-11d590d2c245,The Grace,4.4,37.0
+1738,80153d06-5941-5543-a881-1504fab8bdb3,The Milton,4.3,68.0
+1739,c678ae93-e608-5712-a343-f4e7b7430a6a,The Bartlett,4.3,461.0
+1740,64e9c3a1-3282-5a5a-bf6c-857e56cf04ae,Altaire,3.9,365.0
+1741,59e1f09b-951a-5b09-89ee-d2a847389f48,Azure National Landing,4.6,9.0
+1742,860666cf-18ba-5f56-a46c-45587370fecb,Hazel National Landing,3.5,15.0
+1743,70bc01b1-f2e6-5970-8f22-76cd461a7adb,Cortland on the River,4.6,88.0
+1744,09db5768-8721-5edb-b488-e5c2284f5967,The District at Parkcenter,4.2,80.0
+1745,0dead2fe-4e86-5403-94b8-c8117138368d,Jules on 3rd,4.3,38.0
+1746,62410b1e-ec6d-52b0-90a0-ccf1dade508c,The Mill at Loggers Creek,4.7,30.0
+1747,fe4de700-069d-5a0d-99e4-4e89b3950521,Crosshatch,4.9,48.0
+1748,8ef9d309-572f-5532-afae-37b85f5695e6,The Boardwalk Apartments,4.1,62.0
+1749,1b478076-a5fb-5f09-ac98-24e2c490334c,Hearth on Broad,4.5,31.0
+1750,4c579909-8131-5c02-9a7e-14e4ca6bf9e4,The Fowler Apartments,3.9,73.0
+1751,f163bdf4-6713-5b52-b918-916ea8f9e99c,Encore Skyline,4.6,57.0
+1752,398d3e5f-063f-5c93-9c4b-e1b54641c587,The Lucy,4.9,40.0
+1753,8e1bd538-d553-5efd-8601-43cbe25b70ef,Arboretum at Barber Station,4.3,85.0
+1754,9a74ed73-adb7-5cb9-9530-37b1da1b36ee,Gibson | 5th & Idaho,4.6,39.0
+1755,7bbd2139-132c-5baf-afdb-db66d9cde5bd,Vanguard,3.9,26.0
+1756,6a113ab4-12bd-5033-ab56-891e4348b168,The Martha,3.2,11.0
+1757,e2d807fd-00ce-594b-8054-170fa4437588,The 951,4.2,15.0
+1758,5a0022e0-834f-59fb-ae15-b533372e6ad3,27th Street Crossing,5.0,5.0
+1759,0b535d26-917b-5806-8def-f7fcd22f9eae,LOCAL Boise,4.8,162.0
+1760,5fe26190-d0c9-5a31-a5ba-840937ac6326,Riverline,4.1,9.0
+1761,17ca4ebe-29f2-5e2c-b575-da68e78bdab0,Kensington Apartments,3.9,245.0
+1762,6c8d09c5-dd72-58c9-9323-d468cfe5a018,Limelight Village Apartments,3.4,25.0
+1763,c9cc6f67-3f8d-531e-b57b-91bc9531f7a2,The Timbers at Harris Ranch,4.6,64.0
+1764,4004a152-794a-5754-a054-91e5bd383b6b,Cortland Mill District,4.5,222.0
+1765,48c08319-6824-52cc-974f-1bdf16f9a4fa,Soo Line Building City Apartments,4.2,121.0
+1766,18654757-c8c0-552b-8b9f-5ecb61735372,HQ Apartments,4.1,79.0
+1767,32f11b69-6047-5325-92aa-840819c43a8b,Artistry on 10th,3.8,123.0
+1768,4ac6ee35-5f46-56b4-8715-fa872cfabb8c,Ironclad Residential,4.5,38.0
+1769,e420319d-a2b6-5ecf-b5a3-2d2ed86d1111,The Larking,4.7,138.0
+1770,2c728d7f-41ab-5802-8e4c-213e53c16496,Moment,3.1,30.0
+1771,96dc733b-c76e-5929-adea-9ac118ad247a,Gatsby Apartments,4.8,120.0
+1772,c5226e13-f25d-5be3-9698-68e00cca9f05,4Marq,3.6,93.0
+1773,95d15c85-a4fa-578d-94c0-1622fff07580,NIC on 5th,4.2,119.0
+1774,216323e7-acf2-5a2e-8020-a00d10a5f0e9,270 Hennepin,3.8,106.0
+1775,9844501a-d44a-51bf-a20d-6321eefed532,Cortland at National Landing,4.1,139.0
+1776,d8b3b586-d02e-51cb-89fc-60318a8ba054,1401 Joyce on Pentagon Row,4.4,168.0
+1777,f07bda91-2103-5e1d-80de-b343cee1ad26,Marlowe VA,3.9,117.0
+1778,6c643e0b-32ce-5694-a04b-76e8ce40714f,Instrata Pentagon City,4.3,112.0
+1779,c5a4c731-37c7-5286-8841-5db14bf2a113,Lenox Club,4.1,184.0
+1780,a0e592d3-c54a-5c51-9d69-8dd7dd2325f5,The 1201 Apartments,3.4,95.0
+1781,aa2d0d7a-8840-5087-a7f9-730842f39036,The Paramount,4.1,84.0
+1782,713a4971-408a-5f53-aa06-5c3d0d91d113,Water Park Towers,4.4,107.0
+1783,34b4b5f6-8311-537e-8b23-48eb430ef9d2,Crystal Place,3.6,112.0
+1784,f7c63b0a-8979-5e9e-8287-af3c9d4e6183,The Millennium,3.8,81.0
+1785,84a783af-71ad-5cd8-be85-64346cab45ce,Cortland Pentagon City,3.7,327.0
+1786,637e8ff7-a446-57a8-8643-43c087ae00bb,Cortland South Meridian,4.5,169.0
+1787,eabfe15e-da53-51f8-b35f-5fa8c4d78aa1,Cortland at Ten Mile,4.1,303.0
+1788,391bd24a-6222-514e-bd4d-93fdc2bbaf3d,The Lofts at Ten Mile,3.8,262.0
+1789,4ab7c88f-8091-5cdb-ab13-4819a1c72353,The 240 Apartments,1.9,14.0
+1790,1e2bd29f-2f14-5826-b854-8bdf8bde71c3,The Flats at Ten Mile,3.3,79.0
+1791,c87978c8-612b-55b4-8415-8527aa9db1bf,Prelude at Paramount,3.1,68.0
+1792,3f263958-36d7-5a5a-a979-fa1c21459b89,Altair,4.4,25.0
+1793,c04b222f-50a8-5f3b-99ad-e517820cfc70,Dovetail,4.3,129.0
+1794,16e5b15e-d864-574d-bf4e-17a4fc36448e,Red Tail by Baron,4.0,169.0
+1795,160deadc-4a75-562a-894a-9f529131482d,Pennwood Apartments,3.6,151.0
+1796,e713c71d-804b-5be0-826e-8c0dbddf0320,Cortland Arlington,2.6,68.0
+1797,a7c49a58-b2d1-5d4d-8973-17958104ac0f,1800 Oak,4.6,173.0
+1798,d4bd499e-bd53-567c-9523-b47f64db3e9a,Bennett Park,4.0,57.0
+1799,75edc3aa-ea35-51c4-80c0-8b7c3dade254,London Normandy House,2.8,125.0
+1800,10a05493-70fa-5a3a-a3e1-35ec91fc6d22,2201 Wilson,4.7,157.0
+1801,e1587636-586b-5690-b7f0-f14f090ff46c,Courtland Park,4.2,16.0
+1802,affc7e9c-6c59-5f87-b4fc-2c7767b5e328,The Prime at Arlington Courthouse,3.9,99.0
+1803,48c6c833-ec4f-570a-93ef-8bb284091b08,Potomac Towers,3.6,176.0
+1804,0ec7aad2-b2a5-56dc-86c1-9b2624b90ac0,1800 Wilson,4.5,12.0
+1805,2740aa68-a127-5e29-a3af-300dc5397600,Bell at Courthouse,4.5,106.0
+1806,116faf39-9947-5751-a742-f0b0f79efa93,The Odyssey Condominiums,4.7,33.0
+1807,e76347a2-817b-5463-8b03-898a821b1a02,Concord Crystal City,4.5,146.0
+1808,570dbac6-70d0-5599-bb61-1962b1f6f94f,The Gramercy,4.4,210.0
+1809,1871f071-ba11-5eaf-8851-1b4c2dd0f5af,The Acadia at Metropolitan Park,4.2,114.0
+1810,9844501a-d44a-51bf-a20d-6321eefed532,Cortland at National Landing,4.1,139.0
+1811,4a96c241-3646-54e8-a791-09ab85f1b0f1,Cortland Rosslyn,4.2,319.0
+1812,0efcf84d-2ec3-5296-88e1-25f5e4c7b989,Central Place,4.0,175.0
+1813,5079a5ce-cab3-5e5f-8894-bdcb6c63d7f3,Union on Queen,4.6,68.0
+1814,7a86fa52-cc85-5e39-83bb-0bc7ce798f21,Rosslyn Towers,4.2,80.0
+1815,81845498-28d3-5892-8ccf-1080d9c9c91f,J SOL,4.2,56.0
+1816,ffa3237c-e179-56ed-a744-680299b182b5,Sedona|Slate,4.3,196.0
+1817,484d07af-bdb6-55a5-8bce-f1043d369d2a,Latitude,3.9,84.0
+1818,b705fd01-a1a6-5913-aca7-c0d0fc762ae2,Origin,4.1,157.0
+1819,580638ad-3fb6-51d3-8e4b-18e098d4a926,Tellus,3.6,81.0
+1820,ebc86af4-8ab3-5dda-8a1e-eb3eedfe857c,The Commodore,4.5,130.0
+1821,c8a8a221-8da3-516a-9b9b-b2c4fb18f0c4,Elme Herndon,3.0,80.0
+1822,18722dc6-b251-55bf-9f07-27ea02a6769e,Ashton at Dulles Corner,3.3,232.0
+1823,12dd7f6a-b3dd-5779-8a98-d5587cd93b53,ICON at Dulles,4.5,416.0
+1824,822acb47-9dab-5881-9301-bbc495779e2b,Discovery Square,3.3,131.0
+1825,86d46bdb-c2dc-5b83-8c31-5ab2774e9bbb,Edition Apartments,4.8,105.0
+1826,69ec883d-b2d7-5932-8423-96cf72602bfd,Commodore,4.6,442.0
