@@ -190,6 +190,9 @@ manager = st.sidebar.selectbox("Management", managers, index=cort_i)
 if manager != "All":
     df = df[df['manager'] == manager]
 
+    total_assets = len(df)
+    branded_assets = len(df[df['branded'] == True])
+
     if market != 'All':
         match = recognition_df[
             (recognition_df['manager'] == manager) & 
@@ -203,11 +206,17 @@ if manager != "All":
 
                 - **Aided Recognition**: {recognition_row['aided_recognition']:.2%}  
                 - **Unaided Recognition**: {recognition_row['unaided_recognition']:.2%}  
-                - **Total Assets**: {len(df)} ({len(df[df['branded'] == True])} branded)
+                - **Total Assets**: {total_assets} ({branded_assets} branded)
+            """)
+        else:
+            st.markdown(f"""
+                ### Brand Recognition — {manager} - {market}
+
+                - No survey recognition data available  
+                - **Total Assets**: {total_assets} ({branded_assets} branded)
             """)
 
     else:
-        # Get all rows for this manager across markets
         manager_rows = recognition_df[recognition_df['manager'] == manager]
 
         if not manager_rows.empty:
@@ -220,7 +229,14 @@ if manager != "All":
 
                 - **Aided Recognition**: {weighted_aided:.2%}  
                 - **Unaided Recognition**: {weighted_unaided:.2%}  
-                - **Total Assets**: {len(df)} ({len(df[df['branded'] == True])} branded)
+                - **Total Assets**: {total_assets} ({branded_assets} branded)
+            """)
+        else:
+            st.markdown(f"""
+                ### Brand Recognition — {manager} (National)
+
+                - No survey recognition data available  
+                - **Total Assets**: {total_assets} ({branded_assets} branded)
             """)
 
 st.sidebar.markdown("---")
