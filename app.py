@@ -6,6 +6,8 @@ import re
 from shapely.geometry import Polygon
 import geopandas as gpd
 import unicodedata
+import matplotlib.colors as mcolors
+
 
 def clean_text(val):
     if isinstance(val, str):
@@ -23,6 +25,20 @@ df = load_data('data/branded_sites.csv')
 df['property'] = df['property'].apply(clean_text)
 df['manager'] = df['manager'].apply(clean_text)
 df['owner'] = df['owner'].apply(clean_text)
+
+manager_logo_map = {
+    'AMLI': 'https://media.licdn.com/dms/image/v2/C560BAQGnxhMQWfLpjA/company-logo_200_200/company-logo_200_200/0/1630613538782/amli_residential_logo?e=2147483647&v=beta&t=V-mBBUgDZ6KajQ6XKjkbSpIqh382Wb2hN6_8BkMnUM0',
+    'AvalonBay': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSjZB_WdcnA6UHxoTZh9e7ewgMARfPHRdsGg&s',
+    'Bell': 'https://media.glassdoor.com/sqll/2590407/bell-management-squarelogo-1644392295469.png',
+    'Camden': 'https://www.camdenliving.com/images/camden-logo-black.png',
+    'Cortland': 'https://www.multifamilyexecutive.com/wp-content/uploads/sites/3/2018/cortland-logo-stacked-rgb.png?w=1024',
+    'FPA': 'https://images1.apartments.com/i2/6yzvf1jIv9iWltohdLCwGaBOliNpGgXLLH7jE3BUH5Y/110/image.png',
+    'Fairfield': 'https://images1.apartments.com/i2/AejWy_Wu0361EimbUJCaiGPRRQ5TwLcgkECUYjSupZo/110/image.jpg',
+    'GID': 'https://media.licdn.com/dms/image/v2/D560BAQFec0alUyaRAQ/company-logo_200_200/B56ZZfFBgeGcAM-/0/1745351876017/windsorm_logo?e=2147483647&v=beta&t=Pv905gG85FrKuZrGBKgY4P135mWvkgnXiUQYgZ6w7fs',
+    'Greystar': 'https://mma.prnewswire.com/media/1761396/greystar_Logo.jpg?p=facebook',
+    'MAA': 'https://cdn.cookielaw.org/logos/7d7d223a-000d-4093-b8e4-356348d54408/018fdf5b-7162-738e-a17d-542945beefb7/9f203eab-91c5-4baf-8b5b-c4592cd027e3/MAA_logo_with_R.png',
+    'Mill Creek': 'https://mma.prnewswire.com/media/224987/mill_creek_logo.jpg?p=facebook'
+}
 
 df['lat_bin'] = df['Latitude'].round(2)
 df['lon_bin'] = df['Longitude'].round(2)
@@ -42,6 +58,11 @@ top_tiles = (
     .head(3)
     .copy()
 )
+
+df = df[df['manager'].isin([
+    'Fairfield', 'Bell', 'Mill Creek', 'GID', 'FPA', 'AMLI', 
+    'Greystar', 'Camden', 'Cortland', 'AvalonBay', 'MAA'
+])]
 
 # Read in Survey Data
 
@@ -65,31 +86,13 @@ market_map = {
 
 manager_map = {
     'amli': 'AMLI',
-    'arium': 'ARIUM',
     'avalon': 'AvalonBay',
-    'bell': 'Bell',
-    'bozzuto': 'Bozzuto',
-    'broadstone': 'Broadstone',  
     'camden': 'Camden',
     'cortland': 'Cortland',
-    'cushman_&_wakefield': 'Pinnacle', 
-    'encantada': 'HSL', 
-    'gables': 'Gables', 
-    # 'greenwater': 'Greenwater',
     'greystar': 'Greystar',
-    'hsl': 'HSL', 
-    'lincoln': 'Willow Bridge', 
     'maa': 'MAA',
-    'mark_taylor': 'Mark Taylor',
-    'northstar': 'Northstar', 
-    'northwood': 'Northwood Ravin', 
     'pb_bell': 'Bell',
-    'pinnacle': 'Pinnacle',
-    'post': 'Post Road',
-    'rpm_living': 'RPM',
-    'walton': 'Walton Communities', 
-    'weidner': 'Weidner',
-    'windsor': 'Windsor'
+    'windsor': 'GID'
 }
 
 raw_survey_data = pd.read_csv('data/raw_survey_data.csv',encoding='latin1')\
@@ -224,83 +227,80 @@ else:
         '# Assets: ' + hotspots['# Assets'].astype(str)
     )
 
-submarkets = df['SubMarketName'].dropna().unique()
-submarkets = ['All'] + sorted(submarkets)
-
-submarket_selection = st.sidebar.multiselect("Submarket", submarkets, default=['All'])
-
-# If "All" is selected or nothing is selected, show all
-if 'All' not in submarket_selection:
-    df = df[df['SubMarketName'].isin(submarket_selection)]
-
 # Only managers with 5+ props in that (filtered) market
 counts   = df['manager'].value_counts()
 eligible = counts[counts >= 5].index.tolist()
-managers = ['All'] + sorted(eligible)
+managers = sorted(eligible)
 
-# default index for Cortland (fall back to 0)
-try:
-    cort_i = managers.index("Cortland")
-except ValueError:
-    cort_i = 0
+manager_select = st.sidebar.multiselect("Management", managers, default=['Cortland'])
 
-manager = st.sidebar.selectbox("Management", managers, index=cort_i)
+import pandas as pd
 
-if manager != "All":
-    df = df[df['manager'] == manager]
+data = []
 
-    total_assets = len(df)
-    branded_assets = len(df[df['branded'] == True])
-
-    total_units = df['UnitCount'].sum()
-    branded_units = df.loc[df['branded'] == True, 'UnitCount'].sum()
+for mgr in manager_select:
+    filtered_df = df[df['manager'] == mgr]
+    total_assets = len(filtered_df)
+    branded_assets = len(filtered_df[filtered_df['branded'] == True])
+    total_units = filtered_df['UnitCount'].sum()
+    branded_units = filtered_df.loc[filtered_df['branded'] == True, 'UnitCount'].sum()
 
     if market != 'All':
         match = recognition_df[
-            (recognition_df['manager'] == manager) & 
-            (recognition_df['market'] == market)
+            (recognition_df['manager'] == mgr) & (recognition_df['market'] == market)
         ]
 
         if not match.empty:
             recognition_row = match.iloc[0]
-            st.markdown(f"""
-                ### Brand Recognition — {recognition_row['manager']} - {recognition_row['market']}
-
-                - **Aided Recognition**: {recognition_row['aided_recognition']:.2%}  
-                - **Unaided Recognition**: {recognition_row['unaided_recognition']:.2%}  
-                - **Total Assets**: {total_assets} ({branded_assets} branded)
-                - **Total Units**: {round(total_units)} ({round(branded_units)} branded)
-            """)
+            aided = f"{recognition_row['aided_recognition']:.2%}"
+            unaided = f"{recognition_row['unaided_recognition']:.2%}"
         else:
-            st.markdown(f"""
-                ### Brand Recognition — {manager} - {market}
+            aided = 'N/A'
+            unaided = 'N/A'
 
-                - No survey recognition data available  
-                - **Total Assets**: {total_assets} ({branded_assets} branded)
-            """)
-
+        market_label = market
     else:
-        manager_rows = recognition_df[recognition_df['manager'] == manager]
+        manager_rows = recognition_df[recognition_df['manager'] == mgr]
 
         if not manager_rows.empty:
             total_count = manager_rows['count'].sum()
-            weighted_aided = (manager_rows['aided_recognition'] * manager_rows['count']).sum() / total_count
-            weighted_unaided = (manager_rows['unaided_recognition'] * manager_rows['count']).sum() / total_count
-
-            st.markdown(f"""
-                ### Brand Recognition — {manager} (National)
-
-                - **Aided Recognition**: {weighted_aided:.2%}  
-                - **Unaided Recognition**: {weighted_unaided:.2%}  
-                - **Total Assets**: {total_assets} ({branded_assets} branded)
-            """)
+            aided_val = (manager_rows['aided_recognition'] * manager_rows['count']).sum() / total_count
+            unaided_val = (manager_rows['unaided_recognition'] * manager_rows['count']).sum() / total_count
+            aided = f"{aided_val:.2%}"
+            unaided = f"{unaided_val:.2%}"
         else:
-            st.markdown(f"""
-                ### Brand Recognition — {manager} (National)
+            aided = 'N/A'
+            unaided = 'N/A'
 
-                - No survey recognition data available  
-                - **Total Assets**: {total_assets} ({branded_assets} branded)
-            """)
+        market_label = 'National'
+
+    logo_url = manager_logo_map.get(mgr, "")
+    logo_html = f'<div style="text-align:center;"><img src="{logo_url}" width="100"/></div>' if logo_url else ''
+
+    data.append({
+        'Logo': logo_html,
+        'Manager': mgr,
+        'Market': market_label,
+        'Aided Recognition': aided,
+        'Unaided Recognition': unaided,
+        'Total Assets': f"{total_assets:,}",
+        'Branded Assets': f"{branded_assets:,}",
+        'Total Units': f"{round(total_units):,}",
+        'Branded Units': f"{round(branded_units):,}"
+    })
+
+df_display = pd.DataFrame(data)
+st.subheader('Brand Recognition')
+
+html_table = df_display.to_html(escape=False, index=False)
+
+html_table = html_table.replace(
+    "<thead>",
+    "<thead><style>th { text-align: center !important; }</style>",
+)
+
+st.markdown(html_table, unsafe_allow_html=True)
+
 
 st.sidebar.markdown("---")
 st.sidebar.subheader("Heatmap Settings")
@@ -312,31 +312,47 @@ df['value'] = 1
 branded_df = df[df['branded'] == True]
 unbranded_df = df[df['branded'] != True]
 
+manager_color_map = {
+    'AMLI': '#80a1d4',
+    'AvalonBay': '#4a2e89',
+    'Bell': '#31999b',
+    'Camden': '#84be30',
+    'Cortland': '#284692',
+    'FPA': '#f59128',
+    'Fairfield': '#a7632d',
+    'GID': '#222707',
+    'Greystar': '#102045',
+    'MAA': '#e6752e',
+    'Mill Creek': '#7aaeb6'
+}
+
+def create_gradient(base_hex):
+    base_rgb = mcolors.to_rgb(base_hex)
+    gradient = {
+        0.2: mcolors.to_hex([min(1, c + 0.4) for c in base_rgb]),
+        0.5: mcolors.to_hex([min(1, c + 0.2) for c in base_rgb]),
+        0.8: base_hex,
+        1.0: mcolors.to_hex([max(0, c - 0.2) for c in base_rgb])
+    }
+    return gradient
+
 # Create map
 m = leafmap.Map(center=[center_lat, center_lon], zoom=zoom)
 
-if not branded_df.empty:
-    m.add_heatmap(
-        data=branded_df,
-        latitude="Latitude",
-        longitude="Longitude",
-        value="value",
-        name="Branded Heatmap",
-        radius=heatmap_radius,
-        blur=heatmap_blur,
-        gradient={0.2: 'cyan', 0.4: 'blue', 0.6: 'navy', 1: 'black'},
-    )
+for manager in manager_select:
+    manager_df = df[df['manager'] == manager]
+    base_color = manager_color_map.get(manager, '#888888')
+    gradient = create_gradient(base_color)
 
-if not unbranded_df.empty:
     m.add_heatmap(
-        data=unbranded_df,
+        data=manager_df,
         latitude="Latitude",
         longitude="Longitude",
         value="value",
-        name="Unbranded Heatmap",
+        name=f"{manager} Heatmap",
         radius=heatmap_radius,
         blur=heatmap_blur,
-        gradient={0.2: 'hotpink', 0.5: 'pink', 0.7: 'deeppink', 1.0: 'darkred'},
+        gradient=gradient
     )
 
 m.add_points_from_xy(
@@ -386,8 +402,15 @@ if market != 'All':
 
 m.to_streamlit(height=700)
 
-st.markdown("""
-**Heatmap Legend:**
-- 🔵 **Blue** = Branded properties
-- 🔴 **Red** = Unbranded properties
-""")
+st.subheader("Heatmap Legend")
+
+for manager in manager_select:
+    if manager in manager_color_map:
+        color = manager_color_map[manager]
+        st.markdown(
+            f'<div style="display:flex;align-items:center;margin-bottom:4px;">'
+            f'<div style="width:16px;height:16px;background-color:{color};border-radius:3px;margin-right:8px;"></div>'
+            f'<span style="font-weight:500;">{manager}</span>'
+            f'</div>',
+            unsafe_allow_html=True
+        )
