@@ -252,6 +252,9 @@ if manager != "All":
     total_assets = len(df)
     branded_assets = len(df[df['branded'] == True])
 
+    total_units = df['UnitCount'].sum()
+    branded_units = df.loc[df['branded'] == True, 'UnitCount'].sum()
+
     if market != 'All':
         match = recognition_df[
             (recognition_df['manager'] == manager) & 
@@ -266,6 +269,7 @@ if manager != "All":
                 - **Aided Recognition**: {recognition_row['aided_recognition']:.2%}  
                 - **Unaided Recognition**: {recognition_row['unaided_recognition']:.2%}  
                 - **Total Assets**: {total_assets} ({branded_assets} branded)
+                - **Total Units**: {round(total_units)} ({round(branded_units)} branded)
             """)
         else:
             st.markdown(f"""
