@@ -3,6 +3,14 @@ import pandas as pd
 import leafmap.foliumap as leafmap
 from folium.plugins import HeatMap
 import re
+from shapely.geometry import Polygon
+import geopandas as gpd
+import unicodedata
+
+def clean_text(val):
+    if isinstance(val, str):
+        return unicodedata.normalize("NFKD", val).encode("ascii", "ignore").decode("ascii")
+    return val
 
 @st.cache_data
 def load_data(path):
@@ -12,6 +20,29 @@ def load_data(path):
 
 df = load_data('data/branded_sites.csv')
 
+df['property'] = df['property'].apply(clean_text)
+df['manager'] = df['manager'].apply(clean_text)
+df['owner'] = df['owner'].apply(clean_text)
+
+df['lat_bin'] = df['Latitude'].round(2)
+df['lon_bin'] = df['Longitude'].round(2)
+
+tile_density = (
+    df.groupby(['MarketName', 'lat_bin', 'lon_bin'])
+    .agg(
+        total_units=('UnitCount', 'sum'),
+        total_assets=('PropertyID', 'count')
+    )
+    .reset_index()
+)
+
+top_tiles = (
+    tile_density.sort_values(['MarketName', 'total_units'], ascending=[True, False])
+    .groupby('MarketName')
+    .head(3)
+    .copy()
+)
+
 # Read in Survey Data
 
 market_map = {
@@ -20,7 +51,7 @@ market_map = {
     'Charlotte': 'Charlotte, NC',
     'Columbus': 'Columbus, OH',
     'DC': 'Washington, DC',
-    'Dallas': 'Dallas, TX',
+    'Dallas': 'Dallas-Fort Worth, TX',
     'Denver': 'Denver, CO',
     'Houston': 'Houston, TX',
     'Nashville': 'Nashville, TN',
@@ -163,7 +194,35 @@ else:
     df = df[df['MarketName'] == market]
     center_lat = df['Latitude'].mean()
     center_lon = df['Longitude'].mean()
-    zoom = 11
+    zoom = 10
+
+    rank_to_radius = {1: 30, 2: 20, 3: 15}
+
+    hotspots = top_tiles[top_tiles['MarketName'] == market]
+
+    # Rename columns
+    hotspots = hotspots.rename(columns={
+        'lat_bin': 'Latitude',
+        'lon_bin': 'Longitude',
+        'total_units': '# Units',
+        'total_assets': '# Assets'
+    })
+
+    hotspots['Center Rank'] = (
+        hotspots.groupby('MarketName')['# Units']
+        .rank(method='first', ascending=False)
+        .astype(int)
+    )
+
+
+    # Create popup text
+    hotspots[''] = (
+        'City Center #' + hotspots['Center Rank'].astype(str) + '<br>' +
+        'Lat: ' + hotspots['Latitude'].astype(str) + '<br>' +
+        'Lon: ' + hotspots['Longitude'].astype(str) + '<br>' +
+        '# Units: ' + hotspots['# Units'].astype(str) + '<br>' +
+        '# Assets: ' + hotspots['# Assets'].astype(str)
+    )
 
 submarkets = df['SubMarketName'].dropna().unique()
 submarkets = ['All'] + sorted(submarkets)
@@ -273,10 +332,9 @@ if not unbranded_df.empty:
         name="Unbranded Heatmap",
         radius=heatmap_radius,
         blur=heatmap_blur,
-        gradient={0.2: 'pink', 0.5: 'hotpink', 0.7: 'deeppink', 1.0: 'darkred'},
+        gradient={0.2: 'hotpink', 0.5: 'pink', 0.7: 'deeppink', 1.0: 'darkred'},
     )
 
-# Add property markers (optional)
 m.add_points_from_xy(
     data=df,
     x='Longitude',
@@ -285,6 +343,42 @@ m.add_points_from_xy(
     layer_name='Properties',
     show=False
 )
+
+if market != 'All':
+
+    # Create square polygons
+    half_bin_size = 0.005
+    geometries = []
+    popups = []
+
+    for _, row in hotspots.iterrows():
+        lat, lon = row['Latitude'], row['Longitude']
+        rank = row['Center Rank']
+
+        square = Polygon([
+            (lon - half_bin_size, lat - half_bin_size),
+            (lon + half_bin_size, lat - half_bin_size),
+            (lon + half_bin_size, lat + half_bin_size),
+            (lon - half_bin_size, lat + half_bin_size),
+            (lon - half_bin_size, lat - half_bin_size)
+        ])
+        geometries.append(square)
+
+        popups.append(
+            f"City Center #{rank}<br>"
+            f"Market: {row['MarketName']}<br>"
+            f"Lat: {lat}<br>"
+            f"Lon: {lon}<br>"
+            f"# Units: {row['# Units']}<br>"
+            f"# Assets: {row['# Assets']}"
+        )
+
+    gdf = gpd.GeoDataFrame({
+        '': popups,
+        'geometry': geometries
+    })
+
+    m.add_gdf(gdf, layer_name='City Centers', info_mode='on_click', fill_color='black', fill_opacity=0.5, show=False)
 
 m.to_streamlit(height=700)
 
