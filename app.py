@@ -234,7 +234,7 @@ managers = sorted(eligible)
 
 manager_select = st.sidebar.multiselect("Management", managers, default=['Cortland'])
 
-import pandas as pd
+df = df[df['manager'].isin(manager_select)]
 
 data = []
 
@@ -309,8 +309,6 @@ heatmap_radius = st.sidebar.slider("Radius", min_value=5, max_value=50, value=15
 heatmap_blur = st.sidebar.slider("Blur", min_value=1, max_value=30, value=15, step=1)
 
 df['value'] = 1
-branded_df = df[df['branded'] == True]
-unbranded_df = df[df['branded'] != True]
 
 manager_color_map = {
     'AMLI': '#80a1d4',
