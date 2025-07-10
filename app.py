@@ -40,17 +40,34 @@ manager_logo_map = {
     'Mill Creek': 'https://mma.prnewswire.com/media/224987/mill_creek_logo.jpg?p=facebook'
 }
 
-df['lat_bin'] = df['Latitude'].round(2)
-df['lon_bin'] = df['Longitude'].round(2)
+with st.sidebar.expander(label='Heatmap Settings'):
+    heatmap_radius = st.slider("Radius", min_value=5, max_value=50, value=15, step=1)
+    heatmap_blur = st.slider("Blur", min_value=1, max_value=30, value=15, step=1)
+
+    bin_side_length = st.slider(
+        "City Center Bin Size", 
+        min_value=0.005, 
+        max_value=0.020, 
+        value=0.005, 
+        step=0.001,
+        format="%.3f",
+        help="Controls the size of city center detection bins"
+    )
+
+# Calculate city centers with dynamic bin size
+df['lat'] = round((df['Latitude'] / bin_side_length).round() * bin_side_length, 3)
+df['lon'] = round((df['Longitude'] / bin_side_length).round() * bin_side_length, 3)
 
 tile_density = (
-    df.groupby(['MarketName', 'lat_bin', 'lon_bin'])
+    df.groupby(['MarketName', 'lat', 'lon'])
     .agg(
         total_units=('UnitCount', 'sum'),
         total_assets=('PropertyID', 'count')
     )
     .reset_index()
 )
+
+tile_density = tile_density[tile_density['total_assets'] >= 3]
 
 top_tiles = (
     tile_density.sort_values(['MarketName', 'total_units'], ascending=[True, False])
@@ -59,7 +76,7 @@ top_tiles = (
     .copy()
 )
 
-df = df[df['manager'].isin([
+filtered = df[df['manager'].isin([
     'Fairfield', 'Bell', 'Mill Creek', 'GID', 'FPA', 'AMLI', 
     'Greystar', 'Camden', 'Cortland', 'AvalonBay', 'MAA'
 ])]
@@ -175,12 +192,9 @@ recognition_df['market'] = recognition_df['market'].map(market_map)
 recognition_df['manager'] = recognition_df['manager'].map(manager_map)
 
 # only markets with 50+ properties
-counts   = df['MarketName'].value_counts()
+counts   = filtered['MarketName'].value_counts()
 eligible_markets = counts[counts >= 50].index.tolist()
 markets = ['All'] + sorted(eligible_markets)
-
-# Sidebar controls
-st.sidebar.title("Controls")
 
 # default index for Atlanta, GA (fall back to 0 if not present)
 try:
@@ -194,9 +208,9 @@ market = st.sidebar.selectbox("Market", markets, index=atl_i)
 if market == "All":
     center_lat, center_lon, zoom = 39.8, -98.6, 4
 else:
-    df = df[df['MarketName'] == market]
-    center_lat = df['Latitude'].mean()
-    center_lon = df['Longitude'].mean()
+    filtered = filtered[filtered['MarketName'] == market]
+    center_lat = filtered['Latitude'].mean()
+    center_lon = filtered['Longitude'].mean()
     zoom = 10
 
     rank_to_radius = {1: 30, 2: 20, 3: 15}
@@ -205,8 +219,8 @@ else:
 
     # Rename columns
     hotspots = hotspots.rename(columns={
-        'lat_bin': 'Latitude',
-        'lon_bin': 'Longitude',
+        'lat': 'Latitude',
+        'lon': 'Longitude',
         'total_units': '# Units',
         'total_assets': '# Assets'
     })
@@ -216,7 +230,6 @@ else:
         .rank(method='first', ascending=False)
         .astype(int)
     )
-
 
     # Create popup text
     hotspots[''] = (
@@ -228,18 +241,18 @@ else:
     )
 
 # Only managers with 5+ props in that (filtered) market
-counts   = df['manager'].value_counts()
+counts   = filtered['manager'].value_counts()
 eligible = counts[counts >= 5].index.tolist()
 managers = sorted(eligible)
 
 manager_select = st.sidebar.multiselect("Management", managers, default=['Cortland'])
 
-df = df[df['manager'].isin(manager_select)]
+filtered = filtered[filtered['manager'].isin(manager_select)]
 
 data = []
 
 for mgr in manager_select:
-    filtered_df = df[df['manager'] == mgr]
+    filtered_df = filtered[filtered['manager'] == mgr]
     total_assets = len(filtered_df)
     branded_assets = len(filtered_df[filtered_df['branded'] == True])
     total_units = filtered_df['UnitCount'].sum()
@@ -301,17 +314,10 @@ html_table = html_table.replace(
 
 st.markdown(html_table, unsafe_allow_html=True)
 
-
-st.sidebar.markdown("---")
-st.sidebar.subheader("Heatmap Settings")
-
-heatmap_radius = st.sidebar.slider("Radius", min_value=5, max_value=50, value=15, step=1)
-heatmap_blur = st.sidebar.slider("Blur", min_value=1, max_value=30, value=15, step=1)
-
-df['value'] = 1
+filtered['value'] = 1
 
 manager_color_map = {
-    'AMLI': '#80a1d4',
+    'AMLI': '#a7292e',
     'AvalonBay': '#4a2e89',
     'Bell': '#31999b',
     'Camden': '#84be30',
@@ -327,18 +333,19 @@ manager_color_map = {
 def create_gradient(base_hex):
     base_rgb = mcolors.to_rgb(base_hex)
     gradient = {
-        0.2: mcolors.to_hex([min(1, c + 0.4) for c in base_rgb]),
-        0.5: mcolors.to_hex([min(1, c + 0.2) for c in base_rgb]),
+        0.2: mcolors.to_hex([min(1, c + 0.2) for c in base_rgb]),
+        0.5: mcolors.to_hex([min(1, c + 0.1) for c in base_rgb]),
         0.8: base_hex,
-        1.0: mcolors.to_hex([max(0, c - 0.2) for c in base_rgb])
+        1.0: mcolors.to_hex([max(0, c - 0.1) for c in base_rgb])
     }
     return gradient
 
 # Create map
 m = leafmap.Map(center=[center_lat, center_lon], zoom=zoom)
+m.add_basemap("CartoDB.Positron")
 
 for manager in manager_select:
-    manager_df = df[df['manager'] == manager]
+    manager_df = filtered[filtered['manager'] == manager]
     base_color = manager_color_map.get(manager, '#888888')
     gradient = create_gradient(base_color)
 
@@ -354,7 +361,7 @@ for manager in manager_select:
     )
 
 m.add_points_from_xy(
-    data=df,
+    data=filtered,
     x='Longitude',
     y='Latitude',
     popup=['property', 'manager', 'owner'],
@@ -362,16 +369,33 @@ m.add_points_from_xy(
     show=False
 )
 
-if market != 'All':
+def find_submarket(lat, lon):
+    lat_min = lat - bin_side_length / 2
+    lat_max = lat + bin_side_length / 2
+    lon_min = lon - bin_side_length / 2
+    lon_max = lon + bin_side_length / 2
 
-    # Create square polygons
-    half_bin_size = 0.005
+    properties_in_bin = df[
+        (df['lat'] >= lat_min) & (df['lat'] < lat_max) &
+        (df['lon'] >= lon_min) & (df['lon'] < lon_max)
+    ].dropna(subset='SubMarketName')
+
+    if not properties_in_bin.empty:
+        return properties_in_bin['SubMarketName'].mode().iloc[0]
+    else:
+        return None
+
+if market != 'All':
+    # Create square polygons with dynamic bin size
+    half_bin_size = bin_side_length / 2
     geometries = []
     popups = []
 
     for _, row in hotspots.iterrows():
         lat, lon = row['Latitude'], row['Longitude']
         rank = row['Center Rank']
+
+        city_center_name = find_submarket(lat, lon)
 
         square = Polygon([
             (lon - half_bin_size, lat - half_bin_size),
@@ -383,7 +407,8 @@ if market != 'All':
         geometries.append(square)
 
         popups.append(
-            f"City Center #{rank}<br>"
+            f"<b>{city_center_name}</b><br><br>"
+            f"Rank: {rank}<br>"
             f"Market: {row['MarketName']}<br>"
             f"Lat: {lat}<br>"
             f"Lon: {lon}<br>"
@@ -396,7 +421,7 @@ if market != 'All':
         'geometry': geometries
     })
 
-    m.add_gdf(gdf, layer_name='City Centers', info_mode='on_click', fill_color='black', fill_opacity=0.5, show=False)
+    m.add_gdf(gdf, layer_name='City Centers', info_mode='on_click', stroke_color='black', fill_opacity=0.5, show=True)
 
 m.to_streamlit(height=700)
 
