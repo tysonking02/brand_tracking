@@ -254,7 +254,9 @@ counts   = filtered['manager'].value_counts()
 eligible = counts[counts >= 5].index.tolist()
 managers = sorted(eligible)
 
-manager_select = st.sidebar.multiselect("Management", managers, default=['Cortland'])
+default_manager = ['Cortland'] if 'Cortland' in managers else [managers[0]]
+
+manager_select = st.sidebar.multiselect("Management", managers, default=default_manager)
 
 filtered = filtered[filtered['manager'].isin(manager_select)]
 
