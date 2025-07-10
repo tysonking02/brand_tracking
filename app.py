@@ -54,6 +54,15 @@ with st.sidebar.expander(label='Heatmap Settings'):
         help="Controls the size of city center detection bins"
     )
 
+    num_city_centers = st.slider(
+        "Number of City Centers",
+        min_value=1,
+        max_value=10,
+        value=3,
+        step=1,
+        help="Controls the number of city centers to calculate"
+    )
+
 # Calculate city centers with dynamic bin size
 df['lat'] = round((df['Latitude'] / bin_side_length).round() * bin_side_length, 3)
 df['lon'] = round((df['Longitude'] / bin_side_length).round() * bin_side_length, 3)
@@ -72,7 +81,7 @@ tile_density = tile_density[tile_density['total_assets'] >= 3]
 top_tiles = (
     tile_density.sort_values(['MarketName', 'total_units'], ascending=[True, False])
     .groupby('MarketName')
-    .head(3)
+    .head(num_city_centers)
     .copy()
 )
 
